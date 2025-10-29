@@ -14,11 +14,13 @@ interface HandwritingCanvasProps {
 const HandwritingCanvas = ({ correctCharacter, onSubmit, showResult, isCorrect }: HandwritingCanvasProps) => {
   // HanziWriter Quiz Mode (NEW - Testing)
   const quizContainerRef = useRef<HTMLDivElement>(null);
+  const quizWrapperRef = useRef<HTMLDivElement>(null);
   const writerRef = useRef<any>(null);
   const [useQuizMode, setUseQuizMode] = useState(true); // Toggle between quiz and canvas
   const [quizStarted, setQuizStarted] = useState(false);
   const [totalMistakes, setTotalMistakes] = useState(0);
   const [currentStrokeNum, setCurrentStrokeNum] = useState(0);
+  const [quizSize, setQuizSize] = useState(320);
 
   // Old Canvas Mode (Keep for fallback)
   const canvasRef = useRef<HTMLCanvasElement>(null);
@@ -84,9 +86,35 @@ const HandwritingCanvas = ({ correctCharacter, onSubmit, showResult, isCorrect }
     return () => window.removeEventListener('resize', resizeCanvas);
   }, [strokes]);
 
+  useEffect(() => {
+    const updateQuizSize = () => {
+      if (!quizWrapperRef.current) return;
+      const availableWidth = quizWrapperRef.current.getBoundingClientRect().width;
+      if (!availableWidth) return;
+      const newSize = Math.min(Math.max(Math.round(availableWidth), 220), 400);
+      setQuizSize(prev => (prev === newSize ? prev : newSize));
+    };
+
+    updateQuizSize();
+
+    let observer: ResizeObserver | null = null;
+    if (typeof ResizeObserver !== 'undefined' && quizWrapperRef.current) {
+      observer = new ResizeObserver(() => updateQuizSize());
+      observer.observe(quizWrapperRef.current);
+    }
+
+    window.addEventListener('resize', updateQuizSize);
+    return () => {
+      window.removeEventListener('resize', updateQuizSize);
+      if (observer) {
+        observer.disconnect();
+      }
+    };
+  }, [useQuizMode, correctCharacter]);
+
   // HanziWriter Quiz Mode Setup
   useEffect(() => {
-    if (!useQuizMode || !isKanji() || !quizContainerRef.current) return;
+    if (!useQuizMode || !isKanji() || !quizContainerRef.current || !quizSize) return;
 
     setQuizStarted(false);
     setTotalMistakes(0);
@@ -104,8 +132,8 @@ const HandwritingCanvas = ({ correctCharacter, onSubmit, showResult, isCorrect }
     // Create HanziWriter instance
     try {
       writerRef.current = HanziWriter.create(quizContainerRef.current, correctCharacter, {
-        width: 400,
-        height: 400,
+        width: quizSize,
+        height: quizSize,
         padding: 20,
         strokeColor: '#4F46E5',
         radicalColor: '#7C3AED',
@@ -124,7 +152,7 @@ const HandwritingCanvas = ({ correctCharacter, onSubmit, showResult, isCorrect }
         writerRef.current.cancelQuiz();
       }
     };
-  }, [correctCharacter, useQuizMode]);
+  }, [correctCharacter, useQuizMode, quizSize]);
 
   // Start Quiz
   const startQuiz = () => {
@@ -301,7 +329,7 @@ const HandwritingCanvas = ({ correctCharacter, onSubmit, showResult, isCorrect }
   );
 
   return (
-    <div className="space-y-4">
+    <div className="space-y-4 w-full max-w-[640px] mx-auto">
       {/* Target Character Display */}
       <div className="text-center mb-4">
         <p className="text-slate-600 dark:text-slate-400 mb-2">Draw this character:</p>
@@ -359,14 +387,19 @@ const HandwritingCanvas = ({ correctCharacter, onSubmit, showResult, isCorrect }
           {/* Quiz Container */}
           <div className="relative flex justify-center">
             <div
-              ref={quizContainerRef}
-              className="hanzi-writer-container card border-4 border-blue-500"
-              style={{
-                width: 400,
-                height: 400,
-                position: 'relative'
-              }}
-            />
+              ref={quizWrapperRef}
+              className="w-full max-w-[280px] sm:max-w-[320px] lg:max-w-[400px] mx-auto px-2 sm:px-0"
+            >
+              <div
+                ref={quizContainerRef}
+                className="hanzi-writer-container card border-4 border-blue-500 mx-auto"
+                style={{
+                  width: quizSize,
+                  height: quizSize,
+                  position: 'relative'
+                }}
+              />
+            </div>
           </div>
 
           {/* Quiz Stats */}
