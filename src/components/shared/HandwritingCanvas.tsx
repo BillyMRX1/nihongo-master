@@ -1,6 +1,6 @@
 import { useRef, useEffect, useState } from 'react';
 import { motion } from 'framer-motion';
-import { RotateCcw, Check, Lightbulb } from 'lucide-react';
+import { RotateCcw, Check, Lightbulb, X } from 'lucide-react';
 import HanziWriter from 'hanzi-writer';
 import StrokeOrderAnimation from './StrokeOrderAnimation';
 
@@ -8,9 +8,10 @@ interface HandwritingCanvasProps {
   correctCharacter: string;
   onSubmit: (isCorrect: boolean) => void;
   showResult?: boolean;
+  isCorrect?: boolean;
 }
 
-const HandwritingCanvas = ({ correctCharacter, onSubmit, showResult }: HandwritingCanvasProps) => {
+const HandwritingCanvas = ({ correctCharacter, onSubmit, showResult, isCorrect }: HandwritingCanvasProps) => {
   // HanziWriter Quiz Mode (NEW - Testing)
   const quizContainerRef = useRef<HTMLDivElement>(null);
   const writerRef = useRef<any>(null);
@@ -279,6 +280,26 @@ const HandwritingCanvas = ({ correctCharacter, onSubmit, showResult }: Handwriti
     onSubmit(hasEnoughDrawing);
   };
 
+  const resultMessage = showResult && typeof isCorrect === 'boolean' && (
+    <div
+      className={`flex items-center justify-center gap-2 text-xl font-semibold ${
+        isCorrect ? 'text-green-600 dark:text-green-400' : 'text-red-600 dark:text-red-400'
+      }`}
+    >
+      {isCorrect ? (
+        <>
+          <Check className="w-6 h-6" />
+          <span>Correct! Great work.</span>
+        </>
+      ) : (
+        <>
+          <X className="w-6 h-6" />
+          <span>Keep practicing for a better match.</span>
+        </>
+      )}
+    </div>
+  );
+
   return (
     <div className="space-y-4">
       {/* Target Character Display */}
@@ -427,6 +448,7 @@ const HandwritingCanvas = ({ correctCharacter, onSubmit, showResult }: Handwriti
           </div>
         </div>
       )}
+      {resultMessage}
     </div>
   );
 };
