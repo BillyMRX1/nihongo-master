@@ -1,0 +1,186 @@
+[
+  {
+    "id": "ach_001",
+    "name": "First Steps",
+    "description": "Complete your first learning session",
+    "icon": "🎯",
+    "xpReward": 10,
+    "condition": {"type": "sessions", "target": 1}
+  },
+  {
+    "id": "ach_002",
+    "name": "Week Warrior",
+    "description": "Maintain a 7-day study streak",
+    "icon": "🔥",
+    "xpReward": 100,
+    "condition": {"type": "streak", "target": 7}
+  },
+  {
+    "id": "ach_003",
+    "name": "Month Master",
+    "description": "Maintain a 30-day study streak",
+    "icon": "⭐",
+    "xpReward": 500,
+    "condition": {"type": "streak", "target": 30}
+  },
+  {
+    "id": "ach_004",
+    "name": "Century Scholar",
+    "description": "Maintain a 100-day study streak",
+    "icon": "👑",
+    "xpReward": 2000,
+    "condition": {"type": "streak", "target": 100}
+  },
+  {
+    "id": "ach_005",
+    "name": "Hiragana Hero",
+    "description": "Master all Hiragana characters",
+    "icon": "あ",
+    "xpReward": 200,
+    "condition": {"type": "mastery", "target": 71}
+  },
+  {
+    "id": "ach_006",
+    "name": "Katakana Champion",
+    "description": "Master all Katakana characters",
+    "icon": "ア",
+    "xpReward": 200,
+    "condition": {"type": "mastery", "target": 71}
+  },
+  {
+    "id": "ach_007",
+    "name": "Kanji Novice",
+    "description": "Master 10 Kanji characters",
+    "icon": "日",
+    "xpReward": 150,
+    "condition": {"type": "mastery", "target": 10}
+  },
+  {
+    "id": "ach_008",
+    "name": "Kanji Apprentice",
+    "description": "Master 50 Kanji characters",
+    "icon": "本",
+    "xpReward": 300,
+    "condition": {"type": "mastery", "target": 50}
+  },
+  {
+    "id": "ach_009",
+    "name": "Kanji Master",
+    "description": "Master 100 Kanji characters",
+    "icon": "学",
+    "xpReward": 1000,
+    "condition": {"type": "mastery", "target": 100}
+  },
+  {
+    "id": "ach_010",
+    "name": "Kanji Legend",
+    "description": "Master 500 Kanji characters",
+    "icon": "龍",
+    "xpReward": 5000,
+    "condition": {"type": "mastery", "target": 500}
+  },
+  {
+    "id": "ach_011",
+    "name": "Perfectionist",
+    "description": "Complete a session with 100% accuracy",
+    "icon": "💯",
+    "xpReward": 50,
+    "condition": {"type": "accuracy", "target": 100}
+  },
+  {
+    "id": "ach_012",
+    "name": "Speed Demon",
+    "description": "Answer 10 questions in under 30 seconds",
+    "icon": "⚡",
+    "xpReward": 100,
+    "condition": {"type": "speed", "target": 3000}
+  },
+  {
+    "id": "ach_013",
+    "name": "Marathon Runner",
+    "description": "Study for 60 minutes in one session",
+    "icon": "🏃",
+    "xpReward": 200,
+    "condition": {"type": "time", "target": 60}
+  },
+  {
+    "id": "ach_014",
+    "name": "Night Owl",
+    "description": "Study after midnight",
+    "icon": "🦉",
+    "xpReward": 25,
+    "condition": {"type": "time", "target": 0}
+  },
+  {
+    "id": "ach_015",
+    "name": "Early Bird",
+    "description": "Study before 6 AM",
+    "icon": "🌅",
+    "xpReward": 25,
+    "condition": {"type": "time", "target": 6}
+  },
+  {
+    "id": "ach_016",
+    "name": "XP Millionaire",
+    "description": "Earn 1,000,000 total XP",
+    "icon": "💎",
+    "xpReward": 10000,
+    "condition": {"type": "total_xp", "target": 1000000}
+  },
+  {
+    "id": "ach_017",
+    "name": "Dedicated Learner",
+    "description": "Complete 100 study sessions",
+    "icon": "📚",
+    "xpReward": 500,
+    "condition": {"type": "sessions", "target": 100}
+  },
+  {
+    "id": "ach_018",
+    "name": "Super Learner",
+    "description": "Complete 500 study sessions",
+    "icon": "🎓",
+    "xpReward": 2000,
+    "condition": {"type": "sessions", "target": 500}
+  },
+  {
+    "id": "ach_019",
+    "name": "N5 Master",
+    "description": "Master all N5 Kanji",
+    "icon": "🥉",
+    "xpReward": 300,
+    "condition": {"type": "mastery", "target": 80}
+  },
+  {
+    "id": "ach_020",
+    "name": "N4 Master",
+    "description": "Master all N4 Kanji",
+    "icon": "🥈",
+    "xpReward": 600,
+    "condition": {"type": "mastery", "target": 150}
+  },
+  {
+    "id": "ach_021",
+    "name": "N3 Master",
+    "description": "Master all N3 Kanji",
+    "icon": "🥇",
+    "xpReward": 1200,
+    "condition": {"type": "mastery", "target": 300}
+  },
+  {
+    "id": "ach_022",
+    "name": "N2 Master",
+    "description": "Master all N2 Kanji",
+    "icon": "🏅",
+    "xpReward": 2500,
+    "condition": {"type": "mastery", "target": 600}
+  },
+  {
+    "id": "ach_023",
+    "name": "N1 Master",
+    "description": "Master all N1 Kanji",
+    "icon": "👨‍🎓",
+    "xpReward": 5000,
+    "condition": {"type": "mastery", "target": 1000}
+  }
+]

@@ -1,0 +1,10506 @@
+[
+  {
+    "id": "kj_n3_001",
+    "character": "才",
+    "romaji": "さい",
+    "type": "kanji",
+    "meanings": [
+      "Genius",
+      "Years Old",
+      "Cubic Shaku"
+    ],
+    "kunReading": [],
+    "onReading": [
+      "さい"
+    ],
+    "strokes": 3,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Cross",
+      "Slide"
+    ],
+    "examples": [],
+    "mnemonic": "Genius - 3 strokes."
+  },
+  {
+    "id": "kj_n3_126",
+    "character": "亡",
+    "romaji": "ない",
+    "type": "kanji",
+    "meanings": [
+      "Deceased",
+      "The Late",
+      "Dying",
+      "Perish"
+    ],
+    "kunReading": [
+      "な.い",
+      "な.き-",
+      "ほろ.びる",
+      "ほろ.ぶ",
+      "ほろ.ぼす"
+    ],
+    "onReading": [
+      "ぼう",
+      "もう"
+    ],
+    "strokes": 3,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Death"
+    ],
+    "examples": [],
+    "mnemonic": "Deceased - 3 strokes."
+  },
+  {
+    "id": "kj_n3_281",
+    "character": "与",
+    "romaji": "あたえる",
+    "type": "kanji",
+    "meanings": [
+      "Bestow",
+      "Participate In",
+      "Give",
+      "Award",
+      "Impart",
+      "Provide",
+      "Cause",
+      "Gift",
+      "Godsend"
+    ],
+    "kunReading": [
+      "あた.える",
+      "あずか.る",
+      "くみ.する",
+      "ともに"
+    ],
+    "onReading": [
+      "よ"
+    ],
+    "strokes": 3,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Beggar",
+      "Ground"
+    ],
+    "examples": [],
+    "mnemonic": "Bestow - 3 strokes."
+  },
+  {
+    "id": "kj_n3_002",
+    "character": "王",
+    "romaji": "おう",
+    "type": "kanji",
+    "meanings": [
+      "King",
+      "Rule",
+      "Magnate"
+    ],
+    "kunReading": [],
+    "onReading": [
+      "おう",
+      "-のう"
+    ],
+    "strokes": 4,
+    "jlptLevel": "N3",
+    "radicals": [
+      "King"
+    ],
+    "examples": [],
+    "mnemonic": "King - 4 strokes."
+  },
+  {
+    "id": "kj_n3_004",
+    "character": "内",
+    "romaji": "うち",
+    "type": "kanji",
+    "meanings": [
+      "Inside",
+      "Within",
+      "Between",
+      "Among",
+      "House",
+      "Home"
+    ],
+    "kunReading": [
+      "うち"
+    ],
+    "onReading": [
+      "ない",
+      "だい"
+    ],
+    "strokes": 4,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Head",
+      "Person"
+    ],
+    "examples": [],
+    "mnemonic": "Inside - 4 strokes."
+  },
+  {
+    "id": "kj_n3_005",
+    "character": "太",
+    "romaji": "ふとい",
+    "type": "kanji",
+    "meanings": [
+      "Plump",
+      "Thick",
+      "Big Around"
+    ],
+    "kunReading": [
+      "ふと.い",
+      "ふと.る"
+    ],
+    "onReading": [
+      "たい",
+      "た"
+    ],
+    "strokes": 4,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Big",
+      "Drop"
+    ],
+    "examples": [],
+    "mnemonic": "Plump - 4 strokes."
+  },
+  {
+    "id": "kj_n3_006",
+    "character": "引",
+    "romaji": "ひく",
+    "type": "kanji",
+    "meanings": [
+      "Pull",
+      "Tug",
+      "Jerk",
+      "Admit",
+      "Install",
+      "Quote",
+      "Refer To"
+    ],
+    "kunReading": [
+      "ひ.く",
+      "ひ.き",
+      "ひ.き-",
+      "-び.き",
+      "ひ.ける"
+    ],
+    "onReading": [
+      "いん"
+    ],
+    "strokes": 4,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Bow",
+      "Stick"
+    ],
+    "examples": [],
+    "mnemonic": "Pull - 4 strokes."
+  },
+  {
+    "id": "kj_n3_023",
+    "character": "化",
+    "romaji": "ばける",
+    "type": "kanji",
+    "meanings": [
+      "Change",
+      "Take The Form Of",
+      "Influence",
+      "Enchant",
+      "Delude",
+      "-ization"
+    ],
+    "kunReading": [
+      "ば.ける",
+      "ば.かす",
+      "ふ.ける",
+      "け.する"
+    ],
+    "onReading": [
+      "か",
+      "け"
+    ],
+    "strokes": 4,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Leader",
+      "Spoon"
+    ],
+    "examples": [],
+    "mnemonic": "Change - 4 strokes."
+  },
+  {
+    "id": "kj_n3_034",
+    "character": "欠",
+    "romaji": "かける",
+    "type": "kanji",
+    "meanings": [
+      "Lack",
+      "Gap",
+      "Fail",
+      "Yawning Radical (no. 76)"
+    ],
+    "kunReading": [
+      "か.ける",
+      "か.く"
+    ],
+    "onReading": [
+      "けつ",
+      "けん"
+    ],
+    "strokes": 4,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Lack"
+    ],
+    "examples": [],
+    "mnemonic": "Lack - 4 strokes."
+  },
+  {
+    "id": "kj_n3_046",
+    "character": "支",
+    "romaji": "ささえる",
+    "type": "kanji",
+    "meanings": [
+      "Branch",
+      "Support",
+      "Sustain",
+      "Branch Radical (no. 65)"
+    ],
+    "kunReading": [
+      "ささ.える",
+      "つか.える",
+      "か.う"
+    ],
+    "onReading": [
+      "し"
+    ],
+    "strokes": 4,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Branch"
+    ],
+    "examples": [],
+    "mnemonic": "Branch - 4 strokes."
+  },
+  {
+    "id": "kj_n3_128",
+    "character": "予",
+    "romaji": "あらかじめ",
+    "type": "kanji",
+    "meanings": [
+      "Beforehand",
+      "Previous",
+      "Myself",
+      "I"
+    ],
+    "kunReading": [
+      "あらかじ.め"
+    ],
+    "onReading": [
+      "よ",
+      "しゃ"
+    ],
+    "strokes": 4,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Mama",
+      "Street"
+    ],
+    "examples": [],
+    "mnemonic": "Beforehand - 4 strokes."
+  },
+  {
+    "id": "kj_n3_129",
+    "character": "反",
+    "romaji": "そる",
+    "type": "kanji",
+    "meanings": [
+      "Anti-"
+    ],
+    "kunReading": [
+      "そ.る",
+      "そ.らす",
+      "かえ.す",
+      "かえ.る",
+      "-かえ.る"
+    ],
+    "onReading": [
+      "はん",
+      "ほん",
+      "たん",
+      "ほ"
+    ],
+    "strokes": 4,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Cliff",
+      "Stool"
+    ],
+    "examples": [],
+    "mnemonic": "Anti- - 4 strokes."
+  },
+  {
+    "id": "kj_n3_165",
+    "character": "夫",
+    "romaji": "おっと",
+    "type": "kanji",
+    "meanings": [
+      "Husband",
+      "Man"
+    ],
+    "kunReading": [
+      "おっと",
+      "それ"
+    ],
+    "onReading": [
+      "ふ",
+      "ふう",
+      "ぶ"
+    ],
+    "strokes": 4,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Husband"
+    ],
+    "examples": [],
+    "mnemonic": "Husband - 4 strokes."
+  },
+  {
+    "id": "kj_n3_266",
+    "character": "収",
+    "romaji": "おさめる",
+    "type": "kanji",
+    "meanings": [
+      "Income",
+      "Obtain",
+      "Reap",
+      "Pay",
+      "Supply",
+      "Store"
+    ],
+    "kunReading": [
+      "おさ.める",
+      "おさ.まる"
+    ],
+    "onReading": [
+      "しゅう"
+    ],
+    "strokes": 4,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Vines",
+      "Stool"
+    ],
+    "examples": [],
+    "mnemonic": "Income - 4 strokes."
+  },
+  {
+    "id": "kj_n3_349",
+    "character": "互",
+    "romaji": "たがい",
+    "type": "kanji",
+    "meanings": [
+      "Mutually",
+      "Reciprocally",
+      "Together"
+    ],
+    "kunReading": [
+      "たが.い",
+      "かたみ.に"
+    ],
+    "onReading": [
+      "ご"
+    ],
+    "strokes": 4,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Ground",
+      "Shuriken"
+    ],
+    "examples": [],
+    "mnemonic": "Mutually - 4 strokes."
+  },
+  {
+    "id": "kj_n3_003",
+    "character": "石",
+    "romaji": "いし",
+    "type": "kanji",
+    "meanings": [
+      "Stone"
+    ],
+    "kunReading": [
+      "いし"
+    ],
+    "onReading": [
+      "せき",
+      "しゃく",
+      "こく"
+    ],
+    "strokes": 5,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Stone"
+    ],
+    "examples": [],
+    "mnemonic": "Stone - 5 strokes."
+  },
+  {
+    "id": "kj_n3_007",
+    "character": "市",
+    "romaji": "いち",
+    "type": "kanji",
+    "meanings": [
+      "Market",
+      "City",
+      "Town"
+    ],
+    "kunReading": [
+      "いち"
+    ],
+    "onReading": [
+      "し"
+    ],
+    "strokes": 5,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Lid",
+      "Towel"
+    ],
+    "examples": [],
+    "mnemonic": "Market - 5 strokes."
+  },
+  {
+    "id": "kj_n3_008",
+    "character": "他",
+    "romaji": "ほか",
+    "type": "kanji",
+    "meanings": [
+      "Other",
+      "Another",
+      "The Others"
+    ],
+    "kunReading": [
+      "ほか"
+    ],
+    "onReading": [
+      "た"
+    ],
+    "strokes": 5,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Leader",
+      "Alligator"
+    ],
+    "examples": [],
+    "mnemonic": "Other - 5 strokes."
+  },
+  {
+    "id": "kj_n3_009",
+    "character": "号",
+    "romaji": "さけぶ",
+    "type": "kanji",
+    "meanings": [
+      "Nickname",
+      "Number",
+      "Item",
+      "Title",
+      "Pseudonym",
+      "Name",
+      "Call"
+    ],
+    "kunReading": [
+      "さけ.ぶ",
+      "よびな"
+    ],
+    "onReading": [
+      "ごう"
+    ],
+    "strokes": 5,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Mouth",
+      "Ground",
+      "Prison"
+    ],
+    "examples": [],
+    "mnemonic": "Nickname - 5 strokes."
+  },
+  {
+    "id": "kj_n3_010",
+    "character": "平",
+    "romaji": "たいら",
+    "type": "kanji",
+    "meanings": [
+      "Even",
+      "Flat",
+      "Peace"
+    ],
+    "kunReading": [
+      "たい.ら",
+      "-だいら",
+      "ひら",
+      "ひら-"
+    ],
+    "onReading": [
+      "へい",
+      "びょう",
+      "ひょう"
+    ],
+    "strokes": 5,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Dry",
+      "Horns"
+    ],
+    "examples": [],
+    "mnemonic": "Even - 5 strokes."
+  },
+  {
+    "id": "kj_n3_011",
+    "character": "打",
+    "romaji": "うつ",
+    "type": "kanji",
+    "meanings": [
+      "Strike",
+      "Hit",
+      "Knock",
+      "Pound",
+      "Dozen"
+    ],
+    "kunReading": [
+      "う.つ",
+      "う.ち-",
+      "ぶ.つ"
+    ],
+    "onReading": [
+      "だ",
+      "だあす"
+    ],
+    "strokes": 5,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Fingers",
+      "Street"
+    ],
+    "examples": [],
+    "mnemonic": "Strike - 5 strokes."
+  },
+  {
+    "id": "kj_n3_012",
+    "character": "申",
+    "romaji": "もうす",
+    "type": "kanji",
+    "meanings": [
+      "Have The Honor To",
+      "Sign Of The Monkey",
+      "3-5pm",
+      "Ninth Sign Of Chinese Zodiac"
+    ],
+    "kunReading": [
+      "もう.す",
+      "もう.し-",
+      "さる"
+    ],
+    "onReading": [
+      "しん"
+    ],
+    "strokes": 5,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Cross",
+      "Mouth"
+    ],
+    "examples": [],
+    "mnemonic": "Have The Honor To - 5 strokes."
+  },
+  {
+    "id": "kj_n3_013",
+    "character": "礼",
+    "romaji": "れい",
+    "type": "kanji",
+    "meanings": [
+      "Salute",
+      "Bow",
+      "Ceremony",
+      "Thanks",
+      "Remuneration"
+    ],
+    "kunReading": [],
+    "onReading": [
+      "れい",
+      "らい"
+    ],
+    "strokes": 5,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Spirit",
+      "Umbrella"
+    ],
+    "examples": [],
+    "mnemonic": "Salute - 5 strokes."
+  },
+  {
+    "id": "kj_n3_035",
+    "character": "由",
+    "romaji": "yoし",
+    "type": "kanji",
+    "meanings": [
+      "Wherefore",
+      "A Reason"
+    ],
+    "kunReading": [
+      "よし",
+      "よ.る"
+    ],
+    "onReading": [
+      "ゆ",
+      "ゆう",
+      "ゆい"
+    ],
+    "strokes": 5,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Cross",
+      "Mouth"
+    ],
+    "examples": [],
+    "mnemonic": "Wherefore - 5 strokes."
+  },
+  {
+    "id": "kj_n3_036",
+    "character": "民",
+    "romaji": "たmi",
+    "type": "kanji",
+    "meanings": [
+      "People",
+      "Nation",
+      "Subjects"
+    ],
+    "kunReading": [
+      "たみ"
+    ],
+    "onReading": [
+      "みん"
+    ],
+    "strokes": 5,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Mouth",
+      "Clan"
+    ],
+    "examples": [],
+    "mnemonic": "People - 5 strokes."
+  },
+  {
+    "id": "kj_n3_037",
+    "character": "付",
+    "romaji": "つける",
+    "type": "kanji",
+    "meanings": [
+      "Adhere",
+      "Attach",
+      "Refer To",
+      "Append"
+    ],
+    "kunReading": [
+      "つ.ける",
+      "-つ.ける",
+      "-づ.ける",
+      "つ.け",
+      "つ.け-",
+      "-つ.け",
+      "-づ.け",
+      "-づけ",
+      "つ.く",
+      "-づ.く",
+      "つ.き",
+      "-つ.き",
+      "-つき",
+      "-づ.き",
+      "-づき"
+    ],
+    "onReading": [
+      "ふ"
+    ],
+    "strokes": 5,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Leader",
+      "Measurement"
+    ],
+    "examples": [],
+    "mnemonic": "Adhere - 5 strokes."
+  },
+  {
+    "id": "kj_n3_038",
+    "character": "失",
+    "romaji": "うしなう",
+    "type": "kanji",
+    "meanings": [
+      "Lose",
+      "Error",
+      "Fault",
+      "Disadvantage",
+      "Loss"
+    ],
+    "kunReading": [
+      "うしな.う",
+      "う.せる"
+    ],
+    "onReading": [
+      "しつ"
+    ],
+    "strokes": 5,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Slide",
+      "Husband"
+    ],
+    "examples": [],
+    "mnemonic": "Lose - 5 strokes."
+  },
+  {
+    "id": "kj_n3_039",
+    "character": "必",
+    "romaji": "かならず",
+    "type": "kanji",
+    "meanings": [
+      "Invariably",
+      "Certain",
+      "Inevitable"
+    ],
+    "kunReading": [
+      "かなら.ず"
+    ],
+    "onReading": [
+      "ひつ"
+    ],
+    "strokes": 5,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Heart",
+      "Slide"
+    ],
+    "examples": [],
+    "mnemonic": "Invariably - 5 strokes."
+  },
+  {
+    "id": "kj_n3_040",
+    "character": "未",
+    "romaji": "いまだ",
+    "type": "kanji",
+    "meanings": [
+      "Un-",
+      "Not Yet",
+      "Hitherto",
+      "Still",
+      "Even Now",
+      "Sign Of The Ram",
+      "1-3pm",
+      "Eighth Sign Of Chinese Zodiac"
+    ],
+    "kunReading": [
+      "いま.だ",
+      "ま.だ",
+      "ひつじ"
+    ],
+    "onReading": [
+      "み",
+      "び"
+    ],
+    "strokes": 5,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Jet"
+    ],
+    "examples": [],
+    "mnemonic": "Un- - 5 strokes."
+  },
+  {
+    "id": "kj_n3_041",
+    "character": "末",
+    "romaji": "すえ",
+    "type": "kanji",
+    "meanings": [
+      "End",
+      "Close",
+      "Tip",
+      "Powder",
+      "Posterity"
+    ],
+    "kunReading": [
+      "すえ"
+    ],
+    "onReading": [
+      "まつ",
+      "ばつ"
+    ],
+    "strokes": 5,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Jet"
+    ],
+    "examples": [],
+    "mnemonic": "End - 5 strokes."
+  },
+  {
+    "id": "kj_n3_216",
+    "character": "加",
+    "romaji": "くわえる",
+    "type": "kanji",
+    "meanings": [
+      "Add",
+      "Addition",
+      "Increase",
+      "Join",
+      "Include",
+      "Canada"
+    ],
+    "kunReading": [
+      "くわ.える",
+      "くわ.わる"
+    ],
+    "onReading": [
+      "か"
+    ],
+    "strokes": 5,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Power",
+      "Mouth"
+    ],
+    "examples": [],
+    "mnemonic": "Add - 5 strokes."
+  },
+  {
+    "id": "kj_n3_239",
+    "character": "犯",
+    "romaji": "おかす",
+    "type": "kanji",
+    "meanings": [
+      "Crime",
+      "Sin",
+      "Offense"
+    ],
+    "kunReading": [
+      "おか.す"
+    ],
+    "onReading": [
+      "はん",
+      "ぼん"
+    ],
+    "strokes": 5,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Animal",
+      "Snake"
+    ],
+    "examples": [],
+    "mnemonic": "Crime - 5 strokes."
+  },
+  {
+    "id": "kj_n3_261",
+    "character": "示",
+    "romaji": "しめす",
+    "type": "kanji",
+    "meanings": [
+      "Show",
+      "Indicate",
+      "Point Out",
+      "Express",
+      "Display"
+    ],
+    "kunReading": [
+      "しめ.す"
+    ],
+    "onReading": [
+      "じ",
+      "し"
+    ],
+    "strokes": 5,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Jackhammer"
+    ],
+    "examples": [],
+    "mnemonic": "Show - 5 strokes."
+  },
+  {
+    "id": "kj_n3_306",
+    "character": "処",
+    "romaji": "ところ",
+    "type": "kanji",
+    "meanings": [
+      "Dispose",
+      "Manage",
+      "Deal With",
+      "Sentence",
+      "Condemn",
+      "Act",
+      "Behave",
+      "Place"
+    ],
+    "kunReading": [
+      "ところ",
+      "-こ",
+      "お.る"
+    ],
+    "onReading": [
+      "しょ"
+    ],
+    "strokes": 5,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Winter",
+      "Table"
+    ],
+    "examples": [],
+    "mnemonic": "Dispose - 5 strokes."
+  },
+  {
+    "id": "kj_n3_337",
+    "character": "込",
+    "romaji": "こmu",
+    "type": "kanji",
+    "meanings": [
+      "Crowded",
+      "Mixture",
+      "In Bulk",
+      "Included",
+      "(kokuji)"
+    ],
+    "kunReading": [
+      "-こ.む",
+      "こ.む",
+      "こ.み",
+      "-こ.み",
+      "こ.める"
+    ],
+    "onReading": [],
+    "strokes": 5,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Scooter",
+      "Enter"
+    ],
+    "examples": [],
+    "mnemonic": "Crowded - 5 strokes."
+  },
+  {
+    "id": "kj_n3_352",
+    "character": "払",
+    "romaji": "はらう",
+    "type": "kanji",
+    "meanings": [
+      "Pay",
+      "Clear Out",
+      "Prune",
+      "Banish",
+      "Dispose Of"
+    ],
+    "kunReading": [
+      "はら.う",
+      "-はら.い",
+      "-ばら.い"
+    ],
+    "onReading": [
+      "ふつ",
+      "ひつ",
+      "ほつ"
+    ],
+    "strokes": 5,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Fingers",
+      "Private"
+    ],
+    "examples": [],
+    "mnemonic": "Pay - 5 strokes."
+  },
+  {
+    "id": "kj_n3_014",
+    "character": "耳",
+    "romaji": "mimi",
+    "type": "kanji",
+    "meanings": [
+      "Ear"
+    ],
+    "kunReading": [
+      "みみ"
+    ],
+    "onReading": [
+      "じ"
+    ],
+    "strokes": 6,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Ear"
+    ],
+    "examples": [],
+    "mnemonic": "Ear - 6 strokes."
+  },
+  {
+    "id": "kj_n3_015",
+    "character": "交",
+    "romaji": "まじわる",
+    "type": "kanji",
+    "meanings": [
+      "Mingle",
+      "Mixing",
+      "Association",
+      "Coming & Going"
+    ],
+    "kunReading": [
+      "まじ.わる",
+      "まじ.える",
+      "ま.じる",
+      "まじ.る",
+      "ま.ざる",
+      "ま.ぜる",
+      "-か.う",
+      "か.わす",
+      "かわ.す",
+      "こもごも"
+    ],
+    "onReading": [
+      "こう"
+    ],
+    "strokes": 6,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Lid",
+      "Father"
+    ],
+    "examples": [],
+    "mnemonic": "Mingle - 6 strokes."
+  },
+  {
+    "id": "kj_n3_016",
+    "character": "光",
+    "romaji": "ひかる",
+    "type": "kanji",
+    "meanings": [
+      "Ray",
+      "Light"
+    ],
+    "kunReading": [
+      "ひか.る",
+      "ひかり"
+    ],
+    "onReading": [
+      "こう"
+    ],
+    "strokes": 6,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Triceratops",
+      "Pi"
+    ],
+    "examples": [],
+    "mnemonic": "Ray - 6 strokes."
+  },
+  {
+    "id": "kj_n3_017",
+    "character": "回",
+    "romaji": "まわる",
+    "type": "kanji",
+    "meanings": [
+      "-times",
+      "Round",
+      "Game",
+      "Revolve",
+      "Counter For Occurrences"
+    ],
+    "kunReading": [
+      "まわ.る",
+      "-まわ.る",
+      "-まわ.り",
+      "まわ.す",
+      "-まわ.す",
+      "まわ.し-",
+      "-まわ.し",
+      "もとお.る",
+      "か.える"
+    ],
+    "onReading": [
+      "かい",
+      "え"
+    ],
+    "strokes": 6,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Mouth"
+    ],
+    "examples": [],
+    "mnemonic": "-times - 6 strokes."
+  },
+  {
+    "id": "kj_n3_018",
+    "character": "当",
+    "romaji": "あたる",
+    "type": "kanji",
+    "meanings": [
+      "Hit",
+      "Right",
+      "Appropriate",
+      "Himself"
+    ],
+    "kunReading": [
+      "あ.たる",
+      "あ.たり",
+      "あ.てる",
+      "あ.て",
+      "まさ.に",
+      "まさ.にべし"
+    ],
+    "onReading": [
+      "とう"
+    ],
+    "strokes": 6,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Triceratops",
+      "Wolverine"
+    ],
+    "examples": [],
+    "mnemonic": "Hit - 6 strokes."
+  },
+  {
+    "id": "kj_n3_019",
+    "character": "米",
+    "romaji": "こめ",
+    "type": "kanji",
+    "meanings": [
+      "Rice",
+      "Usa",
+      "Metre"
+    ],
+    "kunReading": [
+      "こめ",
+      "よね"
+    ],
+    "onReading": [
+      "べい",
+      "まい",
+      "めえとる"
+    ],
+    "strokes": 6,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Rice"
+    ],
+    "examples": [],
+    "mnemonic": "Rice - 6 strokes."
+  },
+  {
+    "id": "kj_n3_024",
+    "character": "両",
+    "romaji": "てる",
+    "type": "kanji",
+    "meanings": [
+      "Both",
+      "Old Japanese Coin",
+      "Counter For Carriages (e.g., In A Train)",
+      "Two"
+    ],
+    "kunReading": [
+      "てる",
+      "ふたつ"
+    ],
+    "onReading": [
+      "りょう"
+    ],
+    "strokes": 6,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Ground",
+      "Head",
+      "Mountain"
+    ],
+    "examples": [],
+    "mnemonic": "Both - 6 strokes."
+  },
+  {
+    "id": "kj_n3_025",
+    "character": "全",
+    "romaji": "まったく",
+    "type": "kanji",
+    "meanings": [
+      "Whole",
+      "Entire",
+      "All",
+      "Complete",
+      "Fulfill"
+    ],
+    "kunReading": [
+      "まった.く",
+      "すべ.て"
+    ],
+    "onReading": [
+      "ぜん"
+    ],
+    "strokes": 6,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Hat",
+      "King"
+    ],
+    "examples": [],
+    "mnemonic": "Whole - 6 strokes."
+  },
+  {
+    "id": "kj_n3_026",
+    "character": "向",
+    "romaji": "muく",
+    "type": "kanji",
+    "meanings": [
+      "Yonder",
+      "Facing",
+      "Beyond",
+      "Confront",
+      "Defy",
+      "Tend Toward",
+      "Approach"
+    ],
+    "kunReading": [
+      "む.く",
+      "む.い",
+      "-む.き",
+      "む.ける",
+      "-む.け",
+      "む.かう",
+      "む.かい",
+      "む.こう",
+      "む.こう-",
+      "むこ",
+      "むか.い"
+    ],
+    "onReading": [
+      "こう"
+    ],
+    "strokes": 6,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Drop",
+      "Head",
+      "Mouth"
+    ],
+    "examples": [],
+    "mnemonic": "Yonder - 6 strokes."
+  },
+  {
+    "id": "kj_n3_027",
+    "character": "曲",
+    "romaji": "まがる",
+    "type": "kanji",
+    "meanings": [
+      "Bend",
+      "Music",
+      "Melody",
+      "Composition",
+      "Pleasure",
+      "Injustice",
+      "Fault",
+      "Curve",
+      "Crooked",
+      "Perverse",
+      "Lean"
+    ],
+    "kunReading": [
+      "ま.がる",
+      "ま.げる",
+      "くま"
+    ],
+    "onReading": [
+      "きょく"
+    ],
+    "strokes": 6,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Mouth",
+      "Twenty"
+    ],
+    "examples": [],
+    "mnemonic": "Bend - 6 strokes."
+  },
+  {
+    "id": "kj_n3_028",
+    "character": "次",
+    "romaji": "つぐ",
+    "type": "kanji",
+    "meanings": [
+      "Next",
+      "Order",
+      "Sequence"
+    ],
+    "kunReading": [
+      "つ.ぐ",
+      "つぎ"
+    ],
+    "onReading": [
+      "じ",
+      "し"
+    ],
+    "strokes": 6,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Ice",
+      "Lack"
+    ],
+    "examples": [],
+    "mnemonic": "Next - 6 strokes."
+  },
+  {
+    "id": "kj_n3_089",
+    "character": "争",
+    "romaji": "あらそう",
+    "type": "kanji",
+    "meanings": [
+      "Contend",
+      "Dispute",
+      "Argue"
+    ],
+    "kunReading": [
+      "あらそ.う",
+      "いか.でか"
+    ],
+    "onReading": [
+      "そう"
+    ],
+    "strokes": 6,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Prison",
+      "Wolverine",
+      "Barb"
+    ],
+    "examples": [],
+    "mnemonic": "Contend - 6 strokes."
+  },
+  {
+    "id": "kj_n3_090",
+    "character": "伝",
+    "romaji": "つたわる",
+    "type": "kanji",
+    "meanings": [
+      "Transmit",
+      "Go Along",
+      "Walk Along",
+      "Follow",
+      "Report",
+      "Communicate",
+      "Legend",
+      "Tradition"
+    ],
+    "kunReading": [
+      "つた.わる",
+      "つた.える",
+      "つた.う",
+      "つだ.う",
+      "-づた.い",
+      "つて"
+    ],
+    "onReading": [
+      "でん",
+      "てん"
+    ],
+    "strokes": 6,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Leader",
+      "Cloud"
+    ],
+    "examples": [],
+    "mnemonic": "Transmit - 6 strokes."
+  },
+  {
+    "id": "kj_n3_091",
+    "character": "共",
+    "romaji": "とも",
+    "type": "kanji",
+    "meanings": [
+      "Together",
+      "Both",
+      "Neither",
+      "All",
+      "And",
+      "Alike",
+      "With"
+    ],
+    "kunReading": [
+      "とも",
+      "とも.に",
+      "-ども"
+    ],
+    "onReading": [
+      "きょう"
+    ],
+    "strokes": 6,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Blackjack",
+      "Fins"
+    ],
+    "examples": [],
+    "mnemonic": "Together - 6 strokes."
+  },
+  {
+    "id": "kj_n3_092",
+    "character": "好",
+    "romaji": "このmu",
+    "type": "kanji",
+    "meanings": [
+      "Fond",
+      "Pleasing",
+      "Like Something"
+    ],
+    "kunReading": [
+      "この.む",
+      "す.く",
+      "よ.い",
+      "い.い"
+    ],
+    "onReading": [
+      "こう"
+    ],
+    "strokes": 6,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Woman",
+      "Child"
+    ],
+    "examples": [],
+    "mnemonic": "Fond - 6 strokes."
+  },
+  {
+    "id": "kj_n3_093",
+    "character": "成",
+    "romaji": "なる",
+    "type": "kanji",
+    "meanings": [
+      "Turn Into",
+      "Become",
+      "Get",
+      "Grow",
+      "Elapse",
+      "Reach"
+    ],
+    "kunReading": [
+      "な.る",
+      "な.す",
+      "-な.す"
+    ],
+    "onReading": [
+      "せい",
+      "じょう"
+    ],
+    "strokes": 6,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Drunkard",
+      "Sword"
+    ],
+    "examples": [],
+    "mnemonic": "Turn Into - 6 strokes."
+  },
+  {
+    "id": "kj_n3_094",
+    "character": "老",
+    "romaji": "おいる",
+    "type": "kanji",
+    "meanings": [
+      "Old Man",
+      "Old Age",
+      "Grow Old"
+    ],
+    "kunReading": [
+      "お.いる",
+      "ふ.ける"
+    ],
+    "onReading": [
+      "ろう"
+    ],
+    "strokes": 6,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Coffin",
+      "Spoon"
+    ],
+    "examples": [],
+    "mnemonic": "Old Man - 6 strokes."
+  },
+  {
+    "id": "kj_n3_127",
+    "character": "合",
+    "romaji": "あう",
+    "type": "kanji",
+    "meanings": [
+      "Fit",
+      "Suit",
+      "Join",
+      "0.1"
+    ],
+    "kunReading": [
+      "あ.う",
+      "-あ.う",
+      "あ.い",
+      "あい-",
+      "-あ.い",
+      "-あい",
+      "あ.わす",
+      "あ.わせる",
+      "-あ.わせる"
+    ],
+    "onReading": [
+      "ごう",
+      "がっ",
+      "かっ"
+    ],
+    "strokes": 6,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Suit"
+    ],
+    "examples": [],
+    "mnemonic": "Fit - 6 strokes."
+  },
+  {
+    "id": "kj_n3_160",
+    "character": "列",
+    "romaji": "れつ",
+    "type": "kanji",
+    "meanings": [
+      "File",
+      "Row",
+      "Rank",
+      "Tier",
+      "Column"
+    ],
+    "kunReading": [],
+    "onReading": [
+      "れつ",
+      "れ"
+    ],
+    "strokes": 6,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Yakuza",
+      "Knife"
+    ],
+    "examples": [],
+    "mnemonic": "File - 6 strokes."
+  },
+  {
+    "id": "kj_n3_161",
+    "character": "式",
+    "romaji": "しき",
+    "type": "kanji",
+    "meanings": [
+      "Style",
+      "Ceremony",
+      "Rite",
+      "Function",
+      "Method",
+      "System",
+      "Form",
+      "Expression"
+    ],
+    "kunReading": [],
+    "onReading": [
+      "しき"
+    ],
+    "strokes": 6,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Ceremony",
+      "Construction"
+    ],
+    "examples": [],
+    "mnemonic": "Style - 6 strokes."
+  },
+  {
+    "id": "kj_n3_174",
+    "character": "守",
+    "romaji": "まもる",
+    "type": "kanji",
+    "meanings": [
+      "Guard",
+      "Protect",
+      "Defend",
+      "Obey"
+    ],
+    "kunReading": [
+      "まも.る",
+      "まも.り",
+      "もり",
+      "-もり",
+      "かみ"
+    ],
+    "onReading": [
+      "しゅ",
+      "す"
+    ],
+    "strokes": 6,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Roof",
+      "Measurement"
+    ],
+    "examples": [],
+    "mnemonic": "Guard - 6 strokes."
+  },
+  {
+    "id": "kj_n3_186",
+    "character": "危",
+    "romaji": "あぶない",
+    "type": "kanji",
+    "meanings": [
+      "Dangerous",
+      "Fear",
+      "Uneasy"
+    ],
+    "kunReading": [
+      "あぶ.ない",
+      "あや.うい",
+      "あや.ぶむ"
+    ],
+    "onReading": [
+      "き"
+    ],
+    "strokes": 6,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Prison",
+      "Cliff",
+      "Snake"
+    ],
+    "examples": [],
+    "mnemonic": "Dangerous - 6 strokes."
+  },
+  {
+    "id": "kj_n3_187",
+    "character": "存",
+    "romaji": "ながらえる",
+    "type": "kanji",
+    "meanings": [
+      "Exist",
+      "Suppose",
+      "Be Aware Of",
+      "Believe",
+      "Feel"
+    ],
+    "kunReading": [
+      "ながら.える",
+      "あ.る",
+      "たも.つ",
+      "と.う"
+    ],
+    "onReading": [
+      "そん",
+      "ぞん"
+    ],
+    "strokes": 6,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Narwhal",
+      "Stick",
+      "Child"
+    ],
+    "examples": [],
+    "mnemonic": "Exist - 6 strokes."
+  },
+  {
+    "id": "kj_n3_194",
+    "character": "因",
+    "romaji": "yoる",
+    "type": "kanji",
+    "meanings": [
+      "Cause",
+      "Factor",
+      "Be Associated With",
+      "Depend On",
+      "Be Limited To"
+    ],
+    "kunReading": [
+      "よ.る",
+      "ちな.む"
+    ],
+    "onReading": [
+      "いん"
+    ],
+    "strokes": 6,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Mouth",
+      "Big"
+    ],
+    "examples": [],
+    "mnemonic": "Cause - 6 strokes."
+  },
+  {
+    "id": "kj_n3_221",
+    "character": "忙",
+    "romaji": "いそがしい",
+    "type": "kanji",
+    "meanings": [
+      "Busy",
+      "Occupied",
+      "Restless"
+    ],
+    "kunReading": [
+      "いそが.しい",
+      "せわ.しい",
+      "おそ.れる",
+      "うれえるさま"
+    ],
+    "onReading": [
+      "ぼう",
+      "もう"
+    ],
+    "strokes": 6,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Soul",
+      "Death"
+    ],
+    "examples": [],
+    "mnemonic": "Busy - 6 strokes."
+  },
+  {
+    "id": "kj_n3_233",
+    "character": "在",
+    "romaji": "ある",
+    "type": "kanji",
+    "meanings": [
+      "Exist",
+      "Outskirts",
+      "Suburbs",
+      "Located In"
+    ],
+    "kunReading": [
+      "あ.る"
+    ],
+    "onReading": [
+      "ざい"
+    ],
+    "strokes": 6,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Narwhal",
+      "Stick",
+      "Dirt"
+    ],
+    "examples": [],
+    "mnemonic": "Exist - 6 strokes."
+  },
+  {
+    "id": "kj_n3_249",
+    "character": "件",
+    "romaji": "くだん",
+    "type": "kanji",
+    "meanings": [
+      "Affair",
+      "Case",
+      "Matter",
+      "Item"
+    ],
+    "kunReading": [
+      "くだん"
+    ],
+    "onReading": [
+      "けん"
+    ],
+    "strokes": 6,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Leader",
+      "Cow"
+    ],
+    "examples": [],
+    "mnemonic": "Affair - 6 strokes."
+  },
+  {
+    "id": "kj_n3_251",
+    "character": "任",
+    "romaji": "まかせる",
+    "type": "kanji",
+    "meanings": [
+      "Responsibility",
+      "Duty",
+      "Term",
+      "Entrust To",
+      "Appoint"
+    ],
+    "kunReading": [
+      "まか.せる",
+      "まか.す"
+    ],
+    "onReading": [
+      "にん"
+    ],
+    "strokes": 6,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Leader",
+      "King"
+    ],
+    "examples": [],
+    "mnemonic": "Responsibility - 6 strokes."
+  },
+  {
+    "id": "kj_n3_264",
+    "character": "吸",
+    "romaji": "すう",
+    "type": "kanji",
+    "meanings": [
+      "Suck",
+      "Imbibe",
+      "Inhale",
+      "Sip"
+    ],
+    "kunReading": [
+      "す.う"
+    ],
+    "onReading": [
+      "きゅう"
+    ],
+    "strokes": 6,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Mouth",
+      "Escalator"
+    ],
+    "examples": [],
+    "mnemonic": "Suck - 6 strokes."
+  },
+  {
+    "id": "kj_n3_274",
+    "character": "宅",
+    "romaji": "たく",
+    "type": "kanji",
+    "meanings": [
+      "Home",
+      "House",
+      "Residence",
+      "Our House",
+      "My Husband"
+    ],
+    "kunReading": [],
+    "onReading": [
+      "たく"
+    ],
+    "strokes": 6,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Roof",
+      "Slide",
+      "Seven"
+    ],
+    "examples": [],
+    "mnemonic": "Home - 6 strokes."
+  },
+  {
+    "id": "kj_n3_020",
+    "character": "声",
+    "romaji": "こえ",
+    "type": "kanji",
+    "meanings": [
+      "Voice"
+    ],
+    "kunReading": [
+      "こえ",
+      "こわ-"
+    ],
+    "onReading": [
+      "せい",
+      "しょう"
+    ],
+    "strokes": 7,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Samurai",
+      "Flag",
+      "Stick"
+    ],
+    "examples": [],
+    "mnemonic": "Voice - 7 strokes."
+  },
+  {
+    "id": "kj_n3_021",
+    "character": "形",
+    "romaji": "かた",
+    "type": "kanji",
+    "meanings": [
+      "Shape",
+      "Form",
+      "Style"
+    ],
+    "kunReading": [
+      "かた",
+      "-がた",
+      "かたち",
+      "なり"
+    ],
+    "onReading": [
+      "けい",
+      "ぎょう"
+    ],
+    "strokes": 7,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Lantern",
+      "Hair"
+    ],
+    "examples": [],
+    "mnemonic": "Shape - 7 strokes."
+  },
+  {
+    "id": "kj_n3_047",
+    "character": "助",
+    "romaji": "たすける",
+    "type": "kanji",
+    "meanings": [
+      "Help",
+      "Rescue",
+      "Assist"
+    ],
+    "kunReading": [
+      "たす.ける",
+      "たす.かる",
+      "す.ける",
+      "すけ"
+    ],
+    "onReading": [
+      "じょ"
+    ],
+    "strokes": 7,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Top Hat",
+      "Power"
+    ],
+    "examples": [],
+    "mnemonic": "Help - 7 strokes."
+  },
+  {
+    "id": "kj_n3_048",
+    "character": "君",
+    "romaji": "きmi",
+    "type": "kanji",
+    "meanings": [
+      "Mister",
+      "You",
+      "Ruler",
+      "Male Name Suffix"
+    ],
+    "kunReading": [
+      "きみ",
+      "-ぎみ"
+    ],
+    "onReading": [
+      "くん"
+    ],
+    "strokes": 7,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Wolverine",
+      "Slide",
+      "Mouth"
+    ],
+    "examples": [],
+    "mnemonic": "Mister - 7 strokes."
+  },
+  {
+    "id": "kj_n3_049",
+    "character": "対",
+    "romaji": "あいて",
+    "type": "kanji",
+    "meanings": [
+      "Vis-a-vis",
+      "Opposite",
+      "Even",
+      "Equal",
+      "Versus",
+      "Anti-",
+      "Compare"
+    ],
+    "kunReading": [
+      "あいて",
+      "こた.える",
+      "そろ.い",
+      "つれあ.い",
+      "なら.ぶ",
+      "むか.う"
+    ],
+    "onReading": [
+      "たい",
+      "つい"
+    ],
+    "strokes": 7,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Writing",
+      "Measurement"
+    ],
+    "examples": [],
+    "mnemonic": "Vis-a-vis - 7 strokes."
+  },
+  {
+    "id": "kj_n3_050",
+    "character": "局",
+    "romaji": "つぼね",
+    "type": "kanji",
+    "meanings": [
+      "Bureau",
+      "Board",
+      "Office",
+      "Affair",
+      "Conclusion",
+      "Court Lady",
+      "Lady-in-waiting",
+      "Her Apartment"
+    ],
+    "kunReading": [
+      "つぼね"
+    ],
+    "onReading": [
+      "きょく"
+    ],
+    "strokes": 7,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Flag",
+      "Cape",
+      "Mouth"
+    ],
+    "examples": [],
+    "mnemonic": "Bureau - 7 strokes."
+  },
+  {
+    "id": "kj_n3_051",
+    "character": "役",
+    "romaji": "yaく",
+    "type": "kanji",
+    "meanings": [
+      "Duty",
+      "War",
+      "Campaign",
+      "Drafted Labor",
+      "Office",
+      "Service",
+      "Role"
+    ],
+    "kunReading": [],
+    "onReading": [
+      "やく",
+      "えき"
+    ],
+    "strokes": 7,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Loiter",
+      "Weapon"
+    ],
+    "examples": [],
+    "mnemonic": "Duty - 7 strokes."
+  },
+  {
+    "id": "kj_n3_052",
+    "character": "投",
+    "romaji": "なげる",
+    "type": "kanji",
+    "meanings": [
+      "Throw",
+      "Discard",
+      "Abandon",
+      "Launch Into",
+      "Join",
+      "Invest In",
+      "Hurl",
+      "Give Up",
+      "Sell At A Loss"
+    ],
+    "kunReading": [
+      "な.げる",
+      "-な.げ"
+    ],
+    "onReading": [
+      "とう"
+    ],
+    "strokes": 7,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Fingers",
+      "Weapon"
+    ],
+    "examples": [],
+    "mnemonic": "Throw - 7 strokes."
+  },
+  {
+    "id": "kj_n3_053",
+    "character": "決",
+    "romaji": "きめる",
+    "type": "kanji",
+    "meanings": [
+      "Decide",
+      "Fix",
+      "Agree Upon",
+      "Appoint"
+    ],
+    "kunReading": [
+      "き.める",
+      "-ぎ.め",
+      "き.まる",
+      "さ.く"
+    ],
+    "onReading": [
+      "けつ"
+    ],
+    "strokes": 7,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Tsunami",
+      "Person",
+      "Hook"
+    ],
+    "examples": [],
+    "mnemonic": "Decide - 7 strokes."
+  },
+  {
+    "id": "kj_n3_095",
+    "character": "位",
+    "romaji": "くらい",
+    "type": "kanji",
+    "meanings": [
+      "Rank",
+      "Grade",
+      "Throne",
+      "Crown",
+      "About",
+      "Some"
+    ],
+    "kunReading": [
+      "くらい",
+      "ぐらい"
+    ],
+    "onReading": [
+      "い"
+    ],
+    "strokes": 7,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Leader",
+      "Stand"
+    ],
+    "examples": [],
+    "mnemonic": "Rank - 7 strokes."
+  },
+  {
+    "id": "kj_n3_096",
+    "character": "初",
+    "romaji": "はじめ",
+    "type": "kanji",
+    "meanings": [
+      "First Time",
+      "Beginning"
+    ],
+    "kunReading": [
+      "はじ.め",
+      "はじ.めて",
+      "はつ",
+      "はつ-",
+      "うい-",
+      "-そ.める",
+      "-ぞ.め"
+    ],
+    "onReading": [
+      "しょ"
+    ],
+    "strokes": 7,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Spirit",
+      "Sword"
+    ],
+    "examples": [],
+    "mnemonic": "First Time - 7 strokes."
+  },
+  {
+    "id": "kj_n3_097",
+    "character": "利",
+    "romaji": "きく",
+    "type": "kanji",
+    "meanings": [
+      "Profit",
+      "Advantage",
+      "Benefit"
+    ],
+    "kunReading": [
+      "き.く"
+    ],
+    "onReading": [
+      "り"
+    ],
+    "strokes": 7,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Grain",
+      "Knife"
+    ],
+    "examples": [],
+    "mnemonic": "Profit - 7 strokes."
+  },
+  {
+    "id": "kj_n3_098",
+    "character": "努",
+    "romaji": "つとめる",
+    "type": "kanji",
+    "meanings": [
+      "Toil",
+      "Diligent",
+      "As Much As Possible"
+    ],
+    "kunReading": [
+      "つと.める"
+    ],
+    "onReading": [
+      "ど"
+    ],
+    "strokes": 7,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Woman",
+      "Stool",
+      "Power"
+    ],
+    "examples": [],
+    "mnemonic": "Toil - 7 strokes."
+  },
+  {
+    "id": "kj_n3_099",
+    "character": "労",
+    "romaji": "ろうする",
+    "type": "kanji",
+    "meanings": [
+      "Labor",
+      "Thank For",
+      "Reward For",
+      "Toil",
+      "Trouble"
+    ],
+    "kunReading": [
+      "ろう.する",
+      "いたわ.る",
+      "いた.ずき",
+      "ねぎら",
+      "つか.れる",
+      "ねぎら.う"
+    ],
+    "onReading": [
+      "ろう"
+    ],
+    "strokes": 7,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Viking",
+      "Power"
+    ],
+    "examples": [],
+    "mnemonic": "Labor - 7 strokes."
+  },
+  {
+    "id": "kj_n3_108",
+    "character": "良",
+    "romaji": "yoい",
+    "type": "kanji",
+    "meanings": [
+      "Good",
+      "Pleasing",
+      "Skilled"
+    ],
+    "kunReading": [
+      "よ.い",
+      "-よ.い",
+      "い.い",
+      "-い.い"
+    ],
+    "onReading": [
+      "りょう"
+    ],
+    "strokes": 7,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Drop",
+      "Root"
+    ],
+    "examples": [],
+    "mnemonic": "Good - 7 strokes."
+  },
+  {
+    "id": "kj_n3_130",
+    "character": "返",
+    "romaji": "かえす",
+    "type": "kanji",
+    "meanings": [
+      "Return",
+      "Answer",
+      "Fade",
+      "Repay"
+    ],
+    "kunReading": [
+      "かえ.す",
+      "-かえ.す",
+      "かえ.る",
+      "-かえ.る"
+    ],
+    "onReading": [
+      "へん"
+    ],
+    "strokes": 7,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Scooter",
+      "Anti"
+    ],
+    "examples": [],
+    "mnemonic": "Return - 7 strokes."
+  },
+  {
+    "id": "kj_n3_147",
+    "character": "完",
+    "romaji": "かん",
+    "type": "kanji",
+    "meanings": [
+      "Perfect",
+      "Completion",
+      "End"
+    ],
+    "kunReading": [],
+    "onReading": [
+      "かん"
+    ],
+    "strokes": 7,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Roof",
+      "Origin"
+    ],
+    "examples": [],
+    "mnemonic": "Perfect - 7 strokes."
+  },
+  {
+    "id": "kj_n3_149",
+    "character": "折",
+    "romaji": "おる",
+    "type": "kanji",
+    "meanings": [
+      "Fold",
+      "Break",
+      "Fracture",
+      "Bend",
+      "Yield",
+      "Submit"
+    ],
+    "kunReading": [
+      "お.る",
+      "おり",
+      "お.り",
+      "-お.り",
+      "お.れる"
+    ],
+    "onReading": [
+      "せつ",
+      "しゃく"
+    ],
+    "strokes": 7,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Fingers",
+      "Axe"
+    ],
+    "examples": [],
+    "mnemonic": "Fold - 7 strokes."
+  },
+  {
+    "id": "kj_n3_151",
+    "character": "束",
+    "romaji": "たば",
+    "type": "kanji",
+    "meanings": [
+      "Bundle",
+      "Sheaf",
+      "Ream",
+      "Tie In Bundles",
+      "Govern",
+      "Manage",
+      "Control"
+    ],
+    "kunReading": [
+      "たば",
+      "たば.ねる",
+      "つか",
+      "つか.ねる"
+    ],
+    "onReading": [
+      "そく"
+    ],
+    "strokes": 7,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Bundle"
+    ],
+    "examples": [],
+    "mnemonic": "Bundle - 7 strokes."
+  },
+  {
+    "id": "kj_n3_153",
+    "character": "求",
+    "romaji": "もとめる",
+    "type": "kanji",
+    "meanings": [
+      "Request",
+      "Want",
+      "Wish For",
+      "Require",
+      "Demand"
+    ],
+    "kunReading": [
+      "もと.める"
+    ],
+    "onReading": [
+      "きゅう",
+      "ぐ"
+    ],
+    "strokes": 7,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Ground",
+      "Water",
+      "Drop"
+    ],
+    "examples": [],
+    "mnemonic": "Request - 7 strokes."
+  },
+  {
+    "id": "kj_n3_204",
+    "character": "告",
+    "romaji": "つげる",
+    "type": "kanji",
+    "meanings": [
+      "Revelation",
+      "Tell",
+      "Inform",
+      "Announce"
+    ],
+    "kunReading": [
+      "つ.げる"
+    ],
+    "onReading": [
+      "こく"
+    ],
+    "strokes": 7,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Slide",
+      "Dirt",
+      "Mouth"
+    ],
+    "examples": [],
+    "mnemonic": "Revelation - 7 strokes."
+  },
+  {
+    "id": "kj_n3_211",
+    "character": "忘",
+    "romaji": "わすれる",
+    "type": "kanji",
+    "meanings": [
+      "Forget"
+    ],
+    "kunReading": [
+      "わす.れる"
+    ],
+    "onReading": [
+      "ぼう"
+    ],
+    "strokes": 7,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Death",
+      "Heart"
+    ],
+    "examples": [],
+    "mnemonic": "Forget - 7 strokes."
+  },
+  {
+    "id": "kj_n3_226",
+    "character": "困",
+    "romaji": "こまる",
+    "type": "kanji",
+    "meanings": [
+      "Quandary",
+      "Become Distressed",
+      "Annoyed"
+    ],
+    "kunReading": [
+      "こま.る"
+    ],
+    "onReading": [
+      "こん"
+    ],
+    "strokes": 7,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Mouth",
+      "Tree"
+    ],
+    "examples": [],
+    "mnemonic": "Quandary - 7 strokes."
+  },
+  {
+    "id": "kj_n3_230",
+    "character": "余",
+    "romaji": "あまる",
+    "type": "kanji",
+    "meanings": [
+      "Too Much",
+      "Myself",
+      "Surplus",
+      "Other",
+      "Remainder"
+    ],
+    "kunReading": [
+      "あま.る",
+      "あま.り",
+      "あま.す",
+      "あんま.り"
+    ],
+    "onReading": [
+      "よ"
+    ],
+    "strokes": 7,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Hat",
+      "Jackhammer"
+    ],
+    "examples": [],
+    "mnemonic": "Too Much - 7 strokes."
+  },
+  {
+    "id": "kj_n3_244",
+    "character": "判",
+    "romaji": "わかる",
+    "type": "kanji",
+    "meanings": [
+      "Judgement",
+      "Signature",
+      "Stamp",
+      "Seal"
+    ],
+    "kunReading": [
+      "わか.る"
+    ],
+    "onReading": [
+      "はん",
+      "ばん"
+    ],
+    "strokes": 7,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Half",
+      "Knife"
+    ],
+    "examples": [],
+    "mnemonic": "Judgement - 7 strokes."
+  },
+  {
+    "id": "kj_n3_265",
+    "character": "状",
+    "romaji": "じょう",
+    "type": "kanji",
+    "meanings": [
+      "Status Quo",
+      "Conditions",
+      "Circumstances",
+      "Form",
+      "Appearance"
+    ],
+    "kunReading": [],
+    "onReading": [
+      "じょう"
+    ],
+    "strokes": 7,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Icicle",
+      "Dog"
+    ],
+    "examples": [],
+    "mnemonic": "Status Quo - 7 strokes."
+  },
+  {
+    "id": "kj_n3_284",
+    "character": "抜",
+    "romaji": "ぬく",
+    "type": "kanji",
+    "meanings": [
+      "Slip Out",
+      "Extract",
+      "Pull Out",
+      "Pilfer",
+      "Quote",
+      "Remove",
+      "Omit"
+    ],
+    "kunReading": [
+      "ぬ.く",
+      "-ぬ.く",
+      "ぬ.き",
+      "ぬ.ける",
+      "ぬ.かす",
+      "ぬ.かる"
+    ],
+    "onReading": [
+      "ばつ",
+      "はつ",
+      "はい"
+    ],
+    "strokes": 7,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Fingers",
+      "Friend"
+    ],
+    "examples": [],
+    "mnemonic": "Slip Out - 7 strokes."
+  },
+  {
+    "id": "kj_n3_305",
+    "character": "冷",
+    "romaji": "つめたい",
+    "type": "kanji",
+    "meanings": [
+      "Cool",
+      "Cold (beer, Person)",
+      "Chill"
+    ],
+    "kunReading": [
+      "つめ.たい",
+      "ひ.える",
+      "ひ.や",
+      "ひ.ややか",
+      "ひ.やす",
+      "ひ.やかす",
+      "さ.める",
+      "さ.ます"
+    ],
+    "onReading": [
+      "れい"
+    ],
+    "strokes": 7,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Ice",
+      "Orders"
+    ],
+    "examples": [],
+    "mnemonic": "Cool - 7 strokes."
+  },
+  {
+    "id": "kj_n3_322",
+    "character": "更",
+    "romaji": "さら",
+    "type": "kanji",
+    "meanings": [
+      "Grow Late",
+      "Night Watch",
+      "Sit Up Late",
+      "Of Course",
+      "Renew",
+      "Renovate",
+      "Again",
+      "More And More",
+      "Further"
+    ],
+    "kunReading": [
+      "さら",
+      "さら.に",
+      "ふ.ける",
+      "ふ.かす"
+    ],
+    "onReading": [
+      "こう"
+    ],
+    "strokes": 7,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Ground",
+      "Rice Paddy",
+      "Treasure"
+    ],
+    "examples": [],
+    "mnemonic": "Grow Late - 7 strokes."
+  },
+  {
+    "id": "kj_n3_330",
+    "character": "似",
+    "romaji": "にる",
+    "type": "kanji",
+    "meanings": [
+      "Becoming",
+      "Resemble",
+      "Counterfeit",
+      "Imitate",
+      "Suitable"
+    ],
+    "kunReading": [
+      "に.る",
+      "ひ.る"
+    ],
+    "onReading": [
+      "じ"
+    ],
+    "strokes": 7,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Leader",
+      "Lion",
+      "Drop",
+      "Person"
+    ],
+    "examples": [],
+    "mnemonic": "Becoming - 7 strokes."
+  },
+  {
+    "id": "kj_n3_333",
+    "character": "迎",
+    "romaji": "muかえる",
+    "type": "kanji",
+    "meanings": [
+      "Welcome",
+      "Meet",
+      "Greet"
+    ],
+    "kunReading": [
+      "むか.える"
+    ],
+    "onReading": [
+      "げい"
+    ],
+    "strokes": 7,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Scooter",
+      "Cat Pirate"
+    ],
+    "examples": [],
+    "mnemonic": "Welcome - 7 strokes."
+  },
+  {
+    "id": "kj_n3_341",
+    "character": "否",
+    "romaji": "いな",
+    "type": "kanji",
+    "meanings": [
+      "Negate",
+      "No",
+      "Noes",
+      "Refuse",
+      "Decline",
+      "Deny"
+    ],
+    "kunReading": [
+      "いな",
+      "いや"
+    ],
+    "onReading": [
+      "ひ"
+    ],
+    "strokes": 7,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Not",
+      "Mouth"
+    ],
+    "examples": [],
+    "mnemonic": "Negate - 7 strokes."
+  },
+  {
+    "id": "kj_n3_355",
+    "character": "戻",
+    "romaji": "もどす",
+    "type": "kanji",
+    "meanings": [
+      "Re-",
+      "Return",
+      "Revert",
+      "Resume",
+      "Restore",
+      "Go Backwards"
+    ],
+    "kunReading": [
+      "もど.す",
+      "もど.る"
+    ],
+    "onReading": [
+      "れい"
+    ],
+    "strokes": 7,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Door",
+      "Big"
+    ],
+    "examples": [],
+    "mnemonic": "Re- - 7 strokes."
+  },
+  {
+    "id": "kj_n3_360",
+    "character": "吹",
+    "romaji": "ふく",
+    "type": "kanji",
+    "meanings": [
+      "Blow",
+      "Breathe",
+      "Puff",
+      "Emit",
+      "Smoke"
+    ],
+    "kunReading": [
+      "ふ.く"
+    ],
+    "onReading": [
+      "すい"
+    ],
+    "strokes": 7,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Mouth",
+      "Lack"
+    ],
+    "examples": [],
+    "mnemonic": "Blow - 7 strokes."
+  },
+  {
+    "id": "kj_n3_029",
+    "character": "直",
+    "romaji": "ただちに",
+    "type": "kanji",
+    "meanings": [
+      "Straightaway",
+      "Honesty",
+      "Frankness",
+      "Fix",
+      "Repair"
+    ],
+    "kunReading": [
+      "ただ.ちに",
+      "なお.す",
+      "-なお.す",
+      "なお.る",
+      "なお.き",
+      "す.ぐ"
+    ],
+    "onReading": [
+      "ちょく",
+      "じき",
+      "じか"
+    ],
+    "strokes": 8,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Lion",
+      "Cross",
+      "Eye"
+    ],
+    "examples": [],
+    "mnemonic": "Straightaway - 8 strokes."
+  },
+  {
+    "id": "kj_n3_058",
+    "character": "所",
+    "romaji": "ところ",
+    "type": "kanji",
+    "meanings": [
+      "Place",
+      "Extent"
+    ],
+    "kunReading": [
+      "ところ",
+      "-ところ",
+      "どころ",
+      "とこ"
+    ],
+    "onReading": [
+      "しょ"
+    ],
+    "strokes": 8,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Door",
+      "Axe"
+    ],
+    "examples": [],
+    "mnemonic": "Place - 8 strokes."
+  },
+  {
+    "id": "kj_n3_059",
+    "character": "具",
+    "romaji": "そなえる",
+    "type": "kanji",
+    "meanings": [
+      "Tool",
+      "Utensil",
+      "Means",
+      "Possess",
+      "Ingredients",
+      "Counter For Armor, Suits, Sets Of Furniture"
+    ],
+    "kunReading": [
+      "そな.える",
+      "つぶさ.に"
+    ],
+    "onReading": [
+      "ぐ"
+    ],
+    "strokes": 8,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Eye",
+      "Ground",
+      "Fins"
+    ],
+    "examples": [],
+    "mnemonic": "Tool - 8 strokes."
+  },
+  {
+    "id": "kj_n3_060",
+    "character": "受",
+    "romaji": "うける",
+    "type": "kanji",
+    "meanings": [
+      "Accept",
+      "Undergo",
+      "Answer (phone)",
+      "Take",
+      "Get",
+      "Catch",
+      "Receive"
+    ],
+    "kunReading": [
+      "う.ける",
+      "-う.け",
+      "う.かる"
+    ],
+    "onReading": [
+      "じゅ"
+    ],
+    "strokes": 8,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Cleat",
+      "Forehead",
+      "Stool"
+    ],
+    "examples": [],
+    "mnemonic": "Accept - 8 strokes."
+  },
+  {
+    "id": "kj_n3_061",
+    "character": "和",
+    "romaji": "yaわらぐ",
+    "type": "kanji",
+    "meanings": [
+      "Harmony",
+      "Japanese Style",
+      "Peace",
+      "Soften",
+      "Japan"
+    ],
+    "kunReading": [
+      "やわ.らぐ",
+      "やわ.らげる",
+      "なご.む",
+      "なご.やか",
+      "あ.える"
+    ],
+    "onReading": [
+      "わ",
+      "お",
+      "か"
+    ],
+    "strokes": 8,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Grain",
+      "Mouth"
+    ],
+    "examples": [],
+    "mnemonic": "Harmony - 8 strokes."
+  },
+  {
+    "id": "kj_n3_062",
+    "character": "定",
+    "romaji": "さだめる",
+    "type": "kanji",
+    "meanings": [
+      "Determine",
+      "Fix",
+      "Establish",
+      "Decide"
+    ],
+    "kunReading": [
+      "さだ.める",
+      "さだ.まる",
+      "さだ.か"
+    ],
+    "onReading": [
+      "てい",
+      "じょう"
+    ],
+    "strokes": 8,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Roof",
+      "Correct"
+    ],
+    "examples": [],
+    "mnemonic": "Determine - 8 strokes."
+  },
+  {
+    "id": "kj_n3_063",
+    "character": "実",
+    "romaji": "mi",
+    "type": "kanji",
+    "meanings": [
+      "Reality",
+      "Truth"
+    ],
+    "kunReading": [
+      "み",
+      "みの.る",
+      "まこと",
+      "みの",
+      "みち.る"
+    ],
+    "onReading": [
+      "じつ",
+      "しつ"
+    ],
+    "strokes": 8,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Roof",
+      "Spring"
+    ],
+    "examples": [],
+    "mnemonic": "Reality - 8 strokes."
+  },
+  {
+    "id": "kj_n3_064",
+    "character": "泳",
+    "romaji": "おyoぐ",
+    "type": "kanji",
+    "meanings": [
+      "Swim"
+    ],
+    "kunReading": [
+      "およ.ぐ"
+    ],
+    "onReading": [
+      "えい"
+    ],
+    "strokes": 8,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Tsunami",
+      "Eternity"
+    ],
+    "examples": [],
+    "mnemonic": "Swim - 8 strokes."
+  },
+  {
+    "id": "kj_n3_065",
+    "character": "苦",
+    "romaji": "くるしい",
+    "type": "kanji",
+    "meanings": [
+      "Suffering",
+      "Trial",
+      "Worry",
+      "Hardship",
+      "Feel Bitter",
+      "Scowl"
+    ],
+    "kunReading": [
+      "くる.しい",
+      "-ぐる.しい",
+      "くる.しむ",
+      "くる.しめる",
+      "にが.い",
+      "にが.る"
+    ],
+    "onReading": [
+      "く"
+    ],
+    "strokes": 8,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Flowers",
+      "Old"
+    ],
+    "examples": [],
+    "mnemonic": "Suffering - 8 strokes."
+  },
+  {
+    "id": "kj_n3_066",
+    "character": "表",
+    "romaji": "おもて",
+    "type": "kanji",
+    "meanings": [
+      "Surface",
+      "Table",
+      "Chart",
+      "Diagram"
+    ],
+    "kunReading": [
+      "おもて",
+      "-おもて",
+      "あらわ.す",
+      "あらわ.れる",
+      "あら.わす"
+    ],
+    "onReading": [
+      "ひょう"
+    ],
+    "strokes": 8,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Life",
+      "Kick"
+    ],
+    "examples": [],
+    "mnemonic": "Surface - 8 strokes."
+  },
+  {
+    "id": "kj_n3_100",
+    "character": "命",
+    "romaji": "いのち",
+    "type": "kanji",
+    "meanings": [
+      "Fate",
+      "Command",
+      "Decree",
+      "Destiny",
+      "Life",
+      "Appoint"
+    ],
+    "kunReading": [
+      "いのち"
+    ],
+    "onReading": [
+      "めい",
+      "みょう"
+    ],
+    "strokes": 8,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Orders",
+      "Mouth"
+    ],
+    "examples": [],
+    "mnemonic": "Fate - 8 strokes."
+  },
+  {
+    "id": "kj_n3_101",
+    "character": "放",
+    "romaji": "はなす",
+    "type": "kanji",
+    "meanings": [
+      "Set Free",
+      "Release",
+      "Fire",
+      "Shoot",
+      "Emit",
+      "Banish",
+      "Liberate"
+    ],
+    "kunReading": [
+      "はな.す",
+      "-っぱな.し",
+      "はな.つ",
+      "はな.れる",
+      "こ.く",
+      "ほう.る"
+    ],
+    "onReading": [
+      "ほう"
+    ],
+    "strokes": 8,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Direction",
+      "Winter"
+    ],
+    "examples": [],
+    "mnemonic": "Set Free - 8 strokes."
+  },
+  {
+    "id": "kj_n3_102",
+    "character": "昔",
+    "romaji": "muかし",
+    "type": "kanji",
+    "meanings": [
+      "Once Upon A Time",
+      "Antiquity",
+      "Old Times"
+    ],
+    "kunReading": [
+      "むかし"
+    ],
+    "onReading": [
+      "せき",
+      "しゃく"
+    ],
+    "strokes": 8,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Blackjack",
+      "Sun"
+    ],
+    "examples": [],
+    "mnemonic": "Once Upon A Time - 8 strokes."
+  },
+  {
+    "id": "kj_n3_103",
+    "character": "育",
+    "romaji": "そだつ",
+    "type": "kanji",
+    "meanings": [
+      "Bring Up",
+      "Grow Up",
+      "Raise",
+      "Rear"
+    ],
+    "kunReading": [
+      "そだ.つ",
+      "そだ.ち",
+      "そだ.てる",
+      "はぐく.む"
+    ],
+    "onReading": [
+      "いく"
+    ],
+    "strokes": 8,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Trash",
+      "Moon"
+    ],
+    "examples": [],
+    "mnemonic": "Bring Up - 8 strokes."
+  },
+  {
+    "id": "kj_n3_145",
+    "character": "例",
+    "romaji": "たとえる",
+    "type": "kanji",
+    "meanings": [
+      "Example",
+      "Custom",
+      "Usage",
+      "Precedent"
+    ],
+    "kunReading": [
+      "たと.える"
+    ],
+    "onReading": [
+      "れい"
+    ],
+    "strokes": 8,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Leader",
+      "Yakuza",
+      "Knife"
+    ],
+    "examples": [],
+    "mnemonic": "Example - 8 strokes."
+  },
+  {
+    "id": "kj_n3_146",
+    "character": "参",
+    "romaji": "まいる",
+    "type": "kanji",
+    "meanings": [
+      "Nonplussed",
+      "Three (in Documents)",
+      "Going",
+      "Coming",
+      "Visiting",
+      "Visit",
+      "Be Defeated",
+      "Die",
+      "Be Madly In Love",
+      "Participate",
+      "Take Part In"
+    ],
+    "kunReading": [
+      "まい.る",
+      "まい-",
+      "まじわる",
+      "みつ"
+    ],
+    "onReading": [
+      "さん",
+      "しん"
+    ],
+    "strokes": 8,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Private",
+      "Big",
+      "Hair"
+    ],
+    "examples": [],
+    "mnemonic": "Nonplussed - 8 strokes."
+  },
+  {
+    "id": "kj_n3_148",
+    "character": "念",
+    "romaji": "ねん",
+    "type": "kanji",
+    "meanings": [
+      "Wish",
+      "Sense",
+      "Idea",
+      "Thought",
+      "Feeling",
+      "Desire",
+      "Attention"
+    ],
+    "kunReading": [],
+    "onReading": [
+      "ねん"
+    ],
+    "strokes": 8,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Now",
+      "Heart"
+    ],
+    "examples": [],
+    "mnemonic": "Wish - 8 strokes."
+  },
+  {
+    "id": "kj_n3_155",
+    "character": "性",
+    "romaji": "さが",
+    "type": "kanji",
+    "meanings": [
+      "Sex",
+      "Gender",
+      "Nature"
+    ],
+    "kunReading": [
+      "さが"
+    ],
+    "onReading": [
+      "せい",
+      "しょう"
+    ],
+    "strokes": 8,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Soul",
+      "Life"
+    ],
+    "examples": [],
+    "mnemonic": "Sex - 8 strokes."
+  },
+  {
+    "id": "kj_n3_167",
+    "character": "法",
+    "romaji": "のり",
+    "type": "kanji",
+    "meanings": [
+      "Method",
+      "Law",
+      "Rule",
+      "Principle",
+      "Model",
+      "System"
+    ],
+    "kunReading": [
+      "のり"
+    ],
+    "onReading": [
+      "ほう",
+      "はっ",
+      "ほっ",
+      "ふらん"
+    ],
+    "strokes": 8,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Tsunami",
+      "Past"
+    ],
+    "examples": [],
+    "mnemonic": "Method - 8 strokes."
+  },
+  {
+    "id": "kj_n3_173",
+    "character": "取",
+    "romaji": "とる",
+    "type": "kanji",
+    "meanings": [
+      "Take",
+      "Fetch",
+      "Take Up"
+    ],
+    "kunReading": [
+      "と.る",
+      "と.り",
+      "と.り-",
+      "とり",
+      "-ど.り"
+    ],
+    "onReading": [
+      "しゅ"
+    ],
+    "strokes": 8,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Ear",
+      "Stool"
+    ],
+    "examples": [],
+    "mnemonic": "Take - 8 strokes."
+  },
+  {
+    "id": "kj_n3_175",
+    "character": "幸",
+    "romaji": "さいわい",
+    "type": "kanji",
+    "meanings": [
+      "Happiness",
+      "Blessing",
+      "Fortune"
+    ],
+    "kunReading": [
+      "さいわ.い",
+      "さち",
+      "しあわ.せ"
+    ],
+    "onReading": [
+      "こう"
+    ],
+    "strokes": 8,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Lid",
+      "Spicy"
+    ],
+    "examples": [],
+    "mnemonic": "Happiness - 8 strokes."
+  },
+  {
+    "id": "kj_n3_179",
+    "character": "治",
+    "romaji": "おさめる",
+    "type": "kanji",
+    "meanings": [
+      "Reign",
+      "Be At Peace",
+      "Calm Down",
+      "Subdue",
+      "Quell",
+      "Govt",
+      "Cure",
+      "Heal",
+      "Rule",
+      "Conserve"
+    ],
+    "kunReading": [
+      "おさ.める",
+      "おさ.まる",
+      "なお.る",
+      "なお.す"
+    ],
+    "onReading": [
+      "じ",
+      "ち"
+    ],
+    "strokes": 8,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Tsunami",
+      "Machine"
+    ],
+    "examples": [],
+    "mnemonic": "Reign - 8 strokes."
+  },
+  {
+    "id": "kj_n3_193",
+    "character": "果",
+    "romaji": "はたす",
+    "type": "kanji",
+    "meanings": [
+      "Fruit",
+      "Reward",
+      "Carry Out",
+      "Achieve",
+      "Complete",
+      "End",
+      "Finish",
+      "Succeed"
+    ],
+    "kunReading": [
+      "は.たす",
+      "はた.す",
+      "-は.たす",
+      "は.てる",
+      "-は.てる",
+      "は.て"
+    ],
+    "onReading": [
+      "か"
+    ],
+    "strokes": 8,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Fruit"
+    ],
+    "examples": [],
+    "mnemonic": "Fruit - 8 strokes."
+  },
+  {
+    "id": "kj_n3_197",
+    "character": "非",
+    "romaji": "あらず",
+    "type": "kanji",
+    "meanings": [
+      "Un-",
+      "Mistake",
+      "Negative",
+      "Injustice",
+      "Non-"
+    ],
+    "kunReading": [
+      "あら.ず"
+    ],
+    "onReading": [
+      "ひ"
+    ],
+    "strokes": 8,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Criminal"
+    ],
+    "examples": [],
+    "mnemonic": "Un- - 8 strokes."
+  },
+  {
+    "id": "kj_n3_198",
+    "character": "官",
+    "romaji": "かん",
+    "type": "kanji",
+    "meanings": [
+      "Bureaucrat",
+      "The Government",
+      "Organ"
+    ],
+    "kunReading": [],
+    "onReading": [
+      "かん"
+    ],
+    "strokes": 8,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Roof",
+      "Bear"
+    ],
+    "examples": [],
+    "mnemonic": "Bureaucrat - 8 strokes."
+  },
+  {
+    "id": "kj_n3_218",
+    "character": "易",
+    "romaji": "yaさしい",
+    "type": "kanji",
+    "meanings": [
+      "Easy",
+      "Ready To",
+      "Simple",
+      "Fortune-telling",
+      "Divination"
+    ],
+    "kunReading": [
+      "やさ.しい",
+      "やす.い"
+    ],
+    "onReading": [
+      "えき",
+      "い"
+    ],
+    "strokes": 8,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Easy"
+    ],
+    "examples": [],
+    "mnemonic": "Easy - 8 strokes."
+  },
+  {
+    "id": "kj_n3_220",
+    "character": "若",
+    "romaji": "わかい",
+    "type": "kanji",
+    "meanings": [
+      "Young",
+      "If",
+      "Perhaps",
+      "Possibly",
+      "Low Number",
+      "Immature"
+    ],
+    "kunReading": [
+      "わか.い",
+      "わか-",
+      "も.しくわ",
+      "も.し",
+      "も.しくは",
+      "ごと.し"
+    ],
+    "onReading": [
+      "じゃく",
+      "にゃく",
+      "にゃ"
+    ],
+    "strokes": 8,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Flowers",
+      "Right"
+    ],
+    "examples": [],
+    "mnemonic": "Young - 8 strokes."
+  },
+  {
+    "id": "kj_n3_237",
+    "character": "妻",
+    "romaji": "つま",
+    "type": "kanji",
+    "meanings": [
+      "Wife",
+      "Spouse"
+    ],
+    "kunReading": [
+      "つま"
+    ],
+    "onReading": [
+      "さい"
+    ],
+    "strokes": 8,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Ground",
+      "Brush",
+      "Woman"
+    ],
+    "examples": [],
+    "mnemonic": "Wife - 8 strokes."
+  },
+  {
+    "id": "kj_n3_245",
+    "character": "制",
+    "romaji": "せい",
+    "type": "kanji",
+    "meanings": [
+      "System",
+      "Law",
+      "Rule"
+    ],
+    "kunReading": [],
+    "onReading": [
+      "せい"
+    ],
+    "strokes": 8,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Life",
+      "Towel",
+      "Knife"
+    ],
+    "examples": [],
+    "mnemonic": "System - 8 strokes."
+  },
+  {
+    "id": "kj_n3_276",
+    "character": "呼",
+    "romaji": "yoぶ",
+    "type": "kanji",
+    "meanings": [
+      "Call",
+      "Call Out To",
+      "Invite"
+    ],
+    "kunReading": [
+      "よ.ぶ"
+    ],
+    "onReading": [
+      "こ"
+    ],
+    "strokes": 8,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Mouth",
+      "Peace"
+    ],
+    "examples": [],
+    "mnemonic": "Call - 8 strokes."
+  },
+  {
+    "id": "kj_n3_279",
+    "character": "供",
+    "romaji": "そなえる",
+    "type": "kanji",
+    "meanings": [
+      "Submit",
+      "Offer",
+      "Present",
+      "Serve (meal)",
+      "Accompany"
+    ],
+    "kunReading": [
+      "そな.える",
+      "とも",
+      "-ども"
+    ],
+    "onReading": [
+      "きょう",
+      "く",
+      "くう",
+      "ぐ"
+    ],
+    "strokes": 8,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Leader",
+      "Together"
+    ],
+    "examples": [],
+    "mnemonic": "Submit - 8 strokes."
+  },
+  {
+    "id": "kj_n3_291",
+    "character": "居",
+    "romaji": "いる",
+    "type": "kanji",
+    "meanings": [
+      "Reside",
+      "To Be",
+      "Exist",
+      "Live With"
+    ],
+    "kunReading": [
+      "い.る",
+      "-い",
+      "お.る"
+    ],
+    "onReading": [
+      "きょ",
+      "こ"
+    ],
+    "strokes": 8,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Flag",
+      "Old"
+    ],
+    "examples": [],
+    "mnemonic": "Reside - 8 strokes."
+  },
+  {
+    "id": "kj_n3_292",
+    "character": "突",
+    "romaji": "つく",
+    "type": "kanji",
+    "meanings": [
+      "Stab",
+      "Protruding",
+      "Thrust",
+      "Pierce",
+      "Prick",
+      "Collision",
+      "Sudden"
+    ],
+    "kunReading": [
+      "つ.く"
+    ],
+    "onReading": [
+      "とつ",
+      "か"
+    ],
+    "strokes": 8,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Hole",
+      "Big"
+    ],
+    "examples": [],
+    "mnemonic": "Stab - 8 strokes."
+  },
+  {
+    "id": "kj_n3_293",
+    "character": "招",
+    "romaji": "まねく",
+    "type": "kanji",
+    "meanings": [
+      "Beckon",
+      "Invite",
+      "Summon",
+      "Engage"
+    ],
+    "kunReading": [
+      "まね.く"
+    ],
+    "onReading": [
+      "しょう"
+    ],
+    "strokes": 8,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Fingers",
+      "Call"
+    ],
+    "examples": [],
+    "mnemonic": "Beckon - 8 strokes."
+  },
+  {
+    "id": "kj_n3_311",
+    "character": "杯",
+    "romaji": "さかずき",
+    "type": "kanji",
+    "meanings": [
+      "Counter For Cupfuls",
+      "Wine Glass",
+      "Glass",
+      "Toast"
+    ],
+    "kunReading": [
+      "さかずき"
+    ],
+    "onReading": [
+      "はい"
+    ],
+    "strokes": 8,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Tree",
+      "Not"
+    ],
+    "examples": [],
+    "mnemonic": "Counter For Cupfuls - 8 strokes."
+  },
+  {
+    "id": "kj_n3_315",
+    "character": "怖",
+    "romaji": "こわい",
+    "type": "kanji",
+    "meanings": [
+      "Dreadful",
+      "Be Frightened",
+      "Fearful"
+    ],
+    "kunReading": [
+      "こわ.い",
+      "こわ.がる",
+      "お.じる",
+      "おそ.れる"
+    ],
+    "onReading": [
+      "ふ",
+      "ほ"
+    ],
+    "strokes": 8,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Soul",
+      "Narwhal",
+      "Towel"
+    ],
+    "examples": [],
+    "mnemonic": "Dreadful - 8 strokes."
+  },
+  {
+    "id": "kj_n3_321",
+    "character": "押",
+    "romaji": "おす",
+    "type": "kanji",
+    "meanings": [
+      "Push",
+      "Stop",
+      "Check",
+      "Subdue",
+      "Attach",
+      "Seize",
+      "Weight",
+      "Shove",
+      "Press",
+      "Seal",
+      "Do In Spite Of"
+    ],
+    "kunReading": [
+      "お.す",
+      "お.し-",
+      "お.っ-",
+      "お.さえる",
+      "おさ.える"
+    ],
+    "onReading": [
+      "おう"
+    ],
+    "strokes": 8,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Fingers",
+      "Turtle Shell"
+    ],
+    "examples": [],
+    "mnemonic": "Push - 8 strokes."
+  },
+  {
+    "id": "kj_n3_346",
+    "character": "刻",
+    "romaji": "きざmu",
+    "type": "kanji",
+    "meanings": [
+      "Engrave",
+      "Cut Fine",
+      "Chop",
+      "Hash",
+      "Mince",
+      "Time",
+      "Carving"
+    ],
+    "kunReading": [
+      "きざ.む",
+      "きざ.み"
+    ],
+    "onReading": [
+      "こく"
+    ],
+    "strokes": 8,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Slice",
+      "Knife"
+    ],
+    "examples": [],
+    "mnemonic": "Engrave - 8 strokes."
+  },
+  {
+    "id": "kj_n3_350",
+    "character": "彼",
+    "romaji": "かれ",
+    "type": "kanji",
+    "meanings": [
+      "He",
+      "That",
+      "The"
+    ],
+    "kunReading": [
+      "かれ",
+      "かの",
+      "か.の"
+    ],
+    "onReading": [
+      "ひ"
+    ],
+    "strokes": 8,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Loiter",
+      "Skin"
+    ],
+    "examples": [],
+    "mnemonic": "He - 8 strokes."
+  },
+  {
+    "id": "kj_n3_356",
+    "character": "抱",
+    "romaji": "だく",
+    "type": "kanji",
+    "meanings": [
+      "Embrace",
+      "Hug",
+      "Hold In Arms"
+    ],
+    "kunReading": [
+      "だ.く",
+      "いだ.く",
+      "かか.える"
+    ],
+    "onReading": [
+      "ほう"
+    ],
+    "strokes": 8,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Fingers",
+      "Wrap"
+    ],
+    "examples": [],
+    "mnemonic": "Embrace - 8 strokes."
+  },
+  {
+    "id": "kj_n3_361",
+    "character": "到",
+    "romaji": "いたる",
+    "type": "kanji",
+    "meanings": [
+      "Arrival",
+      "Proceed",
+      "Reach",
+      "Attain",
+      "Result In"
+    ],
+    "kunReading": [
+      "いた.る"
+    ],
+    "onReading": [
+      "とう"
+    ],
+    "strokes": 8,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Mole",
+      "Knife"
+    ],
+    "examples": [],
+    "mnemonic": "Arrival - 8 strokes."
+  },
+  {
+    "id": "kj_n3_022",
+    "character": "草",
+    "romaji": "くさ",
+    "type": "kanji",
+    "meanings": [
+      "Grass",
+      "Weeds",
+      "Herbs",
+      "Pasture",
+      "Write",
+      "Draft"
+    ],
+    "kunReading": [
+      "くさ",
+      "くさ-",
+      "-ぐさ"
+    ],
+    "onReading": [
+      "そう"
+    ],
+    "strokes": 9,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Flowers",
+      "Sun",
+      "Cross"
+    ],
+    "examples": [],
+    "mnemonic": "Grass - 9 strokes."
+  },
+  {
+    "id": "kj_n3_030",
+    "character": "活",
+    "romaji": "いきる",
+    "type": "kanji",
+    "meanings": [
+      "Lively",
+      "Resuscitation",
+      "Being Helped",
+      "Living"
+    ],
+    "kunReading": [
+      "い.きる",
+      "い.かす",
+      "い.ける"
+    ],
+    "onReading": [
+      "かつ"
+    ],
+    "strokes": 9,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Tsunami",
+      "Tongue"
+    ],
+    "examples": [],
+    "mnemonic": "Lively - 9 strokes."
+  },
+  {
+    "id": "kj_n3_031",
+    "character": "点",
+    "romaji": "つける",
+    "type": "kanji",
+    "meanings": [
+      "Spot",
+      "Point",
+      "Mark",
+      "Speck",
+      "Decimal Point"
+    ],
+    "kunReading": [
+      "つ.ける",
+      "つ.く",
+      "た.てる",
+      "さ.す",
+      "とぼ.す",
+      "とも.す",
+      "ぼち"
+    ],
+    "onReading": [
+      "てん"
+    ],
+    "strokes": 9,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Fortune",
+      "Boil"
+    ],
+    "examples": [],
+    "mnemonic": "Spot - 9 strokes."
+  },
+  {
+    "id": "kj_n3_032",
+    "character": "科",
+    "romaji": "か",
+    "type": "kanji",
+    "meanings": [
+      "Department",
+      "Course",
+      "Section"
+    ],
+    "kunReading": [],
+    "onReading": [
+      "か"
+    ],
+    "strokes": 9,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Grain",
+      "Ladle"
+    ],
+    "examples": [],
+    "mnemonic": "Department - 9 strokes."
+  },
+  {
+    "id": "kj_n3_033",
+    "character": "首",
+    "romaji": "くび",
+    "type": "kanji",
+    "meanings": [
+      "Neck",
+      "Counter For Songs And Poems"
+    ],
+    "kunReading": [
+      "くび"
+    ],
+    "onReading": [
+      "しゅ"
+    ],
+    "strokes": 9,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Neck"
+    ],
+    "examples": [],
+    "mnemonic": "Neck - 9 strokes."
+  },
+  {
+    "id": "kj_n3_068",
+    "character": "乗",
+    "romaji": "のる",
+    "type": "kanji",
+    "meanings": [
+      "Ride",
+      "Power",
+      "Multiplication",
+      "Record",
+      "Counter For Vehicles",
+      "Board",
+      "Mount",
+      "Join"
+    ],
+    "kunReading": [
+      "の.る",
+      "-の.り",
+      "の.せる"
+    ],
+    "onReading": [
+      "じょう",
+      "しょう"
+    ],
+    "strokes": 9,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Grain",
+      "Mouth"
+    ],
+    "examples": [],
+    "mnemonic": "Ride - 9 strokes."
+  },
+  {
+    "id": "kj_n3_069",
+    "character": "客",
+    "romaji": "きゃく",
+    "type": "kanji",
+    "meanings": [
+      "Guest",
+      "Visitor",
+      "Customer",
+      "Client"
+    ],
+    "kunReading": [],
+    "onReading": [
+      "きゃく",
+      "かく"
+    ],
+    "strokes": 9,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Roof",
+      "Winter",
+      "Mouth"
+    ],
+    "examples": [],
+    "mnemonic": "Guest - 9 strokes."
+  },
+  {
+    "id": "kj_n3_070",
+    "character": "相",
+    "romaji": "あい",
+    "type": "kanji",
+    "meanings": [
+      "Inter-",
+      "Mutual",
+      "Together",
+      "Each Other",
+      "Minister Of State",
+      "Councillor",
+      "Aspect",
+      "Phase",
+      "Physiognomy"
+    ],
+    "kunReading": [
+      "あい-"
+    ],
+    "onReading": [
+      "そう",
+      "しょう"
+    ],
+    "strokes": 9,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Tree",
+      "Eye"
+    ],
+    "examples": [],
+    "mnemonic": "Inter- - 9 strokes."
+  },
+  {
+    "id": "kj_n3_071",
+    "character": "美",
+    "romaji": "うつくしい",
+    "type": "kanji",
+    "meanings": [
+      "Beauty",
+      "Beautiful"
+    ],
+    "kunReading": [
+      "うつく.しい"
+    ],
+    "onReading": [
+      "び",
+      "み"
+    ],
+    "strokes": 9,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Horns",
+      "King",
+      "Big"
+    ],
+    "examples": [],
+    "mnemonic": "Beauty - 9 strokes."
+  },
+  {
+    "id": "kj_n3_072",
+    "character": "負",
+    "romaji": "まける",
+    "type": "kanji",
+    "meanings": [
+      "Defeat",
+      "Negative",
+      "-",
+      "Minus",
+      "Bear",
+      "Owe",
+      "Assume A Responsibility"
+    ],
+    "kunReading": [
+      "ま.ける",
+      "ま.かす",
+      "お.う"
+    ],
+    "onReading": [
+      "ふ"
+    ],
+    "strokes": 9,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Prison",
+      "Shellfish"
+    ],
+    "examples": [],
+    "mnemonic": "Defeat - 9 strokes."
+  },
+  {
+    "id": "kj_n3_074",
+    "character": "要",
+    "romaji": "いる",
+    "type": "kanji",
+    "meanings": [
+      "Need",
+      "Main Point",
+      "Essence",
+      "Pivot",
+      "Key To"
+    ],
+    "kunReading": [
+      "い.る",
+      "かなめ"
+    ],
+    "onReading": [
+      "よう"
+    ],
+    "strokes": 9,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Helicopter",
+      "Woman"
+    ],
+    "examples": [],
+    "mnemonic": "Need - 9 strokes."
+  },
+  {
+    "id": "kj_n3_104",
+    "character": "指",
+    "romaji": "ゆび",
+    "type": "kanji",
+    "meanings": [
+      "Finger",
+      "Point To",
+      "Indicate",
+      "Put Into",
+      "Play (chess)",
+      "Measure (ruler)"
+    ],
+    "kunReading": [
+      "ゆび",
+      "さ.す",
+      "-さ.し"
+    ],
+    "onReading": [
+      "し"
+    ],
+    "strokes": 9,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Fingers",
+      "Spoon",
+      "Sun"
+    ],
+    "examples": [],
+    "mnemonic": "Finger - 9 strokes."
+  },
+  {
+    "id": "kj_n3_105",
+    "character": "神",
+    "romaji": "かmi",
+    "type": "kanji",
+    "meanings": [
+      "Gods",
+      "Mind",
+      "Soul"
+    ],
+    "kunReading": [
+      "かみ",
+      "かん-",
+      "こう-"
+    ],
+    "onReading": [
+      "しん",
+      "じん"
+    ],
+    "strokes": 9,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Spirit",
+      "Humble"
+    ],
+    "examples": [],
+    "mnemonic": "Gods - 9 strokes."
+  },
+  {
+    "id": "kj_n3_106",
+    "character": "追",
+    "romaji": "おう",
+    "type": "kanji",
+    "meanings": [
+      "Chase",
+      "Drive Away",
+      "Follow",
+      "Pursue",
+      "Meanwhile"
+    ],
+    "kunReading": [
+      "お.う"
+    ],
+    "onReading": [
+      "つい"
+    ],
+    "strokes": 9,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Scooter",
+      "Bear"
+    ],
+    "examples": [],
+    "mnemonic": "Chase - 9 strokes."
+  },
+  {
+    "id": "kj_n3_109",
+    "character": "便",
+    "romaji": "たyoり",
+    "type": "kanji",
+    "meanings": [
+      "Convenience",
+      "Facility",
+      "Excrement",
+      "Feces",
+      "Letter",
+      "Chance"
+    ],
+    "kunReading": [
+      "たよ.り"
+    ],
+    "onReading": [
+      "べん",
+      "びん"
+    ],
+    "strokes": 9,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Leader",
+      "Ground",
+      "Rice Paddy",
+      "Treasure"
+    ],
+    "examples": [],
+    "mnemonic": "Convenience - 9 strokes."
+  },
+  {
+    "id": "kj_n3_144",
+    "character": "皆",
+    "romaji": "miな",
+    "type": "kanji",
+    "meanings": [
+      "All",
+      "Everything"
+    ],
+    "kunReading": [
+      "みな",
+      "みんな"
+    ],
+    "onReading": [
+      "かい"
+    ],
+    "strokes": 9,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Compare",
+      "White"
+    ],
+    "examples": [],
+    "mnemonic": "All - 9 strokes."
+  },
+  {
+    "id": "kj_n3_154",
+    "character": "約",
+    "romaji": "つづまる",
+    "type": "kanji",
+    "meanings": [
+      "Promise",
+      "Approximately",
+      "Shrink"
+    ],
+    "kunReading": [
+      "つづ.まる",
+      "つづ.める",
+      "つづま.やか"
+    ],
+    "onReading": [
+      "やく"
+    ],
+    "strokes": 9,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Thread",
+      "Pool"
+    ],
+    "examples": [],
+    "mnemonic": "Promise - 9 strokes."
+  },
+  {
+    "id": "kj_n3_162",
+    "character": "信",
+    "romaji": "しん",
+    "type": "kanji",
+    "meanings": [
+      "Faith",
+      "Truth",
+      "Fidelity",
+      "Trust"
+    ],
+    "kunReading": [],
+    "onReading": [
+      "しん"
+    ],
+    "strokes": 9,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Leader",
+      "Say"
+    ],
+    "examples": [],
+    "mnemonic": "Faith - 9 strokes."
+  },
+  {
+    "id": "kj_n3_163",
+    "character": "単",
+    "romaji": "hitoえ",
+    "type": "kanji",
+    "meanings": [
+      "Simple",
+      "One",
+      "Single",
+      "Merely"
+    ],
+    "kunReading": [
+      "ひとえ"
+    ],
+    "onReading": [
+      "たん"
+    ],
+    "strokes": 9,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Simple"
+    ],
+    "examples": [],
+    "mnemonic": "Simple - 9 strokes."
+  },
+  {
+    "id": "kj_n3_164",
+    "character": "変",
+    "romaji": "かわる",
+    "type": "kanji",
+    "meanings": [
+      "Unusual",
+      "Change",
+      "Strange"
+    ],
+    "kunReading": [
+      "か.わる",
+      "か.わり",
+      "か.える"
+    ],
+    "onReading": [
+      "へん"
+    ],
+    "strokes": 9,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Red",
+      "Winter"
+    ],
+    "examples": [],
+    "mnemonic": "Unusual - 9 strokes."
+  },
+  {
+    "id": "kj_n3_166",
+    "character": "昨",
+    "romaji": "さく",
+    "type": "kanji",
+    "meanings": [
+      "Yesterday",
+      "Previous"
+    ],
+    "kunReading": [],
+    "onReading": [
+      "さく"
+    ],
+    "strokes": 9,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Sun",
+      "Key"
+    ],
+    "examples": [],
+    "mnemonic": "Yesterday - 9 strokes."
+  },
+  {
+    "id": "kj_n3_172",
+    "character": "係",
+    "romaji": "かかる",
+    "type": "kanji",
+    "meanings": [
+      "Person In Charge",
+      "Connection",
+      "Duty",
+      "Concern Oneself"
+    ],
+    "kunReading": [
+      "かか.る",
+      "かかり",
+      "-がかり",
+      "かか.わる"
+    ],
+    "onReading": [
+      "けい"
+    ],
+    "strokes": 9,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Leader",
+      "Ground",
+      "Thread"
+    ],
+    "examples": [],
+    "mnemonic": "Person In Charge - 9 strokes."
+  },
+  {
+    "id": "kj_n3_177",
+    "character": "面",
+    "romaji": "おも",
+    "type": "kanji",
+    "meanings": [
+      "Mask",
+      "Face",
+      "Features",
+      "Surface"
+    ],
+    "kunReading": [
+      "おも",
+      "おもて",
+      "つら"
+    ],
+    "onReading": [
+      "めん",
+      "べん"
+    ],
+    "strokes": 9,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Face"
+    ],
+    "examples": [],
+    "mnemonic": "Mask - 9 strokes."
+  },
+  {
+    "id": "kj_n3_183",
+    "character": "政",
+    "romaji": "まつりごと",
+    "type": "kanji",
+    "meanings": [
+      "Politics",
+      "Government"
+    ],
+    "kunReading": [
+      "まつりごと",
+      "まん"
+    ],
+    "onReading": [
+      "せい",
+      "しょう"
+    ],
+    "strokes": 9,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Correct",
+      "Winter"
+    ],
+    "examples": [],
+    "mnemonic": "Politics - 9 strokes."
+  },
+  {
+    "id": "kj_n3_212",
+    "character": "洗",
+    "romaji": "あらう",
+    "type": "kanji",
+    "meanings": [
+      "Wash",
+      "Inquire Into",
+      "Probe"
+    ],
+    "kunReading": [
+      "あら.う"
+    ],
+    "onReading": [
+      "せん"
+    ],
+    "strokes": 9,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Tsunami",
+      "Previous"
+    ],
+    "examples": [],
+    "mnemonic": "Wash - 9 strokes."
+  },
+  {
+    "id": "kj_n3_228",
+    "character": "飛",
+    "romaji": "とぶ",
+    "type": "kanji",
+    "meanings": [
+      "Fly",
+      "Skip (pages)",
+      "Scatter"
+    ],
+    "kunReading": [
+      "と.ぶ",
+      "と.ばす",
+      "-と.ばす"
+    ],
+    "onReading": [
+      "ひ"
+    ],
+    "strokes": 9,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Fly"
+    ],
+    "examples": [],
+    "mnemonic": "Fly - 9 strokes."
+  },
+  {
+    "id": "kj_n3_280",
+    "character": "限",
+    "romaji": "かぎる",
+    "type": "kanji",
+    "meanings": [
+      "Limit",
+      "Restrict",
+      "To Best Of Ability"
+    ],
+    "kunReading": [
+      "かぎ.る",
+      "かぎ.り",
+      "-かぎ.り"
+    ],
+    "onReading": [
+      "げん"
+    ],
+    "strokes": 9,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Building",
+      "Root"
+    ],
+    "examples": [],
+    "mnemonic": "Limit - 9 strokes."
+  },
+  {
+    "id": "kj_n3_294",
+    "character": "段",
+    "romaji": "だん",
+    "type": "kanji",
+    "meanings": [
+      "Grade",
+      "Steps",
+      "Stairs"
+    ],
+    "kunReading": [],
+    "onReading": [
+      "だん",
+      "たん"
+    ],
+    "strokes": 9,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Comb",
+      "Weapon"
+    ],
+    "examples": [],
+    "mnemonic": "Grade - 9 strokes."
+  },
+  {
+    "id": "kj_n3_297",
+    "character": "退",
+    "romaji": "しりぞく",
+    "type": "kanji",
+    "meanings": [
+      "Retreat",
+      "Withdraw",
+      "Retire",
+      "Resign",
+      "Repel",
+      "Expel",
+      "Reject"
+    ],
+    "kunReading": [
+      "しりぞ.く",
+      "しりぞ.ける",
+      "ひ.く",
+      "の.く",
+      "の.ける",
+      "ど.く"
+    ],
+    "onReading": [
+      "たい"
+    ],
+    "strokes": 9,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Scooter",
+      "Root"
+    ],
+    "examples": [],
+    "mnemonic": "Retreat - 9 strokes."
+  },
+  {
+    "id": "kj_n3_298",
+    "character": "迷",
+    "romaji": "まyoう",
+    "type": "kanji",
+    "meanings": [
+      "Astray",
+      "Be Perplexed",
+      "In Doubt",
+      "Lost",
+      "Err",
+      "Illusion"
+    ],
+    "kunReading": [
+      "まよ.う"
+    ],
+    "onReading": [
+      "めい"
+    ],
+    "strokes": 9,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Scooter",
+      "Rice"
+    ],
+    "examples": [],
+    "mnemonic": "Astray - 9 strokes."
+  },
+  {
+    "id": "kj_n3_300",
+    "character": "怒",
+    "romaji": "いかる",
+    "type": "kanji",
+    "meanings": [
+      "Angry",
+      "Be Offended"
+    ],
+    "kunReading": [
+      "いか.る",
+      "おこ.る"
+    ],
+    "onReading": [
+      "ど",
+      "ぬ"
+    ],
+    "strokes": 9,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Woman",
+      "Stool",
+      "Heart"
+    ],
+    "examples": [],
+    "mnemonic": "Angry - 9 strokes."
+  },
+  {
+    "id": "kj_n3_325",
+    "character": "背",
+    "romaji": "せ",
+    "type": "kanji",
+    "meanings": [
+      "Stature",
+      "Height",
+      "Back",
+      "Behind",
+      "Disobey",
+      "Defy",
+      "Go Back On",
+      "Rebel"
+    ],
+    "kunReading": [
+      "せ",
+      "せい",
+      "そむ.く",
+      "そむ.ける"
+    ],
+    "onReading": [
+      "はい"
+    ],
+    "strokes": 9,
+    "jlptLevel": "N3",
+    "radicals": [
+      "North",
+      "Moon"
+    ],
+    "examples": [],
+    "mnemonic": "Stature - 9 strokes."
+  },
+  {
+    "id": "kj_n3_334",
+    "character": "祖",
+    "romaji": "そ",
+    "type": "kanji",
+    "meanings": [
+      "Ancestor",
+      "Pioneer",
+      "Founder"
+    ],
+    "kunReading": [],
+    "onReading": [
+      "そ"
+    ],
+    "strokes": 9,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Spirit",
+      "Top Hat"
+    ],
+    "examples": [],
+    "mnemonic": "Ancestor - 9 strokes."
+  },
+  {
+    "id": "kj_n3_358",
+    "character": "逃",
+    "romaji": "にげる",
+    "type": "kanji",
+    "meanings": [
+      "Escape",
+      "Flee",
+      "Shirk",
+      "Evade",
+      "Set Free"
+    ],
+    "kunReading": [
+      "に.げる",
+      "に.がす",
+      "のが.す",
+      "のが.れる"
+    ],
+    "onReading": [
+      "とう"
+    ],
+    "strokes": 9,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Scooter",
+      "Omen"
+    ],
+    "examples": [],
+    "mnemonic": "Escape - 9 strokes."
+  },
+  {
+    "id": "kj_n3_042",
+    "character": "記",
+    "romaji": "しるす",
+    "type": "kanji",
+    "meanings": [
+      "Scribe",
+      "Account",
+      "Narrative"
+    ],
+    "kunReading": [
+      "しる.す"
+    ],
+    "onReading": [
+      "き"
+    ],
+    "strokes": 10,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Say",
+      "Oneself"
+    ],
+    "examples": [],
+    "mnemonic": "Scribe - 10 strokes."
+  },
+  {
+    "id": "kj_n3_054",
+    "character": "馬",
+    "romaji": "うま",
+    "type": "kanji",
+    "meanings": [
+      "Horse"
+    ],
+    "kunReading": [
+      "うま",
+      "うま-",
+      "ま"
+    ],
+    "onReading": [
+      "ば"
+    ],
+    "strokes": 10,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Horse"
+    ],
+    "examples": [],
+    "mnemonic": "Horse - 10 strokes."
+  },
+  {
+    "id": "kj_n3_076",
+    "character": "速",
+    "romaji": "はyaい",
+    "type": "kanji",
+    "meanings": [
+      "Quick",
+      "Fast"
+    ],
+    "kunReading": [
+      "はや.い",
+      "はや-",
+      "はや.める",
+      "すみ.やか"
+    ],
+    "onReading": [
+      "そく"
+    ],
+    "strokes": 10,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Scooter",
+      "Bundle"
+    ],
+    "examples": [],
+    "mnemonic": "Quick - 10 strokes."
+  },
+  {
+    "id": "kj_n3_077",
+    "character": "配",
+    "romaji": "くばる",
+    "type": "kanji",
+    "meanings": [
+      "Distribute",
+      "Spouse",
+      "Exile",
+      "Rationing"
+    ],
+    "kunReading": [
+      "くば.る"
+    ],
+    "onReading": [
+      "はい"
+    ],
+    "strokes": 10,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Alcohol",
+      "Oneself"
+    ],
+    "examples": [],
+    "mnemonic": "Distribute - 10 strokes."
+  },
+  {
+    "id": "kj_n3_078",
+    "character": "酒",
+    "romaji": "さけ",
+    "type": "kanji",
+    "meanings": [
+      "Sake",
+      "Alcohol"
+    ],
+    "kunReading": [
+      "さけ",
+      "さか-"
+    ],
+    "onReading": [
+      "しゅ"
+    ],
+    "strokes": 10,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Tsunami",
+      "Alcohol"
+    ],
+    "examples": [],
+    "mnemonic": "Sake - 10 strokes."
+  },
+  {
+    "id": "kj_n3_111",
+    "character": "庭",
+    "romaji": "にわ",
+    "type": "kanji",
+    "meanings": [
+      "Courtyard",
+      "Garden",
+      "Yard"
+    ],
+    "kunReading": [
+      "にわ"
+    ],
+    "onReading": [
+      "てい"
+    ],
+    "strokes": 10,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Canopy",
+      "Yoga",
+      "King"
+    ],
+    "examples": [],
+    "mnemonic": "Courtyard - 10 strokes."
+  },
+  {
+    "id": "kj_n3_112",
+    "character": "息",
+    "romaji": "いき",
+    "type": "kanji",
+    "meanings": [
+      "Breath",
+      "Respiration",
+      "Son",
+      "Interest (on Money)"
+    ],
+    "kunReading": [
+      "いき"
+    ],
+    "onReading": [
+      "そく"
+    ],
+    "strokes": 10,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Self",
+      "Heart"
+    ],
+    "examples": [],
+    "mnemonic": "Breath - 10 strokes."
+  },
+  {
+    "id": "kj_n3_113",
+    "character": "流",
+    "romaji": "ながれる",
+    "type": "kanji",
+    "meanings": [
+      "Current",
+      "A Sink",
+      "Flow",
+      "Forfeit"
+    ],
+    "kunReading": [
+      "なが.れる",
+      "なが.れ",
+      "なが.す",
+      "-なが.す"
+    ],
+    "onReading": [
+      "りゅう",
+      "る"
+    ],
+    "strokes": 10,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Tsunami",
+      "Trash",
+      "River"
+    ],
+    "examples": [],
+    "mnemonic": "Current - 10 strokes."
+  },
+  {
+    "id": "kj_n3_114",
+    "character": "消",
+    "romaji": "きえる",
+    "type": "kanji",
+    "meanings": [
+      "Extinguish",
+      "Blow Out",
+      "Turn Off",
+      "Neutralize",
+      "Cancel"
+    ],
+    "kunReading": [
+      "き.える",
+      "け.す"
+    ],
+    "onReading": [
+      "しょう"
+    ],
+    "strokes": 10,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Tsunami",
+      "Triceratops",
+      "Moon"
+    ],
+    "examples": [],
+    "mnemonic": "Extinguish - 10 strokes."
+  },
+  {
+    "id": "kj_n3_137",
+    "character": "殺",
+    "romaji": "ころす",
+    "type": "kanji",
+    "meanings": [
+      "Kill",
+      "Murder",
+      "Butcher",
+      "Slice Off",
+      "Split",
+      "Diminish",
+      "Reduce",
+      "Spoil"
+    ],
+    "kunReading": [
+      "ころ.す",
+      "-ごろ.し",
+      "そ.ぐ"
+    ],
+    "onReading": [
+      "さつ",
+      "さい",
+      "せつ"
+    ],
+    "strokes": 10,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Treasure",
+      "Tree",
+      "Weapon"
+    ],
+    "examples": [],
+    "mnemonic": "Kill - 10 strokes."
+  },
+  {
+    "id": "kj_n3_152",
+    "character": "残",
+    "romaji": "のこる",
+    "type": "kanji",
+    "meanings": [
+      "Remainder",
+      "Leftover",
+      "Balance"
+    ],
+    "kunReading": [
+      "のこ.る",
+      "のこ.す",
+      "そこな.う",
+      "のこ.り"
+    ],
+    "onReading": [
+      "ざん",
+      "さん"
+    ],
+    "strokes": 10,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Yakuza",
+      "Bar"
+    ],
+    "examples": [],
+    "mnemonic": "Remainder - 10 strokes."
+  },
+  {
+    "id": "kj_n3_156",
+    "character": "格",
+    "romaji": "かく",
+    "type": "kanji",
+    "meanings": [
+      "Status",
+      "Rank",
+      "Capacity",
+      "Character",
+      "Case (law, Grammar)"
+    ],
+    "kunReading": [],
+    "onReading": [
+      "かく",
+      "こう",
+      "きゃく",
+      "ごう"
+    ],
+    "strokes": 10,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Tree",
+      "Kiss"
+    ],
+    "examples": [],
+    "mnemonic": "Status - 10 strokes."
+  },
+  {
+    "id": "kj_n3_157",
+    "character": "能",
+    "romaji": "yoく",
+    "type": "kanji",
+    "meanings": [
+      "Ability",
+      "Talent",
+      "Skill",
+      "Capacity"
+    ],
+    "kunReading": [
+      "よ.く"
+    ],
+    "onReading": [
+      "のう"
+    ],
+    "strokes": 10,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Private",
+      "Moon",
+      "Spoon"
+    ],
+    "examples": [],
+    "mnemonic": "Ability - 10 strokes."
+  },
+  {
+    "id": "kj_n3_180",
+    "character": "笑",
+    "romaji": "わらう",
+    "type": "kanji",
+    "meanings": [
+      "Laugh"
+    ],
+    "kunReading": [
+      "わら.う",
+      "え.む"
+    ],
+    "onReading": [
+      "しょう"
+    ],
+    "strokes": 10,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Bamboo",
+      "Heaven"
+    ],
+    "examples": [],
+    "mnemonic": "Laugh - 10 strokes."
+  },
+  {
+    "id": "kj_n3_184",
+    "character": "留",
+    "romaji": "とめる",
+    "type": "kanji",
+    "meanings": [
+      "Detain",
+      "Fasten",
+      "Halt",
+      "Stop"
+    ],
+    "kunReading": [
+      "と.める",
+      "と.まる",
+      "とど.める",
+      "とど.まる",
+      "るうぶる"
+    ],
+    "onReading": [
+      "りゅう",
+      "る"
+    ],
+    "strokes": 10,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Private",
+      "Sword",
+      "Rice Paddy"
+    ],
+    "examples": [],
+    "mnemonic": "Detain - 10 strokes."
+  },
+  {
+    "id": "kj_n3_188",
+    "character": "原",
+    "romaji": "はら",
+    "type": "kanji",
+    "meanings": [
+      "Meadow",
+      "Original",
+      "Primitive",
+      "Field",
+      "Plain",
+      "Prairie",
+      "Tundra",
+      "Wilderness"
+    ],
+    "kunReading": [
+      "はら"
+    ],
+    "onReading": [
+      "げん"
+    ],
+    "strokes": 10,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Original"
+    ],
+    "examples": [],
+    "mnemonic": "Meadow - 10 strokes."
+  },
+  {
+    "id": "kj_n3_191",
+    "character": "席",
+    "romaji": "muしろ",
+    "type": "kanji",
+    "meanings": [
+      "Seat",
+      "Mat",
+      "Occasion",
+      "Place"
+    ],
+    "kunReading": [
+      "むしろ"
+    ],
+    "onReading": [
+      "せき"
+    ],
+    "strokes": 10,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Yurt",
+      "Towel"
+    ],
+    "examples": [],
+    "mnemonic": "Seat - 10 strokes."
+  },
+  {
+    "id": "kj_n3_210",
+    "character": "座",
+    "romaji": "すわる",
+    "type": "kanji",
+    "meanings": [
+      "Squat",
+      "Seat",
+      "Cushion",
+      "Gathering",
+      "Sit"
+    ],
+    "kunReading": [
+      "すわ.る"
+    ],
+    "onReading": [
+      "ざ"
+    ],
+    "strokes": 10,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Canopy",
+      "Person",
+      "Dirt"
+    ],
+    "examples": [],
+    "mnemonic": "Squat - 10 strokes."
+  },
+  {
+    "id": "kj_n3_217",
+    "character": "容",
+    "romaji": "いれる",
+    "type": "kanji",
+    "meanings": [
+      "Contain",
+      "Form",
+      "Looks"
+    ],
+    "kunReading": [
+      "い.れる"
+    ],
+    "onReading": [
+      "よう"
+    ],
+    "strokes": 10,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Roof",
+      "Valley"
+    ],
+    "examples": [],
+    "mnemonic": "Contain - 10 strokes."
+  },
+  {
+    "id": "kj_n3_219",
+    "character": "財",
+    "romaji": "たから",
+    "type": "kanji",
+    "meanings": [
+      "Property",
+      "Money",
+      "Wealth",
+      "Assets"
+    ],
+    "kunReading": [
+      "たから"
+    ],
+    "onReading": [
+      "ざい",
+      "さい",
+      "ぞく"
+    ],
+    "strokes": 10,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Shellfish",
+      "Genius"
+    ],
+    "examples": [],
+    "mnemonic": "Property - 10 strokes."
+  },
+  {
+    "id": "kj_n3_222",
+    "character": "徒",
+    "romaji": "いたずら",
+    "type": "kanji",
+    "meanings": [
+      "On Foot",
+      "Junior",
+      "Emptiness",
+      "Vanity",
+      "Futility",
+      "Uselessness",
+      "Ephemeral Thing",
+      "Gang",
+      "Set",
+      "Party",
+      "People"
+    ],
+    "kunReading": [
+      "いたずら",
+      "あだ"
+    ],
+    "onReading": [
+      "と"
+    ],
+    "strokes": 10,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Loiter",
+      "Run"
+    ],
+    "examples": [],
+    "mnemonic": "On Foot - 10 strokes."
+  },
+  {
+    "id": "kj_n3_225",
+    "character": "連",
+    "romaji": "つらなる",
+    "type": "kanji",
+    "meanings": [
+      "Take Along",
+      "Lead",
+      "Join",
+      "Connect",
+      "Party",
+      "Gang",
+      "Clique"
+    ],
+    "kunReading": [
+      "つら.なる",
+      "つら.ねる",
+      "つ.れる",
+      "-づ.れ"
+    ],
+    "onReading": [
+      "れん"
+    ],
+    "strokes": 10,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Scooter",
+      "Car"
+    ],
+    "examples": [],
+    "mnemonic": "Take Along - 10 strokes."
+  },
+  {
+    "id": "kj_n3_229",
+    "character": "害",
+    "romaji": "がい",
+    "type": "kanji",
+    "meanings": [
+      "Harm",
+      "Injury"
+    ],
+    "kunReading": [],
+    "onReading": [
+      "がい"
+    ],
+    "strokes": 10,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Roof",
+      "Life",
+      "Mouth"
+    ],
+    "examples": [],
+    "mnemonic": "Harm - 10 strokes."
+  },
+  {
+    "id": "kj_n3_236",
+    "character": "倒",
+    "romaji": "たおれる",
+    "type": "kanji",
+    "meanings": [
+      "Overthrow",
+      "Fall",
+      "Collapse",
+      "Drop",
+      "Break Down"
+    ],
+    "kunReading": [
+      "たお.れる",
+      "-だお.れ",
+      "たお.す",
+      "さかさま",
+      "さかさ",
+      "さかしま"
+    ],
+    "onReading": [
+      "とう"
+    ],
+    "strokes": 10,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Leader",
+      "Mole",
+      "Knife"
+    ],
+    "examples": [],
+    "mnemonic": "Overthrow - 10 strokes."
+  },
+  {
+    "id": "kj_n3_263",
+    "character": "値",
+    "romaji": "ね",
+    "type": "kanji",
+    "meanings": [
+      "Price",
+      "Cost",
+      "Value"
+    ],
+    "kunReading": [
+      "ね",
+      "あたい"
+    ],
+    "onReading": [
+      "ち"
+    ],
+    "strokes": 10,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Leader",
+      "Fix"
+    ],
+    "examples": [],
+    "mnemonic": "Price - 10 strokes."
+  },
+  {
+    "id": "kj_n3_271",
+    "character": "師",
+    "romaji": "いくさ",
+    "type": "kanji",
+    "meanings": [
+      "Expert",
+      "Teacher",
+      "Master",
+      "Model",
+      "Exemplar",
+      "Army (incl. Counter)",
+      "War"
+    ],
+    "kunReading": [
+      "いくさ"
+    ],
+    "onReading": [
+      "し"
+    ],
+    "strokes": 10,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Drop",
+      "Bear",
+      "Ground",
+      "Towel"
+    ],
+    "examples": [],
+    "mnemonic": "Expert - 10 strokes."
+  },
+  {
+    "id": "kj_n3_278",
+    "character": "差",
+    "romaji": "さす",
+    "type": "kanji",
+    "meanings": [
+      "Distinction",
+      "Difference",
+      "Variation",
+      "Discrepancy",
+      "Margin",
+      "Balance"
+    ],
+    "kunReading": [
+      "さ.す",
+      "さ.し"
+    ],
+    "onReading": [
+      "さ"
+    ],
+    "strokes": 10,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Horns",
+      "King",
+      "Slide",
+      "Construction"
+    ],
+    "examples": [],
+    "mnemonic": "Distinction - 10 strokes."
+  },
+  {
+    "id": "kj_n3_285",
+    "character": "候",
+    "romaji": "そうろう",
+    "type": "kanji",
+    "meanings": [
+      "Climate",
+      "Season",
+      "Weather",
+      "Wait For",
+      "Expect"
+    ],
+    "kunReading": [
+      "そうろう"
+    ],
+    "onReading": [
+      "こう"
+    ],
+    "strokes": 10,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Leader",
+      "Stick",
+      "Hook",
+      "Arrow"
+    ],
+    "examples": [],
+    "mnemonic": "Climate - 10 strokes."
+  },
+  {
+    "id": "kj_n3_287",
+    "character": "捕",
+    "romaji": "とらえる",
+    "type": "kanji",
+    "meanings": [
+      "Catch",
+      "Capture"
+    ],
+    "kunReading": [
+      "と.らえる",
+      "と.らわれる",
+      "と.る",
+      "とら.える",
+      "とら.われる",
+      "つか.まえる",
+      "つか.まる"
+    ],
+    "onReading": [
+      "ほ"
+    ],
+    "strokes": 10,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Fingers",
+      "Wedding"
+    ],
+    "examples": [],
+    "mnemonic": "Catch - 10 strokes."
+  },
+  {
+    "id": "kj_n3_301",
+    "character": "眠",
+    "romaji": "ねmuる",
+    "type": "kanji",
+    "meanings": [
+      "Sleep",
+      "Die",
+      "Sleepy"
+    ],
+    "kunReading": [
+      "ねむ.る",
+      "ねむ.い"
+    ],
+    "onReading": [
+      "みん"
+    ],
+    "strokes": 10,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Eye",
+      "Peoples"
+    ],
+    "examples": [],
+    "mnemonic": "Sleep - 10 strokes."
+  },
+  {
+    "id": "kj_n3_303",
+    "character": "途",
+    "romaji": "miち",
+    "type": "kanji",
+    "meanings": [
+      "Route",
+      "Way",
+      "Road"
+    ],
+    "kunReading": [
+      "みち"
+    ],
+    "onReading": [
+      "と"
+    ],
+    "strokes": 10,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Scooter",
+      "Surplus"
+    ],
+    "examples": [],
+    "mnemonic": "Route - 10 strokes."
+  },
+  {
+    "id": "kj_n3_314",
+    "character": "娘",
+    "romaji": "muすめ",
+    "type": "kanji",
+    "meanings": [
+      "Daughter",
+      "Girl"
+    ],
+    "kunReading": [
+      "むすめ",
+      "こ"
+    ],
+    "onReading": [
+      "じょう"
+    ],
+    "strokes": 10,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Woman",
+      "Good"
+    ],
+    "examples": [],
+    "mnemonic": "Daughter - 10 strokes."
+  },
+  {
+    "id": "kj_n3_316",
+    "character": "恐",
+    "romaji": "おそれる",
+    "type": "kanji",
+    "meanings": [
+      "Fear",
+      "Dread",
+      "Awe"
+    ],
+    "kunReading": [
+      "おそ.れる",
+      "おそ.る",
+      "おそ.ろしい",
+      "こわ.い",
+      "こわ.がる"
+    ],
+    "onReading": [
+      "きょう"
+    ],
+    "strokes": 10,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Saw",
+      "Heart"
+    ],
+    "examples": [],
+    "mnemonic": "Fear - 10 strokes."
+  },
+  {
+    "id": "kj_n3_323",
+    "character": "浮",
+    "romaji": "うく",
+    "type": "kanji",
+    "meanings": [
+      "Floating",
+      "Float",
+      "Rise To Surface"
+    ],
+    "kunReading": [
+      "う.く",
+      "う.かれる",
+      "う.かぶ",
+      "む",
+      "う.かべる"
+    ],
+    "onReading": [
+      "ふ"
+    ],
+    "strokes": 10,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Tsunami",
+      "Cleat",
+      "Child"
+    ],
+    "examples": [],
+    "mnemonic": "Floating - 10 strokes."
+  },
+  {
+    "id": "kj_n3_327",
+    "character": "除",
+    "romaji": "のぞく",
+    "type": "kanji",
+    "meanings": [
+      "Exclude",
+      "Division (x/3)",
+      "Remove",
+      "Abolish",
+      "Cancel",
+      "Except"
+    ],
+    "kunReading": [
+      "のぞ.く",
+      "-よ.け"
+    ],
+    "onReading": [
+      "じょ",
+      "じ"
+    ],
+    "strokes": 10,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Building",
+      "Surplus"
+    ],
+    "examples": [],
+    "mnemonic": "Exclude - 10 strokes."
+  },
+  {
+    "id": "kj_n3_344",
+    "character": "降",
+    "romaji": "おりる",
+    "type": "kanji",
+    "meanings": [
+      "Descend",
+      "Precipitate",
+      "Fall",
+      "Surrender"
+    ],
+    "kunReading": [
+      "お.りる",
+      "お.ろす",
+      "ふ.る",
+      "ふ.り",
+      "くだ.る",
+      "くだ.す"
+    ],
+    "onReading": [
+      "こう",
+      "ご"
+    ],
+    "strokes": 10,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Building",
+      "Winter",
+      "Cow"
+    ],
+    "examples": [],
+    "mnemonic": "Descend - 10 strokes."
+  },
+  {
+    "id": "kj_n3_348",
+    "character": "破",
+    "romaji": "yaぶる",
+    "type": "kanji",
+    "meanings": [
+      "Rend",
+      "Rip",
+      "Tear",
+      "Break",
+      "Destroy",
+      "Defeat",
+      "Frustrate"
+    ],
+    "kunReading": [
+      "やぶ.る",
+      "やぶ.れる",
+      "わ.れる"
+    ],
+    "onReading": [
+      "は"
+    ],
+    "strokes": 10,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Stone",
+      "Skin"
+    ],
+    "examples": [],
+    "mnemonic": "Rend - 10 strokes."
+  },
+  {
+    "id": "kj_n3_351",
+    "character": "恥",
+    "romaji": "はじる",
+    "type": "kanji",
+    "meanings": [
+      "Shame",
+      "Dishonor"
+    ],
+    "kunReading": [
+      "は.じる",
+      "はじ",
+      "は.じらう",
+      "は.ずかしい"
+    ],
+    "onReading": [
+      "ち"
+    ],
+    "strokes": 10,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Ear",
+      "Heart"
+    ],
+    "examples": [],
+    "mnemonic": "Shame - 10 strokes."
+  },
+  {
+    "id": "kj_n3_363",
+    "character": "疲",
+    "romaji": "つかれる",
+    "type": "kanji",
+    "meanings": [
+      "Exhausted",
+      "Tire",
+      "Weary"
+    ],
+    "kunReading": [
+      "つか.れる",
+      "-づか.れ",
+      "つか.らす"
+    ],
+    "onReading": [
+      "ひ"
+    ],
+    "strokes": 10,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Sick",
+      "Skin"
+    ],
+    "examples": [],
+    "mnemonic": "Exhausted - 10 strokes."
+  },
+  {
+    "id": "kj_n3_043",
+    "character": "組",
+    "romaji": "くmu",
+    "type": "kanji",
+    "meanings": [
+      "Association",
+      "Braid",
+      "Plait",
+      "Construct",
+      "Assemble",
+      "Unite",
+      "Cooperate",
+      "Grapple"
+    ],
+    "kunReading": [
+      "く.む",
+      "くみ",
+      "-ぐみ"
+    ],
+    "onReading": [
+      "そ"
+    ],
+    "strokes": 11,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Thread",
+      "Top Hat"
+    ],
+    "examples": [],
+    "mnemonic": "Association - 11 strokes."
+  },
+  {
+    "id": "kj_n3_044",
+    "character": "船",
+    "romaji": "ふね",
+    "type": "kanji",
+    "meanings": [
+      "Ship",
+      "Boat"
+    ],
+    "kunReading": [
+      "ふね",
+      "ふな-"
+    ],
+    "onReading": [
+      "せん"
+    ],
+    "strokes": 11,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Boat",
+      "Fins",
+      "Mouth"
+    ],
+    "examples": [],
+    "mnemonic": "Ship - 11 strokes."
+  },
+  {
+    "id": "kj_n3_045",
+    "character": "雪",
+    "romaji": "ゆき",
+    "type": "kanji",
+    "meanings": [
+      "Snow"
+    ],
+    "kunReading": [
+      "ゆき"
+    ],
+    "onReading": [
+      "せつ"
+    ],
+    "strokes": 11,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Rain",
+      "Wolverine"
+    ],
+    "examples": [],
+    "mnemonic": "Snow - 11 strokes."
+  },
+  {
+    "id": "kj_n3_067",
+    "character": "部",
+    "romaji": "べ",
+    "type": "kanji",
+    "meanings": [
+      "Section",
+      "Bureau",
+      "Dept",
+      "Class",
+      "Copy",
+      "Part",
+      "Portion",
+      "Counter For Copies Of A Newspaper Or Magazine"
+    ],
+    "kunReading": [
+      "-べ"
+    ],
+    "onReading": [
+      "ぶ"
+    ],
+    "strokes": 11,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Clown",
+      "Building"
+    ],
+    "examples": [],
+    "mnemonic": "Section - 11 strokes."
+  },
+  {
+    "id": "kj_n3_079",
+    "character": "進",
+    "romaji": "すすmu",
+    "type": "kanji",
+    "meanings": [
+      "Advance",
+      "Proceed",
+      "Progress",
+      "Promote"
+    ],
+    "kunReading": [
+      "すす.む",
+      "すす.める"
+    ],
+    "onReading": [
+      "しん"
+    ],
+    "strokes": 11,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Scooter",
+      "Turkey"
+    ],
+    "examples": [],
+    "mnemonic": "Advance - 11 strokes."
+  },
+  {
+    "id": "kj_n3_115",
+    "character": "都",
+    "romaji": "miyaこ",
+    "type": "kanji",
+    "meanings": [
+      "Metropolis",
+      "Capital",
+      "All",
+      "Everything"
+    ],
+    "kunReading": [
+      "みやこ"
+    ],
+    "onReading": [
+      "と",
+      "つ"
+    ],
+    "strokes": 11,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Someone",
+      "Building"
+    ],
+    "examples": [],
+    "mnemonic": "Metropolis - 11 strokes."
+  },
+  {
+    "id": "kj_n3_116",
+    "character": "商",
+    "romaji": "あきなう",
+    "type": "kanji",
+    "meanings": [
+      "Make A Deal",
+      "Selling",
+      "Dealing In",
+      "Merchant"
+    ],
+    "kunReading": [
+      "あきな.う"
+    ],
+    "onReading": [
+      "しょう"
+    ],
+    "strokes": 11,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Stand",
+      "Mustache",
+      "Legs"
+    ],
+    "examples": [],
+    "mnemonic": "Make A Deal - 11 strokes."
+  },
+  {
+    "id": "kj_n3_117",
+    "character": "深",
+    "romaji": "ふかい",
+    "type": "kanji",
+    "meanings": [
+      "Deep",
+      "Heighten",
+      "Intensify",
+      "Strengthen"
+    ],
+    "kunReading": [
+      "ふか.い",
+      "-ぶか.い",
+      "ふか.まる",
+      "ふか.める",
+      "み-"
+    ],
+    "onReading": [
+      "しん"
+    ],
+    "strokes": 11,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Tsunami",
+      "Pi",
+      "Tree"
+    ],
+    "examples": [],
+    "mnemonic": "Deep - 11 strokes."
+  },
+  {
+    "id": "kj_n3_118",
+    "character": "球",
+    "romaji": "たま",
+    "type": "kanji",
+    "meanings": [
+      "Ball",
+      "Sphere"
+    ],
+    "kunReading": [
+      "たま"
+    ],
+    "onReading": [
+      "きゅう"
+    ],
+    "strokes": 11,
+    "jlptLevel": "N3",
+    "radicals": [
+      "King",
+      "Request"
+    ],
+    "examples": [],
+    "mnemonic": "Ball - 11 strokes."
+  },
+  {
+    "id": "kj_n3_131",
+    "character": "宿",
+    "romaji": "yaど",
+    "type": "kanji",
+    "meanings": [
+      "Inn",
+      "Lodging",
+      "Relay Station",
+      "Dwell",
+      "Lodge",
+      "Be Pregnant",
+      "Home",
+      "Dwelling"
+    ],
+    "kunReading": [
+      "やど",
+      "やど.る",
+      "やど.す"
+    ],
+    "onReading": [
+      "しゅく"
+    ],
+    "strokes": 11,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Roof",
+      "Leader",
+      "Hundred"
+    ],
+    "examples": [],
+    "mnemonic": "Inn - 11 strokes."
+  },
+  {
+    "id": "kj_n3_142",
+    "character": "情",
+    "romaji": "なさけ",
+    "type": "kanji",
+    "meanings": [
+      "Feelings",
+      "Emotion",
+      "Passion",
+      "Sympathy",
+      "Circumstances",
+      "Facts"
+    ],
+    "kunReading": [
+      "なさ.け"
+    ],
+    "onReading": [
+      "じょう",
+      "せい"
+    ],
+    "strokes": 11,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Soul",
+      "Blue"
+    ],
+    "examples": [],
+    "mnemonic": "Feelings - 11 strokes."
+  },
+  {
+    "id": "kj_n3_150",
+    "character": "望",
+    "romaji": "のぞmu",
+    "type": "kanji",
+    "meanings": [
+      "Ambition",
+      "Full Moon",
+      "Hope",
+      "Desire",
+      "Aspire To",
+      "Expect"
+    ],
+    "kunReading": [
+      "のぞ.む",
+      "もち"
+    ],
+    "onReading": [
+      "ぼう",
+      "もう"
+    ],
+    "strokes": 11,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Death",
+      "Moon",
+      "King"
+    ],
+    "examples": [],
+    "mnemonic": "Ambition - 11 strokes."
+  },
+  {
+    "id": "kj_n3_158",
+    "character": "術",
+    "romaji": "すべ",
+    "type": "kanji",
+    "meanings": [
+      "Art",
+      "Technique",
+      "Skill",
+      "Means",
+      "Trick",
+      "Resources",
+      "Magic"
+    ],
+    "kunReading": [
+      "すべ"
+    ],
+    "onReading": [
+      "じゅつ"
+    ],
+    "strokes": 11,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Go",
+      "Angel",
+      "Drop"
+    ],
+    "examples": [],
+    "mnemonic": "Art - 11 strokes."
+  },
+  {
+    "id": "kj_n3_169",
+    "character": "猫",
+    "romaji": "ねこ",
+    "type": "kanji",
+    "meanings": [
+      "Cat"
+    ],
+    "kunReading": [
+      "ねこ"
+    ],
+    "onReading": [
+      "びょう"
+    ],
+    "strokes": 11,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Animal",
+      "Flowers",
+      "Rice Paddy"
+    ],
+    "examples": [],
+    "mnemonic": "Cat - 11 strokes."
+  },
+  {
+    "id": "kj_n3_185",
+    "character": "険",
+    "romaji": "けわしい",
+    "type": "kanji",
+    "meanings": [
+      "Precipitous",
+      "Inaccessible Place",
+      "Impregnable Position",
+      "Steep Place",
+      "Sharp Eyes"
+    ],
+    "kunReading": [
+      "けわ.しい"
+    ],
+    "onReading": [
+      "けん"
+    ],
+    "strokes": 11,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Building",
+      "Squid"
+    ],
+    "examples": [],
+    "mnemonic": "Precipitous - 11 strokes."
+  },
+  {
+    "id": "kj_n3_190",
+    "character": "側",
+    "romaji": "かわ",
+    "type": "kanji",
+    "meanings": [
+      "Side",
+      "Lean",
+      "Oppose",
+      "Regret"
+    ],
+    "kunReading": [
+      "かわ",
+      "がわ",
+      "そば"
+    ],
+    "onReading": [
+      "そく"
+    ],
+    "strokes": 11,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Leader",
+      "Shellfish",
+      "Knife"
+    ],
+    "examples": [],
+    "mnemonic": "Side - 11 strokes."
+  },
+  {
+    "id": "kj_n3_192",
+    "character": "敗",
+    "romaji": "yaぶれる",
+    "type": "kanji",
+    "meanings": [
+      "Failure",
+      "Defeat",
+      "Reversal"
+    ],
+    "kunReading": [
+      "やぶ.れる"
+    ],
+    "onReading": [
+      "はい"
+    ],
+    "strokes": 11,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Shellfish",
+      "Winter"
+    ],
+    "examples": [],
+    "mnemonic": "Failure - 11 strokes."
+  },
+  {
+    "id": "kj_n3_195",
+    "character": "常",
+    "romaji": "つね",
+    "type": "kanji",
+    "meanings": [
+      "Usual",
+      "Ordinary",
+      "Normal",
+      "Common",
+      "Regular",
+      "Continually",
+      "Always",
+      "Long-lasting"
+    ],
+    "kunReading": [
+      "つね",
+      "とこ-"
+    ],
+    "onReading": [
+      "じょう"
+    ],
+    "strokes": 11,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Viking",
+      "Mouth",
+      "Towel"
+    ],
+    "examples": [],
+    "mnemonic": "Usual - 11 strokes."
+  },
+  {
+    "id": "kj_n3_213",
+    "character": "許",
+    "romaji": "ゆるす",
+    "type": "kanji",
+    "meanings": [
+      "Permit",
+      "Approve"
+    ],
+    "kunReading": [
+      "ゆる.す",
+      "もと"
+    ],
+    "onReading": [
+      "きょ"
+    ],
+    "strokes": 11,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Say",
+      "Noon"
+    ],
+    "examples": [],
+    "mnemonic": "Permit - 11 strokes."
+  },
+  {
+    "id": "kj_n3_223",
+    "character": "得",
+    "romaji": "える",
+    "type": "kanji",
+    "meanings": [
+      "Gain",
+      "Get",
+      "Find",
+      "Earn",
+      "Acquire",
+      "Can",
+      "May",
+      "Able To",
+      "Profit",
+      "Advantage",
+      "Benefit"
+    ],
+    "kunReading": [
+      "え.る",
+      "う.る"
+    ],
+    "onReading": [
+      "とく"
+    ],
+    "strokes": 11,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Loiter",
+      "Sun",
+      "Temple"
+    ],
+    "examples": [],
+    "mnemonic": "Gain - 11 strokes."
+  },
+  {
+    "id": "kj_n3_235",
+    "character": "産",
+    "romaji": "うmu",
+    "type": "kanji",
+    "meanings": [
+      "Products",
+      "Bear",
+      "Give Birth",
+      "Yield",
+      "Childbirth",
+      "Native",
+      "Property"
+    ],
+    "kunReading": [
+      "う.む",
+      "う.まれる",
+      "うぶ-",
+      "む.す"
+    ],
+    "onReading": [
+      "さん"
+    ],
+    "strokes": 11,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Stand",
+      "Cliff",
+      "Life"
+    ],
+    "examples": [],
+    "mnemonic": "Products - 11 strokes."
+  },
+  {
+    "id": "kj_n3_242",
+    "character": "経",
+    "romaji": "へる",
+    "type": "kanji",
+    "meanings": [
+      "Sutra",
+      "Longitude",
+      "Pass Thru",
+      "Expire",
+      "Warp"
+    ],
+    "kunReading": [
+      "へ.る",
+      "た.つ",
+      "たていと",
+      "はか.る",
+      "のり"
+    ],
+    "onReading": [
+      "けい",
+      "きょう",
+      "きん"
+    ],
+    "strokes": 11,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Thread",
+      "Tombstone"
+    ],
+    "examples": [],
+    "mnemonic": "Sutra - 11 strokes."
+  },
+  {
+    "id": "kj_n3_243",
+    "character": "済",
+    "romaji": "すmu",
+    "type": "kanji",
+    "meanings": [
+      "Settle (debt, Etc.)",
+      "Relieve (burden)",
+      "Finish",
+      "Come To An End",
+      "Excusable",
+      "Need Not"
+    ],
+    "kunReading": [
+      "す.む",
+      "-ず.み",
+      "-ずみ",
+      "す.まない",
+      "す.ます",
+      "-す.ます",
+      "すく.う",
+      "な.す",
+      "わたし",
+      "わた.る"
+    ],
+    "onReading": [
+      "さい",
+      "せい"
+    ],
+    "strokes": 11,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Tsunami",
+      "Simultaneous"
+    ],
+    "examples": [],
+    "mnemonic": "Settle (debt, Etc.) - 11 strokes."
+  },
+  {
+    "id": "kj_n3_246",
+    "character": "務",
+    "romaji": "つとめる",
+    "type": "kanji",
+    "meanings": [
+      "Task",
+      "Duties"
+    ],
+    "kunReading": [
+      "つと.める"
+    ],
+    "onReading": [
+      "む"
+    ],
+    "strokes": 11,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Spear",
+      "Winter",
+      "Power"
+    ],
+    "examples": [],
+    "mnemonic": "Task - 11 strokes."
+  },
+  {
+    "id": "kj_n3_250",
+    "character": "断",
+    "romaji": "たつ",
+    "type": "kanji",
+    "meanings": [
+      "Severance",
+      "Decline",
+      "Refuse",
+      "Apologize",
+      "Warn",
+      "Dismiss",
+      "Prohibit",
+      "Decision",
+      "Judgement",
+      "Cutting"
+    ],
+    "kunReading": [
+      "た.つ",
+      "ことわ.る",
+      "さだ.める"
+    ],
+    "onReading": [
+      "だん"
+    ],
+    "strokes": 11,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Lion",
+      "Rice",
+      "Axe"
+    ],
+    "examples": [],
+    "mnemonic": "Severance - 11 strokes."
+  },
+  {
+    "id": "kj_n3_252",
+    "character": "責",
+    "romaji": "せめる",
+    "type": "kanji",
+    "meanings": [
+      "Blame",
+      "Condemn",
+      "Censure"
+    ],
+    "kunReading": [
+      "せ.める"
+    ],
+    "onReading": [
+      "せき"
+    ],
+    "strokes": 11,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Life",
+      "Shellfish"
+    ],
+    "examples": [],
+    "mnemonic": "Blame - 11 strokes."
+  },
+  {
+    "id": "kj_n3_268",
+    "character": "規",
+    "romaji": "き",
+    "type": "kanji",
+    "meanings": [
+      "Standard",
+      "Measure"
+    ],
+    "kunReading": [],
+    "onReading": [
+      "き"
+    ],
+    "strokes": 11,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Husband",
+      "See"
+    ],
+    "examples": [],
+    "mnemonic": "Standard - 11 strokes."
+  },
+  {
+    "id": "kj_n3_275",
+    "character": "現",
+    "romaji": "あらわれる",
+    "type": "kanji",
+    "meanings": [
+      "Present",
+      "Existing",
+      "Actual"
+    ],
+    "kunReading": [
+      "あらわ.れる",
+      "あらわ.す",
+      "うつつ",
+      "うつ.つ"
+    ],
+    "onReading": [
+      "げん"
+    ],
+    "strokes": 11,
+    "jlptLevel": "N3",
+    "radicals": [
+      "King",
+      "See"
+    ],
+    "examples": [],
+    "mnemonic": "Present - 11 strokes."
+  },
+  {
+    "id": "kj_n3_290",
+    "character": "掛",
+    "romaji": "かける",
+    "type": "kanji",
+    "meanings": [
+      "Hang",
+      "Suspend",
+      "Depend",
+      "Arrive At",
+      "Tax",
+      "Pour"
+    ],
+    "kunReading": [
+      "か.ける",
+      "-か.ける",
+      "か.け",
+      "-か.け",
+      "-が.け",
+      "か.かる",
+      "-か.かる",
+      "-が.かる",
+      "か.かり",
+      "-が.かり",
+      "かかり",
+      "-がかり"
+    ],
+    "onReading": [
+      "かい",
+      "けい"
+    ],
+    "strokes": 11,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Fingers",
+      "Dirt",
+      "Toe"
+    ],
+    "examples": [],
+    "mnemonic": "Hang - 11 strokes."
+  },
+  {
+    "id": "kj_n3_299",
+    "character": "訪",
+    "romaji": "おとずれる",
+    "type": "kanji",
+    "meanings": [
+      "Call On",
+      "Visit",
+      "Look Up",
+      "Offer Sympathy"
+    ],
+    "kunReading": [
+      "おとず.れる",
+      "たず.ねる",
+      "と.う"
+    ],
+    "onReading": [
+      "ほう"
+    ],
+    "strokes": 11,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Say",
+      "Direction"
+    ],
+    "examples": [],
+    "mnemonic": "Call On - 11 strokes."
+  },
+  {
+    "id": "kj_n3_307",
+    "character": "婦",
+    "romaji": "yoめ",
+    "type": "kanji",
+    "meanings": [
+      "Lady",
+      "Woman",
+      "Wife",
+      "Bride"
+    ],
+    "kunReading": [
+      "よめ"
+    ],
+    "onReading": [
+      "ふ"
+    ],
+    "strokes": 11,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Woman",
+      "Wolverine",
+      "Forehead",
+      "Towel"
+    ],
+    "examples": [],
+    "mnemonic": "Lady - 11 strokes."
+  },
+  {
+    "id": "kj_n3_313",
+    "character": "寄",
+    "romaji": "yoる",
+    "type": "kanji",
+    "meanings": [
+      "Draw Near",
+      "Stop In",
+      "Bring Near",
+      "Gather",
+      "Collect",
+      "Send",
+      "Forward"
+    ],
+    "kunReading": [
+      "よ.る",
+      "-よ.り",
+      "よ.せる"
+    ],
+    "onReading": [
+      "き"
+    ],
+    "strokes": 11,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Roof",
+      "Odd"
+    ],
+    "examples": [],
+    "mnemonic": "Draw Near - 11 strokes."
+  },
+  {
+    "id": "kj_n3_317",
+    "character": "婚",
+    "romaji": "こん",
+    "type": "kanji",
+    "meanings": [
+      "Marriage"
+    ],
+    "kunReading": [],
+    "onReading": [
+      "こん"
+    ],
+    "strokes": 11,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Woman",
+      "Clan",
+      "Sun"
+    ],
+    "examples": [],
+    "mnemonic": "Marriage - 11 strokes."
+  },
+  {
+    "id": "kj_n3_319",
+    "character": "貧",
+    "romaji": "まずしい",
+    "type": "kanji",
+    "meanings": [
+      "Poverty",
+      "Poor"
+    ],
+    "kunReading": [
+      "まず.しい"
+    ],
+    "onReading": [
+      "ひん",
+      "びん"
+    ],
+    "strokes": 11,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Part",
+      "Shellfish"
+    ],
+    "examples": [],
+    "mnemonic": "Poverty - 11 strokes."
+  },
+  {
+    "id": "kj_n3_326",
+    "character": "盗",
+    "romaji": "ぬすmu",
+    "type": "kanji",
+    "meanings": [
+      "Steal",
+      "Rob",
+      "Pilfer"
+    ],
+    "kunReading": [
+      "ぬす.む",
+      "ぬす.み"
+    ],
+    "onReading": [
+      "とう"
+    ],
+    "strokes": 11,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Next",
+      "Plate"
+    ],
+    "examples": [],
+    "mnemonic": "Steal - 11 strokes."
+  },
+  {
+    "id": "kj_n3_332",
+    "character": "探",
+    "romaji": "さぐる",
+    "type": "kanji",
+    "meanings": [
+      "Grope",
+      "Search",
+      "Look For"
+    ],
+    "kunReading": [
+      "さぐ.る",
+      "さが.す"
+    ],
+    "onReading": [
+      "たん"
+    ],
+    "strokes": 11,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Fingers",
+      "Pi",
+      "Tree"
+    ],
+    "examples": [],
+    "mnemonic": "Grope - 11 strokes."
+  },
+  {
+    "id": "kj_n3_338",
+    "character": "欲",
+    "romaji": "ほっする",
+    "type": "kanji",
+    "meanings": [
+      "Longing",
+      "Covetousness",
+      "Greed",
+      "Passion",
+      "Desire",
+      "Craving"
+    ],
+    "kunReading": [
+      "ほっ.する",
+      "ほ.しい"
+    ],
+    "onReading": [
+      "よく"
+    ],
+    "strokes": 11,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Valley",
+      "Lack"
+    ],
+    "examples": [],
+    "mnemonic": "Longing - 11 strokes."
+  },
+  {
+    "id": "kj_n3_339",
+    "character": "閉",
+    "romaji": "とじる",
+    "type": "kanji",
+    "meanings": [
+      "Closed",
+      "Shut"
+    ],
+    "kunReading": [
+      "と.じる",
+      "と.ざす",
+      "し.める",
+      "し.まる",
+      "た.てる"
+    ],
+    "onReading": [
+      "へい"
+    ],
+    "strokes": 11,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Gate",
+      "Genius"
+    ],
+    "examples": [],
+    "mnemonic": "Closed - 11 strokes."
+  },
+  {
+    "id": "kj_n3_340",
+    "character": "窓",
+    "romaji": "まど",
+    "type": "kanji",
+    "meanings": [
+      "Window",
+      "Pane"
+    ],
+    "kunReading": [
+      "まど",
+      "てんまど",
+      "けむだし"
+    ],
+    "onReading": [
+      "そう",
+      "す"
+    ],
+    "strokes": 11,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Hole",
+      "Private",
+      "Heart"
+    ],
+    "examples": [],
+    "mnemonic": "Window - 11 strokes."
+  },
+  {
+    "id": "kj_n3_365",
+    "character": "偶",
+    "romaji": "たま",
+    "type": "kanji",
+    "meanings": [
+      "Accidentally",
+      "Even Number",
+      "Couple",
+      "Man & Wife",
+      "Same Kind"
+    ],
+    "kunReading": [
+      "たま"
+    ],
+    "onReading": [
+      "ぐう"
+    ],
+    "strokes": 11,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Leader",
+      "Splinter"
+    ],
+    "examples": [],
+    "mnemonic": "Accidentally - 11 strokes."
+  },
+  {
+    "id": "kj_n3_367",
+    "character": "頂",
+    "romaji": "いただく",
+    "type": "kanji",
+    "meanings": [
+      "Place On The Head",
+      "Receive",
+      "Top Of Head",
+      "Top",
+      "Summit",
+      "Peak"
+    ],
+    "kunReading": [
+      "いただ.く",
+      "いただき"
+    ],
+    "onReading": [
+      "ちょう"
+    ],
+    "strokes": 11,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Street",
+      "Geoduck"
+    ],
+    "examples": [],
+    "mnemonic": "Place On The Head - 11 strokes."
+  },
+  {
+    "id": "kj_n3_055",
+    "character": "番",
+    "romaji": "つがい",
+    "type": "kanji",
+    "meanings": [
+      "Turn",
+      "Number In A Series"
+    ],
+    "kunReading": [
+      "つが.い"
+    ],
+    "onReading": [
+      "ばん"
+    ],
+    "strokes": 12,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Sickle",
+      "Rice Paddy"
+    ],
+    "examples": [],
+    "mnemonic": "Turn - 12 strokes."
+  },
+  {
+    "id": "kj_n3_056",
+    "character": "絵",
+    "romaji": "かい",
+    "type": "kanji",
+    "meanings": [
+      "Picture",
+      "Drawing",
+      "Painting",
+      "Sketch"
+    ],
+    "kunReading": [],
+    "onReading": [
+      "かい",
+      "え"
+    ],
+    "strokes": 12,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Thread",
+      "Meet"
+    ],
+    "examples": [],
+    "mnemonic": "Picture - 12 strokes."
+  },
+  {
+    "id": "kj_n3_075",
+    "character": "勝",
+    "romaji": "かつ",
+    "type": "kanji",
+    "meanings": [
+      "Victory",
+      "Win",
+      "Prevail",
+      "Excel"
+    ],
+    "kunReading": [
+      "か.つ",
+      "-が.ち",
+      "まさ.る",
+      "すぐ.れる",
+      "かつ"
+    ],
+    "onReading": [
+      "しょう"
+    ],
+    "strokes": 12,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Moon",
+      "Gladiator",
+      "Power"
+    ],
+    "examples": [],
+    "mnemonic": "Victory - 12 strokes."
+  },
+  {
+    "id": "kj_n3_080",
+    "character": "落",
+    "romaji": "おちる",
+    "type": "kanji",
+    "meanings": [
+      "Fall",
+      "Drop",
+      "Come Down",
+      "Village",
+      "Hamlet"
+    ],
+    "kunReading": [
+      "お.ちる",
+      "お.ち",
+      "お.とす"
+    ],
+    "onReading": [
+      "らく"
+    ],
+    "strokes": 12,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Flowers",
+      "Tsunami",
+      "Kiss"
+    ],
+    "examples": [],
+    "mnemonic": "Fall - 12 strokes."
+  },
+  {
+    "id": "kj_n3_081",
+    "character": "葉",
+    "romaji": "は",
+    "type": "kanji",
+    "meanings": [
+      "Leaf",
+      "Plane",
+      "Lobe",
+      "Needle",
+      "Blade",
+      "Spear",
+      "Counter For Flat Things",
+      "Fragment",
+      "Piece"
+    ],
+    "kunReading": [
+      "は"
+    ],
+    "onReading": [
+      "よう"
+    ],
+    "strokes": 12,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Flowers",
+      "World",
+      "Tree"
+    ],
+    "examples": [],
+    "mnemonic": "Leaf - 12 strokes."
+  },
+  {
+    "id": "kj_n3_088",
+    "character": "最",
+    "romaji": "もっとも",
+    "type": "kanji",
+    "meanings": [
+      "Utmost",
+      "Most",
+      "Extreme"
+    ],
+    "kunReading": [
+      "もっと.も",
+      "つま"
+    ],
+    "onReading": [
+      "さい",
+      "しゅ"
+    ],
+    "strokes": 12,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Sun",
+      "Ear",
+      "Stool"
+    ],
+    "examples": [],
+    "mnemonic": "Utmost - 12 strokes."
+  },
+  {
+    "id": "kj_n3_119",
+    "character": "陽",
+    "romaji": "ひ",
+    "type": "kanji",
+    "meanings": [
+      "Sunshine",
+      "Yang Principle",
+      "Positive",
+      "Male",
+      "Heaven",
+      "Daytime"
+    ],
+    "kunReading": [
+      "ひ"
+    ],
+    "onReading": [
+      "よう"
+    ],
+    "strokes": 12,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Building",
+      "Easy"
+    ],
+    "examples": [],
+    "mnemonic": "Sunshine - 12 strokes."
+  },
+  {
+    "id": "kj_n3_120",
+    "character": "寒",
+    "romaji": "さmuい",
+    "type": "kanji",
+    "meanings": [
+      "Cold"
+    ],
+    "kunReading": [
+      "さむ.い"
+    ],
+    "onReading": [
+      "かん"
+    ],
+    "strokes": 12,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Roof",
+      "Spring",
+      "Ice"
+    ],
+    "examples": [],
+    "mnemonic": "Cold - 12 strokes."
+  },
+  {
+    "id": "kj_n3_121",
+    "character": "悲",
+    "romaji": "かなしい",
+    "type": "kanji",
+    "meanings": [
+      "Grieve",
+      "Sad",
+      "Deplore",
+      "Regret"
+    ],
+    "kunReading": [
+      "かな.しい",
+      "かな.しむ"
+    ],
+    "onReading": [
+      "ひ"
+    ],
+    "strokes": 12,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Criminal",
+      "Heart"
+    ],
+    "examples": [],
+    "mnemonic": "Grieve - 12 strokes."
+  },
+  {
+    "id": "kj_n3_122",
+    "character": "期",
+    "romaji": "き",
+    "type": "kanji",
+    "meanings": [
+      "Period",
+      "Time",
+      "Date",
+      "Term"
+    ],
+    "kunReading": [],
+    "onReading": [
+      "き",
+      "ご"
+    ],
+    "strokes": 12,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Crab",
+      "Moon"
+    ],
+    "examples": [],
+    "mnemonic": "Period - 12 strokes."
+  },
+  {
+    "id": "kj_n3_123",
+    "character": "歯",
+    "romaji": "yoわい",
+    "type": "kanji",
+    "meanings": [
+      "Tooth",
+      "Cog"
+    ],
+    "kunReading": [
+      "よわい",
+      "は",
+      "よわ.い",
+      "よわい.する"
+    ],
+    "onReading": [
+      "し"
+    ],
+    "strokes": 12,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Stop",
+      "Box",
+      "Rice"
+    ],
+    "examples": [],
+    "mnemonic": "Tooth - 12 strokes."
+  },
+  {
+    "id": "kj_n3_124",
+    "character": "港",
+    "romaji": "miなと",
+    "type": "kanji",
+    "meanings": [
+      "Harbor"
+    ],
+    "kunReading": [
+      "みなと"
+    ],
+    "onReading": [
+      "こう"
+    ],
+    "strokes": 12,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Tsunami",
+      "Together",
+      "Oneself"
+    ],
+    "examples": [],
+    "mnemonic": "Harbor - 12 strokes."
+  },
+  {
+    "id": "kj_n3_125",
+    "character": "登",
+    "romaji": "のぼる",
+    "type": "kanji",
+    "meanings": [
+      "Ascend",
+      "Climb Up"
+    ],
+    "kunReading": [
+      "のぼ.る",
+      "あ.がる"
+    ],
+    "onReading": [
+      "とう",
+      "と",
+      "どう",
+      "しょう",
+      "ちょう"
+    ],
+    "strokes": 12,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Tent",
+      "Beans"
+    ],
+    "examples": [],
+    "mnemonic": "Ascend - 12 strokes."
+  },
+  {
+    "id": "kj_n3_138",
+    "character": "然",
+    "romaji": "しか",
+    "type": "kanji",
+    "meanings": [
+      "Sort Of Thing",
+      "So",
+      "If So",
+      "In That Case",
+      "Well"
+    ],
+    "kunReading": [
+      "しか",
+      "しか.り",
+      "しか.し",
+      "さ"
+    ],
+    "onReading": [
+      "ぜん",
+      "ねん"
+    ],
+    "strokes": 12,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Moon",
+      "Dog",
+      "Boil"
+    ],
+    "examples": [],
+    "mnemonic": "Sort Of Thing - 12 strokes."
+  },
+  {
+    "id": "kj_n3_159",
+    "character": "晴",
+    "romaji": "はれる",
+    "type": "kanji",
+    "meanings": [
+      "Clear Up"
+    ],
+    "kunReading": [
+      "は.れる",
+      "は.れ",
+      "は.れ-",
+      "-ば.れ",
+      "は.らす"
+    ],
+    "onReading": [
+      "せい"
+    ],
+    "strokes": 12,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Sun",
+      "Blue"
+    ],
+    "examples": [],
+    "mnemonic": "Clear Up - 12 strokes."
+  },
+  {
+    "id": "kj_n3_168",
+    "character": "晩",
+    "romaji": "ばん",
+    "type": "kanji",
+    "meanings": [
+      "Nightfall",
+      "Night"
+    ],
+    "kunReading": [],
+    "onReading": [
+      "ばん"
+    ],
+    "strokes": 12,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Sun",
+      "Excuse"
+    ],
+    "examples": [],
+    "mnemonic": "Nightfall - 12 strokes."
+  },
+  {
+    "id": "kj_n3_178",
+    "character": "喜",
+    "romaji": "yoろこぶ",
+    "type": "kanji",
+    "meanings": [
+      "Rejoice",
+      "Take Pleasure In"
+    ],
+    "kunReading": [
+      "よろこ.ぶ",
+      "よろこ.ばす"
+    ],
+    "onReading": [
+      "き"
+    ],
+    "strokes": 12,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Drum",
+      "Mouth"
+    ],
+    "examples": [],
+    "mnemonic": "Rejoice - 12 strokes."
+  },
+  {
+    "id": "kj_n3_202",
+    "character": "覚",
+    "romaji": "おぼえる",
+    "type": "kanji",
+    "meanings": [
+      "Memorize",
+      "Learn",
+      "Remember",
+      "Awake",
+      "Sober Up"
+    ],
+    "kunReading": [
+      "おぼ.える",
+      "さ.ます",
+      "さ.める",
+      "さと.る"
+    ],
+    "onReading": [
+      "かく"
+    ],
+    "strokes": 12,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Viking",
+      "See"
+    ],
+    "examples": [],
+    "mnemonic": "Memorize - 12 strokes."
+  },
+  {
+    "id": "kj_n3_206",
+    "character": "達",
+    "romaji": "たち",
+    "type": "kanji",
+    "meanings": [
+      "Accomplished",
+      "Reach",
+      "Arrive",
+      "Attain"
+    ],
+    "kunReading": [
+      "-たち"
+    ],
+    "onReading": [
+      "たつ",
+      "だ"
+    ],
+    "strokes": 12,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Scooter",
+      "Happiness"
+    ],
+    "examples": [],
+    "mnemonic": "Accomplished - 12 strokes."
+  },
+  {
+    "id": "kj_n3_208",
+    "character": "報",
+    "romaji": "muくいる",
+    "type": "kanji",
+    "meanings": [
+      "Report",
+      "News",
+      "Reward",
+      "Retribution"
+    ],
+    "kunReading": [
+      "むく.いる"
+    ],
+    "onReading": [
+      "ほう"
+    ],
+    "strokes": 12,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Happiness",
+      "Stamp",
+      "Stool"
+    ],
+    "examples": [],
+    "mnemonic": "Report - 12 strokes."
+  },
+  {
+    "id": "kj_n3_209",
+    "character": "等",
+    "romaji": "hitoしい",
+    "type": "kanji",
+    "meanings": [
+      "Etc.",
+      "And So Forth",
+      "Class (first)",
+      "Quality",
+      "Equal",
+      "Similar"
+    ],
+    "kunReading": [
+      "ひと.しい",
+      "など",
+      "-ら"
+    ],
+    "onReading": [
+      "とう"
+    ],
+    "strokes": 12,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Bamboo",
+      "Temple"
+    ],
+    "examples": [],
+    "mnemonic": "Etc. - 12 strokes."
+  },
+  {
+    "id": "kj_n3_257",
+    "character": "過",
+    "romaji": "すぎる",
+    "type": "kanji",
+    "meanings": [
+      "Overdo",
+      "Exceed",
+      "Go Beyond",
+      "Error"
+    ],
+    "kunReading": [
+      "す.ぎる",
+      "-す.ぎる",
+      "-す.ぎ",
+      "す.ごす",
+      "あやま.つ",
+      "あやま.ち",
+      "よ.ぎる"
+    ],
+    "onReading": [
+      "か"
+    ],
+    "strokes": 12,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Scooter",
+      "Mustache"
+    ],
+    "examples": [],
+    "mnemonic": "Overdo - 12 strokes."
+  },
+  {
+    "id": "kj_n3_260",
+    "character": "費",
+    "romaji": "ついyaす",
+    "type": "kanji",
+    "meanings": [
+      "Expense",
+      "Cost",
+      "Spend",
+      "Consume",
+      "Waste"
+    ],
+    "kunReading": [
+      "つい.やす",
+      "つい.える"
+    ],
+    "onReading": [
+      "ひ"
+    ],
+    "strokes": 12,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Dollar",
+      "Shellfish"
+    ],
+    "examples": [],
+    "mnemonic": "Expense - 12 strokes."
+  },
+  {
+    "id": "kj_n3_269",
+    "character": "割",
+    "romaji": "わる",
+    "type": "kanji",
+    "meanings": [
+      "Proportion",
+      "Comparatively",
+      "Divide",
+      "Cut",
+      "Separate",
+      "Split"
+    ],
+    "kunReading": [
+      "わ.る",
+      "わり",
+      "わ.り",
+      "わ.れる",
+      "さ.く"
+    ],
+    "onReading": [
+      "かつ"
+    ],
+    "strokes": 12,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Roof",
+      "Life",
+      "Mouth",
+      "Knife"
+    ],
+    "examples": [],
+    "mnemonic": "Proportion - 12 strokes."
+  },
+  {
+    "id": "kj_n3_272",
+    "character": "備",
+    "romaji": "そなえる",
+    "type": "kanji",
+    "meanings": [
+      "Equip",
+      "Provision",
+      "Preparation"
+    ],
+    "kunReading": [
+      "そな.える",
+      "そな.わる",
+      "つぶさ.に"
+    ],
+    "onReading": [
+      "び"
+    ],
+    "strokes": 12,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Leader",
+      "Flowers",
+      "Cliff",
+      "Task"
+    ],
+    "examples": [],
+    "mnemonic": "Equip - 12 strokes."
+  },
+  {
+    "id": "kj_n3_282",
+    "character": "渡",
+    "romaji": "わたる",
+    "type": "kanji",
+    "meanings": [
+      "Transit",
+      "Ford",
+      "Ferry",
+      "Cross",
+      "Import",
+      "Deliver",
+      "Diameter",
+      "Migrate"
+    ],
+    "kunReading": [
+      "わた.る",
+      "-わた.る",
+      "わた.す"
+    ],
+    "onReading": [
+      "と"
+    ],
+    "strokes": 12,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Tsunami",
+      "Yurt",
+      "Stool"
+    ],
+    "examples": [],
+    "mnemonic": "Transit - 12 strokes."
+  },
+  {
+    "id": "kj_n3_283",
+    "character": "景",
+    "romaji": "けい",
+    "type": "kanji",
+    "meanings": [
+      "Scenery",
+      "View"
+    ],
+    "kunReading": [],
+    "onReading": [
+      "けい"
+    ],
+    "strokes": 12,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Sun",
+      "Capital"
+    ],
+    "examples": [],
+    "mnemonic": "Scenery - 12 strokes."
+  },
+  {
+    "id": "kj_n3_289",
+    "character": "満",
+    "romaji": "miちる",
+    "type": "kanji",
+    "meanings": [
+      "Full",
+      "Fullness",
+      "Enough",
+      "Satisfy"
+    ],
+    "kunReading": [
+      "み.ちる",
+      "み.つ",
+      "み.たす"
+    ],
+    "onReading": [
+      "まん",
+      "ばん"
+    ],
+    "strokes": 12,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Tsunami",
+      "Flowers",
+      "Both"
+    ],
+    "examples": [],
+    "mnemonic": "Full - 12 strokes."
+  },
+  {
+    "id": "kj_n3_296",
+    "character": "痛",
+    "romaji": "いたい",
+    "type": "kanji",
+    "meanings": [
+      "Pain",
+      "Hurt",
+      "Damage",
+      "Bruise"
+    ],
+    "kunReading": [
+      "いた.い",
+      "いた.む",
+      "いた.ましい",
+      "いた.める"
+    ],
+    "onReading": [
+      "つう"
+    ],
+    "strokes": 12,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Sick",
+      "Mama",
+      "Task"
+    ],
+    "examples": [],
+    "mnemonic": "Pain - 12 strokes."
+  },
+  {
+    "id": "kj_n3_304",
+    "character": "給",
+    "romaji": "たまう",
+    "type": "kanji",
+    "meanings": [
+      "Salary",
+      "Wage",
+      "Gift",
+      "Allow",
+      "Grant",
+      "Bestow On"
+    ],
+    "kunReading": [
+      "たま.う",
+      "たも.う",
+      "-たま.え"
+    ],
+    "onReading": [
+      "きゅう"
+    ],
+    "strokes": 12,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Thread",
+      "Suit"
+    ],
+    "examples": [],
+    "mnemonic": "Salary - 12 strokes."
+  },
+  {
+    "id": "kj_n3_308",
+    "character": "程",
+    "romaji": "ほど",
+    "type": "kanji",
+    "meanings": [
+      "Extent",
+      "Degree",
+      "Law",
+      "Formula",
+      "Distance",
+      "Limits",
+      "Amount"
+    ],
+    "kunReading": [
+      "ほど",
+      "-ほど"
+    ],
+    "onReading": [
+      "てい"
+    ],
+    "strokes": 12,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Grain",
+      "Mouth",
+      "King"
+    ],
+    "examples": [],
+    "mnemonic": "Extent - 12 strokes."
+  },
+  {
+    "id": "kj_n3_310",
+    "character": "絶",
+    "romaji": "たえる",
+    "type": "kanji",
+    "meanings": [
+      "Discontinue",
+      "Sever",
+      "Cut Off",
+      "Abstain",
+      "Interrupt",
+      "Suppress",
+      "Be Beyond",
+      "Without Match",
+      "Peerless",
+      "Unparalleled"
+    ],
+    "kunReading": [
+      "た.える",
+      "た.やす",
+      "た.つ"
+    ],
+    "onReading": [
+      "ぜつ"
+    ],
+    "strokes": 12,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Thread",
+      "Color"
+    ],
+    "examples": [],
+    "mnemonic": "Discontinue - 12 strokes."
+  },
+  {
+    "id": "kj_n3_318",
+    "character": "遊",
+    "romaji": "あそぶ",
+    "type": "kanji",
+    "meanings": [
+      "Play"
+    ],
+    "kunReading": [
+      "あそ.ぶ",
+      "あそ.ばす"
+    ],
+    "onReading": [
+      "ゆう",
+      "ゆ"
+    ],
+    "strokes": 12,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Scooter",
+      "Direction",
+      "Gun",
+      "Child"
+    ],
+    "examples": [],
+    "mnemonic": "Play - 12 strokes."
+  },
+  {
+    "id": "kj_n3_324",
+    "character": "越",
+    "romaji": "こす",
+    "type": "kanji",
+    "meanings": [
+      "Surpass",
+      "Cross Over",
+      "Move To",
+      "Exceed",
+      "Vietnam"
+    ],
+    "kunReading": [
+      "こ.す",
+      "-こ.す",
+      "-ご.し",
+      "こ.える",
+      "-ご.え"
+    ],
+    "onReading": [
+      "えつ",
+      "おつ"
+    ],
+    "strokes": 12,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Run",
+      "Become"
+    ],
+    "examples": [],
+    "mnemonic": "Surpass - 12 strokes."
+  },
+  {
+    "id": "kj_n3_328",
+    "character": "幾",
+    "romaji": "いく",
+    "type": "kanji",
+    "meanings": [
+      "How Many",
+      "How Much",
+      "How Far",
+      "How Long",
+      "Some",
+      "Several"
+    ],
+    "kunReading": [
+      "いく-",
+      "いく.つ",
+      "いく.ら"
+    ],
+    "onReading": [
+      "き"
+    ],
+    "strokes": 12,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Poop",
+      "Drunkard",
+      "Person"
+    ],
+    "examples": [],
+    "mnemonic": "How Many - 12 strokes."
+  },
+  {
+    "id": "kj_n3_329",
+    "character": "散",
+    "romaji": "ちる",
+    "type": "kanji",
+    "meanings": [
+      "Scatter",
+      "Disperse",
+      "Spend",
+      "Squander"
+    ],
+    "kunReading": [
+      "ち.る",
+      "ち.らす",
+      "-ち.らす",
+      "ち.らかす",
+      "ち.らかる",
+      "ち.らばる",
+      "ばら",
+      "ばら.ける"
+    ],
+    "onReading": [
+      "さん"
+    ],
+    "strokes": 12,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Blackjack",
+      "Moon",
+      "Winter"
+    ],
+    "examples": [],
+    "mnemonic": "Scatter - 12 strokes."
+  },
+  {
+    "id": "kj_n3_331",
+    "character": "富",
+    "romaji": "とmu",
+    "type": "kanji",
+    "meanings": [
+      "Wealth",
+      "Enrich",
+      "Abundant"
+    ],
+    "kunReading": [
+      "と.む",
+      "とみ"
+    ],
+    "onReading": [
+      "ふ",
+      "ふう"
+    ],
+    "strokes": 12,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Roof",
+      "Scarecrow"
+    ],
+    "examples": [],
+    "mnemonic": "Wealth - 12 strokes."
+  },
+  {
+    "id": "kj_n3_345",
+    "character": "勤",
+    "romaji": "つとめる",
+    "type": "kanji",
+    "meanings": [
+      "Diligence",
+      "Become Employed",
+      "Serve"
+    ],
+    "kunReading": [
+      "つと.める",
+      "-づと.め",
+      "つと.まる",
+      "いそ.しむ"
+    ],
+    "onReading": [
+      "きん",
+      "ごん"
+    ],
+    "strokes": 12,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Boot",
+      "Power"
+    ],
+    "examples": [],
+    "mnemonic": "Diligence - 12 strokes."
+  },
+  {
+    "id": "kj_n3_347",
+    "character": "遅",
+    "romaji": "おくれる",
+    "type": "kanji",
+    "meanings": [
+      "Slow",
+      "Late",
+      "Back",
+      "Later"
+    ],
+    "kunReading": [
+      "おく.れる",
+      "おく.らす",
+      "おそ.い"
+    ],
+    "onReading": [
+      "ち"
+    ],
+    "strokes": 12,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Scooter",
+      "Flag",
+      "Sheep"
+    ],
+    "examples": [],
+    "mnemonic": "Slow - 12 strokes."
+  },
+  {
+    "id": "kj_n3_359",
+    "character": "御",
+    "romaji": "おん",
+    "type": "kanji",
+    "meanings": [
+      "Honorable",
+      "Manipulate",
+      "Govern"
+    ],
+    "kunReading": [
+      "おん-",
+      "お-",
+      "み-"
+    ],
+    "onReading": [
+      "ぎょ",
+      "ご"
+    ],
+    "strokes": 12,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Loiter",
+      "Gun",
+      "Correct",
+      "Stamp"
+    ],
+    "examples": [],
+    "mnemonic": "Honorable - 12 strokes."
+  },
+  {
+    "id": "kj_n3_366",
+    "character": "偉",
+    "romaji": "えらい",
+    "type": "kanji",
+    "meanings": [
+      "Admirable",
+      "Greatness",
+      "Remarkable",
+      "Conceited",
+      "Famous",
+      "Excellent"
+    ],
+    "kunReading": [
+      "えら.い"
+    ],
+    "onReading": [
+      "い"
+    ],
+    "strokes": 12,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Leader",
+      "Korea"
+    ],
+    "examples": [],
+    "mnemonic": "Admirable - 12 strokes."
+  },
+  {
+    "id": "kj_n3_057",
+    "character": "数",
+    "romaji": "かず",
+    "type": "kanji",
+    "meanings": [
+      "Number",
+      "Strength",
+      "Fate",
+      "Law",
+      "Figures"
+    ],
+    "kunReading": [
+      "かず",
+      "かぞ.える",
+      "しばしば",
+      "せ.める",
+      "わずらわ.しい"
+    ],
+    "onReading": [
+      "すう",
+      "す",
+      "さく",
+      "そく",
+      "しゅ"
+    ],
+    "strokes": 13,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Rice",
+      "Woman",
+      "Winter"
+    ],
+    "examples": [],
+    "mnemonic": "Number - 13 strokes."
+  },
+  {
+    "id": "kj_n3_082",
+    "character": "路",
+    "romaji": "じ",
+    "type": "kanji",
+    "meanings": [
+      "Path",
+      "Route",
+      "Road",
+      "Distance"
+    ],
+    "kunReading": [
+      "-じ",
+      "みち"
+    ],
+    "onReading": [
+      "ろ",
+      "る"
+    ],
+    "strokes": 13,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Foot",
+      "Kiss"
+    ],
+    "examples": [],
+    "mnemonic": "Path - 13 strokes."
+  },
+  {
+    "id": "kj_n3_107",
+    "character": "戦",
+    "romaji": "いくさ",
+    "type": "kanji",
+    "meanings": [
+      "War",
+      "Battle",
+      "Match"
+    ],
+    "kunReading": [
+      "いくさ",
+      "たたか.う",
+      "おのの.く",
+      "そよ.ぐ",
+      "わなな.く"
+    ],
+    "onReading": [
+      "せん"
+    ],
+    "strokes": 13,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Simple",
+      "Drunkard"
+    ],
+    "examples": [],
+    "mnemonic": "War - 13 strokes."
+  },
+  {
+    "id": "kj_n3_110",
+    "character": "働",
+    "romaji": "はたらく",
+    "type": "kanji",
+    "meanings": [
+      "Work",
+      "(kokuji)"
+    ],
+    "kunReading": [
+      "はたら.く"
+    ],
+    "onReading": [
+      "どう"
+    ],
+    "strokes": 13,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Leader",
+      "Heavy",
+      "Power"
+    ],
+    "examples": [],
+    "mnemonic": "Work - 13 strokes."
+  },
+  {
+    "id": "kj_n3_132",
+    "character": "想",
+    "romaji": "おもう",
+    "type": "kanji",
+    "meanings": [
+      "Concept",
+      "Think",
+      "Idea",
+      "Thought"
+    ],
+    "kunReading": [
+      "おも.う"
+    ],
+    "onReading": [
+      "そう",
+      "そ"
+    ],
+    "strokes": 13,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Tree",
+      "Eye",
+      "Heart"
+    ],
+    "examples": [],
+    "mnemonic": "Concept - 13 strokes."
+  },
+  {
+    "id": "kj_n3_133",
+    "character": "感",
+    "romaji": "かん",
+    "type": "kanji",
+    "meanings": [
+      "Emotion",
+      "Feeling",
+      "Sensation"
+    ],
+    "kunReading": [],
+    "onReading": [
+      "かん"
+    ],
+    "strokes": 13,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Slide",
+      "Drunkard",
+      "Creeper",
+      "Heart"
+    ],
+    "examples": [],
+    "mnemonic": "Emotion - 13 strokes."
+  },
+  {
+    "id": "kj_n3_134",
+    "character": "暗",
+    "romaji": "くらい",
+    "type": "kanji",
+    "meanings": [
+      "Darkness",
+      "Disappear",
+      "Shade",
+      "Informal",
+      "Grow Dark",
+      "Be Blinded"
+    ],
+    "kunReading": [
+      "くら.い",
+      "くら.む",
+      "くれ.る"
+    ],
+    "onReading": [
+      "あん"
+    ],
+    "strokes": 13,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Sun",
+      "Stand"
+    ],
+    "examples": [],
+    "mnemonic": "Darkness - 13 strokes."
+  },
+  {
+    "id": "kj_n3_136",
+    "character": "福",
+    "romaji": "ふく",
+    "type": "kanji",
+    "meanings": [
+      "Blessing",
+      "Fortune",
+      "Luck",
+      "Wealth"
+    ],
+    "kunReading": [],
+    "onReading": [
+      "ふく"
+    ],
+    "strokes": 13,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Spirit",
+      "Scarecrow"
+    ],
+    "examples": [],
+    "mnemonic": "Blessing - 13 strokes."
+  },
+  {
+    "id": "kj_n3_170",
+    "character": "園",
+    "romaji": "その",
+    "type": "kanji",
+    "meanings": [
+      "Park",
+      "Garden",
+      "Yard",
+      "Farm"
+    ],
+    "kunReading": [
+      "その"
+    ],
+    "onReading": [
+      "えん"
+    ],
+    "strokes": 13,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Mouth",
+      "Zombie"
+    ],
+    "examples": [],
+    "mnemonic": "Park - 13 strokes."
+  },
+  {
+    "id": "kj_n3_171",
+    "character": "遠",
+    "romaji": "toい",
+    "type": "kanji",
+    "meanings": [
+      "Distant",
+      "Far"
+    ],
+    "kunReading": [
+      "とお.い"
+    ],
+    "onReading": [
+      "えん",
+      "おん"
+    ],
+    "strokes": 13,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Scooter",
+      "Zombie"
+    ],
+    "examples": [],
+    "mnemonic": "Distant - 13 strokes."
+  },
+  {
+    "id": "kj_n3_181",
+    "character": "辞",
+    "romaji": "yaめる",
+    "type": "kanji",
+    "meanings": [
+      "Resign",
+      "Word",
+      "Term",
+      "Expression"
+    ],
+    "kunReading": [
+      "や.める",
+      "いな.む"
+    ],
+    "onReading": [
+      "じ"
+    ],
+    "strokes": 13,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Tongue",
+      "Spicy"
+    ],
+    "examples": [],
+    "mnemonic": "Resign - 13 strokes."
+  },
+  {
+    "id": "kj_n3_200",
+    "character": "愛",
+    "romaji": "いとしい",
+    "type": "kanji",
+    "meanings": [
+      "Love",
+      "Affection",
+      "Favourite"
+    ],
+    "kunReading": [
+      "いと.しい",
+      "かな.しい",
+      "め.でる",
+      "お.しむ",
+      "まな"
+    ],
+    "onReading": [
+      "あい"
+    ],
+    "strokes": 13,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Cleat",
+      "Forehead",
+      "Heart",
+      "Winter"
+    ],
+    "examples": [],
+    "mnemonic": "Love - 13 strokes."
+  },
+  {
+    "id": "kj_n3_215",
+    "character": "煙",
+    "romaji": "けmuる",
+    "type": "kanji",
+    "meanings": [
+      "Smoke"
+    ],
+    "kunReading": [
+      "けむ.る",
+      "けむり",
+      "けむ.い"
+    ],
+    "onReading": [
+      "えん"
+    ],
+    "strokes": 13,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Fire",
+      "Helicopter",
+      "Dirt"
+    ],
+    "examples": [],
+    "mnemonic": "Smoke - 13 strokes."
+  },
+  {
+    "id": "kj_n3_224",
+    "character": "続",
+    "romaji": "つづく",
+    "type": "kanji",
+    "meanings": [
+      "Continue",
+      "Series",
+      "Sequel"
+    ],
+    "kunReading": [
+      "つづ.く",
+      "つづ.ける",
+      "つぐ.ない"
+    ],
+    "onReading": [
+      "ぞく",
+      "しょく",
+      "こう",
+      "きょう"
+    ],
+    "strokes": 13,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Thread",
+      "Sell"
+    ],
+    "examples": [],
+    "mnemonic": "Continue - 13 strokes."
+  },
+  {
+    "id": "kj_n3_234",
+    "character": "夢",
+    "romaji": "ゆめ",
+    "type": "kanji",
+    "meanings": [
+      "Dream",
+      "Vision",
+      "Illusion"
+    ],
+    "kunReading": [
+      "ゆめ",
+      "ゆめ.みる",
+      "くら.い"
+    ],
+    "onReading": [
+      "む",
+      "ぼう"
+    ],
+    "strokes": 13,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Flowers",
+      "Net",
+      "Forehead",
+      "Evening"
+    ],
+    "examples": [],
+    "mnemonic": "Dream - 13 strokes."
+  },
+  {
+    "id": "kj_n3_240",
+    "character": "罪",
+    "romaji": "つmi",
+    "type": "kanji",
+    "meanings": [
+      "Guilt",
+      "Sin",
+      "Crime",
+      "Fault",
+      "Blame",
+      "Offense"
+    ],
+    "kunReading": [
+      "つみ"
+    ],
+    "onReading": [
+      "ざい"
+    ],
+    "strokes": 13,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Net",
+      "Criminal"
+    ],
+    "examples": [],
+    "mnemonic": "Guilt - 13 strokes."
+  },
+  {
+    "id": "kj_n3_247",
+    "character": "資",
+    "romaji": "し",
+    "type": "kanji",
+    "meanings": [
+      "Assets",
+      "Resources",
+      "Capital",
+      "Funds",
+      "Data",
+      "Be Conducive To",
+      "Contribute To"
+    ],
+    "kunReading": [],
+    "onReading": [
+      "し"
+    ],
+    "strokes": 13,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Next",
+      "Shellfish"
+    ],
+    "examples": [],
+    "mnemonic": "Assets - 13 strokes."
+  },
+  {
+    "id": "kj_n3_254",
+    "character": "解",
+    "romaji": "とく",
+    "type": "kanji",
+    "meanings": [
+      "Unravel",
+      "Notes",
+      "Key",
+      "Explanation",
+      "Understanding",
+      "Untie",
+      "Undo",
+      "Solve",
+      "Answer",
+      "Cancel",
+      "Absolve",
+      "Explain",
+      "Minute"
+    ],
+    "kunReading": [
+      "と.く",
+      "と.かす",
+      "と.ける",
+      "ほど.く",
+      "ほど.ける",
+      "わか.る",
+      "さと.る"
+    ],
+    "onReading": [
+      "かい",
+      "げ"
+    ],
+    "strokes": 13,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Angle",
+      "Sword",
+      "Cow"
+    ],
+    "examples": [],
+    "mnemonic": "Unravel - 13 strokes."
+  },
+  {
+    "id": "kj_n3_258",
+    "character": "寝",
+    "romaji": "ねる",
+    "type": "kanji",
+    "meanings": [
+      "Lie Down",
+      "Sleep",
+      "Rest",
+      "Bed",
+      "Remain Unsold"
+    ],
+    "kunReading": [
+      "ね.る",
+      "ね.かす",
+      "い.ぬ",
+      "みたまや",
+      "や.める"
+    ],
+    "onReading": [
+      "しん"
+    ],
+    "strokes": 13,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Roof",
+      "Icicle",
+      "Wolverine",
+      "Forehead",
+      "Stool"
+    ],
+    "examples": [],
+    "mnemonic": "Lie Down - 13 strokes."
+  },
+  {
+    "id": "kj_n3_259",
+    "character": "置",
+    "romaji": "おく",
+    "type": "kanji",
+    "meanings": [
+      "Placement",
+      "Put",
+      "Set",
+      "Deposit",
+      "Leave Behind",
+      "Keep",
+      "Employ",
+      "Pawn"
+    ],
+    "kunReading": [
+      "お.く",
+      "-お.き"
+    ],
+    "onReading": [
+      "ち"
+    ],
+    "strokes": 13,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Net",
+      "Fix"
+    ],
+    "examples": [],
+    "mnemonic": "Placement - 13 strokes."
+  },
+  {
+    "id": "kj_n3_277",
+    "character": "違",
+    "romaji": "ちがう",
+    "type": "kanji",
+    "meanings": [
+      "Difference",
+      "Differ"
+    ],
+    "kunReading": [
+      "ちが.う",
+      "ちが.い",
+      "ちが.える",
+      "-ちが.える",
+      "たが.う",
+      "たが.える"
+    ],
+    "onReading": [
+      "い"
+    ],
+    "strokes": 13,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Scooter",
+      "Korea"
+    ],
+    "examples": [],
+    "mnemonic": "Difference - 13 strokes."
+  },
+  {
+    "id": "kj_n3_295",
+    "character": "腹",
+    "romaji": "はら",
+    "type": "kanji",
+    "meanings": [
+      "Abdomen",
+      "Belly",
+      "Stomach"
+    ],
+    "kunReading": [
+      "はら"
+    ],
+    "onReading": [
+      "ふく"
+    ],
+    "strokes": 13,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Moon",
+      "Black Hole"
+    ],
+    "examples": [],
+    "mnemonic": "Abdomen - 13 strokes."
+  },
+  {
+    "id": "kj_n3_302",
+    "character": "靴",
+    "romaji": "くつ",
+    "type": "kanji",
+    "meanings": [
+      "Shoes"
+    ],
+    "kunReading": [
+      "くつ"
+    ],
+    "onReading": [
+      "か"
+    ],
+    "strokes": 13,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Leather",
+      "Change"
+    ],
+    "examples": [],
+    "mnemonic": "Shoes - 13 strokes."
+  },
+  {
+    "id": "kj_n3_364",
+    "character": "歳",
+    "romaji": "とし",
+    "type": "kanji",
+    "meanings": [
+      "Year-end",
+      "Age",
+      "Occasion",
+      "Opportunity"
+    ],
+    "kunReading": [
+      "とし",
+      "とせ",
+      "よわい"
+    ],
+    "onReading": [
+      "さい",
+      "せい"
+    ],
+    "strokes": 13,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Stop",
+      "Slide",
+      "Drunkard",
+      "Jackhammer"
+    ],
+    "examples": [],
+    "mnemonic": "Year-end - 13 strokes."
+  },
+  {
+    "id": "kj_n3_083",
+    "character": "鳴",
+    "romaji": "なく",
+    "type": "kanji",
+    "meanings": [
+      "Chirp",
+      "Cry",
+      "Bark",
+      "Sound",
+      "Ring",
+      "Echo",
+      "Honk"
+    ],
+    "kunReading": [
+      "な.く",
+      "な.る",
+      "な.らす"
+    ],
+    "onReading": [
+      "めい"
+    ],
+    "strokes": 14,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Mouth",
+      "Bird"
+    ],
+    "examples": [],
+    "mnemonic": "Chirp - 14 strokes."
+  },
+  {
+    "id": "kj_n3_135",
+    "character": "様",
+    "romaji": "さま",
+    "type": "kanji",
+    "meanings": [
+      "Esq.",
+      "Way",
+      "Manner",
+      "Situation",
+      "Polite Suffix"
+    ],
+    "kunReading": [
+      "さま",
+      "さん"
+    ],
+    "onReading": [
+      "よう",
+      "しょう"
+    ],
+    "strokes": 14,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Tree",
+      "Sheep",
+      "Water"
+    ],
+    "examples": [],
+    "mnemonic": "Esq. - 14 strokes."
+  },
+  {
+    "id": "kj_n3_143",
+    "character": "疑",
+    "romaji": "うたがう",
+    "type": "kanji",
+    "meanings": [
+      "Doubt",
+      "Distrust",
+      "Be Suspicious",
+      "Question"
+    ],
+    "kunReading": [
+      "うたが.う"
+    ],
+    "onReading": [
+      "ぎ"
+    ],
+    "strokes": 14,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Spoon",
+      "Mama",
+      "Arrow",
+      "Coat Rack"
+    ],
+    "examples": [],
+    "mnemonic": "Doubt - 14 strokes."
+  },
+  {
+    "id": "kj_n3_182",
+    "character": "関",
+    "romaji": "せき",
+    "type": "kanji",
+    "meanings": [
+      "Connection",
+      "Barrier",
+      "Gateway",
+      "Involve",
+      "Concerning"
+    ],
+    "kunReading": [
+      "せき",
+      "-ぜき",
+      "かか.わる",
+      "からくり",
+      "かんぬき"
+    ],
+    "onReading": [
+      "かん"
+    ],
+    "strokes": 14,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Gate",
+      "Horns",
+      "Heaven"
+    ],
+    "examples": [],
+    "mnemonic": "Connection - 14 strokes."
+  },
+  {
+    "id": "kj_n3_199",
+    "character": "察",
+    "romaji": "さつ",
+    "type": "kanji",
+    "meanings": [
+      "Guess",
+      "Presume",
+      "Surmise",
+      "Judge",
+      "Understand"
+    ],
+    "kunReading": [],
+    "onReading": [
+      "さつ"
+    ],
+    "strokes": 14,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Roof",
+      "Festival"
+    ],
+    "examples": [],
+    "mnemonic": "Guess - 14 strokes."
+  },
+  {
+    "id": "kj_n3_203",
+    "character": "説",
+    "romaji": "とく",
+    "type": "kanji",
+    "meanings": [
+      "Opinion",
+      "Theory",
+      "Explanation",
+      "Rumor"
+    ],
+    "kunReading": [
+      "と.く"
+    ],
+    "onReading": [
+      "せつ",
+      "ぜい"
+    ],
+    "strokes": 14,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Say",
+      "Guard"
+    ],
+    "examples": [],
+    "mnemonic": "Opinion - 14 strokes."
+  },
+  {
+    "id": "kj_n3_205",
+    "character": "種",
+    "romaji": "たね",
+    "type": "kanji",
+    "meanings": [
+      "Species",
+      "Kind",
+      "Class",
+      "Variety",
+      "Seed"
+    ],
+    "kunReading": [
+      "たね",
+      "-ぐさ"
+    ],
+    "onReading": [
+      "しゅ"
+    ],
+    "strokes": 14,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Grain",
+      "Heavy"
+    ],
+    "examples": [],
+    "mnemonic": "Species - 14 strokes."
+  },
+  {
+    "id": "kj_n3_214",
+    "character": "静",
+    "romaji": "しず",
+    "type": "kanji",
+    "meanings": [
+      "Quiet"
+    ],
+    "kunReading": [
+      "しず-",
+      "しず.か",
+      "しず.まる",
+      "しず.める"
+    ],
+    "onReading": [
+      "せい",
+      "じょう"
+    ],
+    "strokes": 14,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Blue",
+      "Conflict"
+    ],
+    "examples": [],
+    "mnemonic": "Quiet - 14 strokes."
+  },
+  {
+    "id": "kj_n3_253",
+    "character": "増",
+    "romaji": "ます",
+    "type": "kanji",
+    "meanings": [
+      "Increase",
+      "Add",
+      "Augment",
+      "Gain",
+      "Promote"
+    ],
+    "kunReading": [
+      "ま.す",
+      "ま.し",
+      "ふ.える",
+      "ふ.やす"
+    ],
+    "onReading": [
+      "ぞう"
+    ],
+    "strokes": 14,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Dirt",
+      "Mask"
+    ],
+    "examples": [],
+    "mnemonic": "Increase - 14 strokes."
+  },
+  {
+    "id": "kj_n3_255",
+    "character": "際",
+    "romaji": "きわ",
+    "type": "kanji",
+    "meanings": [
+      "Occasion",
+      "Side",
+      "Edge",
+      "Verge",
+      "Dangerous",
+      "Adventurous",
+      "Indecent",
+      "Time",
+      "When"
+    ],
+    "kunReading": [
+      "きわ",
+      "-ぎわ"
+    ],
+    "onReading": [
+      "さい"
+    ],
+    "strokes": 14,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Building",
+      "Festival"
+    ],
+    "examples": [],
+    "mnemonic": "Occasion - 14 strokes."
+  },
+  {
+    "id": "kj_n3_256",
+    "character": "認",
+    "romaji": "miとめる",
+    "type": "kanji",
+    "meanings": [
+      "Acknowledge",
+      "Witness",
+      "Discern",
+      "Recognize",
+      "Appreciate",
+      "Believe"
+    ],
+    "kunReading": [
+      "みと.める",
+      "したた.める"
+    ],
+    "onReading": [
+      "にん"
+    ],
+    "strokes": 14,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Say",
+      "Blade",
+      "Heart"
+    ],
+    "examples": [],
+    "mnemonic": "Acknowledge - 14 strokes."
+  },
+  {
+    "id": "kj_n3_270",
+    "character": "演",
+    "romaji": "えん",
+    "type": "kanji",
+    "meanings": [
+      "Performance",
+      "Act",
+      "Play",
+      "Render",
+      "Stage"
+    ],
+    "kunReading": [],
+    "onReading": [
+      "えん"
+    ],
+    "strokes": 14,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Tsunami",
+      "Roof",
+      "Leaf",
+      "Rice Paddy",
+      "Fins"
+    ],
+    "examples": [],
+    "mnemonic": "Performance - 14 strokes."
+  },
+  {
+    "id": "kj_n3_286",
+    "character": "構",
+    "romaji": "かまえる",
+    "type": "kanji",
+    "meanings": [
+      "Posture",
+      "Build",
+      "Pretend"
+    ],
+    "kunReading": [
+      "かま.える",
+      "かま.う"
+    ],
+    "onReading": [
+      "こう"
+    ],
+    "strokes": 14,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Tree",
+      "Lifeguard"
+    ],
+    "examples": [],
+    "mnemonic": "Posture - 14 strokes."
+  },
+  {
+    "id": "kj_n3_288",
+    "character": "慣",
+    "romaji": "なれる",
+    "type": "kanji",
+    "meanings": [
+      "Accustomed",
+      "Get Used To",
+      "Become Experienced"
+    ],
+    "kunReading": [
+      "な.れる",
+      "な.らす"
+    ],
+    "onReading": [
+      "かん"
+    ],
+    "strokes": 14,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Soul",
+      "Window",
+      "Shellfish"
+    ],
+    "examples": [],
+    "mnemonic": "Accustomed - 14 strokes."
+  },
+  {
+    "id": "kj_n3_309",
+    "character": "精",
+    "romaji": "しらげる",
+    "type": "kanji",
+    "meanings": [
+      "Refined",
+      "Ghost",
+      "Fairy",
+      "Energy",
+      "Vitality",
+      "Semen",
+      "Excellence",
+      "Purity",
+      "Skill"
+    ],
+    "kunReading": [
+      "しら.げる",
+      "くわ.しい"
+    ],
+    "onReading": [
+      "せい",
+      "しょう"
+    ],
+    "strokes": 14,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Rice",
+      "Blue"
+    ],
+    "examples": [],
+    "mnemonic": "Refined - 14 strokes."
+  },
+  {
+    "id": "kj_n3_320",
+    "character": "適",
+    "romaji": "かなう",
+    "type": "kanji",
+    "meanings": [
+      "Suitable",
+      "Occasional",
+      "Rare",
+      "Qualified",
+      "Capable"
+    ],
+    "kunReading": [
+      "かな.う"
+    ],
+    "onReading": [
+      "てき"
+    ],
+    "strokes": 14,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Scooter",
+      "Mohawk"
+    ],
+    "examples": [],
+    "mnemonic": "Suitable - 14 strokes."
+  },
+  {
+    "id": "kj_n3_335",
+    "character": "雑",
+    "romaji": "まじえる",
+    "type": "kanji",
+    "meanings": [
+      "Miscellaneous"
+    ],
+    "kunReading": [
+      "まじ.える",
+      "まじ.る"
+    ],
+    "onReading": [
+      "ざつ",
+      "ぞう"
+    ],
+    "strokes": 14,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Nine",
+      "Tree",
+      "Turkey"
+    ],
+    "examples": [],
+    "mnemonic": "Miscellaneous - 14 strokes."
+  },
+  {
+    "id": "kj_n3_342",
+    "character": "暮",
+    "romaji": "くれる",
+    "type": "kanji",
+    "meanings": [
+      "Evening",
+      "Twilight",
+      "Season's End",
+      "Livelihood",
+      "Make A Living",
+      "Spend Time"
+    ],
+    "kunReading": [
+      "く.れる",
+      "く.らす"
+    ],
+    "onReading": [
+      "ぼ"
+    ],
+    "strokes": 14,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Greenhouse",
+      "Sun"
+    ],
+    "examples": [],
+    "mnemonic": "Evening - 14 strokes."
+  },
+  {
+    "id": "kj_n3_343",
+    "character": "誤",
+    "romaji": "あyaまる",
+    "type": "kanji",
+    "meanings": [
+      "Mistake",
+      "Err",
+      "Do Wrong",
+      "Mislead"
+    ],
+    "kunReading": [
+      "あやま.る",
+      "-あやま.る"
+    ],
+    "onReading": [
+      "ご"
+    ],
+    "strokes": 14,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Say",
+      "Catapult"
+    ],
+    "examples": [],
+    "mnemonic": "Mistake - 14 strokes."
+  },
+  {
+    "id": "kj_n3_357",
+    "character": "緒",
+    "romaji": "お",
+    "type": "kanji",
+    "meanings": [
+      "Thong",
+      "Beginning",
+      "Inception",
+      "End",
+      "Cord",
+      "Strap",
+      "Mental Or Emotional State"
+    ],
+    "kunReading": [
+      "お",
+      "いとぐち"
+    ],
+    "onReading": [
+      "しょ",
+      "ちょ"
+    ],
+    "strokes": 14,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Thread",
+      "Someone"
+    ],
+    "examples": [],
+    "mnemonic": "Thong - 14 strokes."
+  },
+  {
+    "id": "kj_n3_362",
+    "character": "髪",
+    "romaji": "かmi",
+    "type": "kanji",
+    "meanings": [
+      "Hair Of The Head"
+    ],
+    "kunReading": [
+      "かみ"
+    ],
+    "onReading": [
+      "はつ"
+    ],
+    "strokes": 14,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Long",
+      "Hair",
+      "Friend"
+    ],
+    "examples": [],
+    "mnemonic": "Hair Of The Head - 14 strokes."
+  },
+  {
+    "id": "kj_n3_073",
+    "character": "談",
+    "romaji": "だん",
+    "type": "kanji",
+    "meanings": [
+      "Discuss",
+      "Talk"
+    ],
+    "kunReading": [],
+    "onReading": [
+      "だん"
+    ],
+    "strokes": 15,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Say",
+      "Fire"
+    ],
+    "examples": [],
+    "mnemonic": "Discuss - 15 strokes."
+  },
+  {
+    "id": "kj_n3_084",
+    "character": "横",
+    "romaji": "yoこ",
+    "type": "kanji",
+    "meanings": [
+      "Sideways",
+      "Side",
+      "Horizontal",
+      "Width",
+      "Woof",
+      "Unreasonable",
+      "Perverse"
+    ],
+    "kunReading": [
+      "よこ"
+    ],
+    "onReading": [
+      "おう"
+    ],
+    "strokes": 15,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Tree",
+      "Yellow"
+    ],
+    "examples": [],
+    "mnemonic": "Sideways - 15 strokes."
+  },
+  {
+    "id": "kj_n3_085",
+    "character": "調",
+    "romaji": "しらべる",
+    "type": "kanji",
+    "meanings": [
+      "Tune",
+      "Tone",
+      "Meter",
+      "Key (music)",
+      "Writing Style",
+      "Prepare",
+      "Exorcise",
+      "Investigate",
+      "Harmonize",
+      "Mediate"
+    ],
+    "kunReading": [
+      "しら.べる",
+      "しら.べ",
+      "ととの.う",
+      "ととの.える"
+    ],
+    "onReading": [
+      "ちょう"
+    ],
+    "strokes": 15,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Say",
+      "Circumference"
+    ],
+    "examples": [],
+    "mnemonic": "Tune - 15 strokes."
+  },
+  {
+    "id": "kj_n3_139",
+    "character": "熱",
+    "romaji": "あつい",
+    "type": "kanji",
+    "meanings": [
+      "Heat",
+      "Temperature",
+      "Fever",
+      "Mania",
+      "Passion"
+    ],
+    "kunReading": [
+      "あつ.い"
+    ],
+    "onReading": [
+      "ねつ"
+    ],
+    "strokes": 15,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Womb",
+      "Circle",
+      "Boil"
+    ],
+    "examples": [],
+    "mnemonic": "Heat - 15 strokes."
+  },
+  {
+    "id": "kj_n3_140",
+    "character": "選",
+    "romaji": "えらぶ",
+    "type": "kanji",
+    "meanings": [
+      "Elect",
+      "Select",
+      "Choose",
+      "Prefer"
+    ],
+    "kunReading": [
+      "えら.ぶ"
+    ],
+    "onReading": [
+      "せん"
+    ],
+    "strokes": 15,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Scooter",
+      "Oneself",
+      "Together"
+    ],
+    "examples": [],
+    "mnemonic": "Elect - 15 strokes."
+  },
+  {
+    "id": "kj_n3_176",
+    "character": "箱",
+    "romaji": "はこ",
+    "type": "kanji",
+    "meanings": [
+      "Box",
+      "Chest",
+      "Case",
+      "Bin",
+      "Railway Car"
+    ],
+    "kunReading": [
+      "はこ"
+    ],
+    "onReading": [
+      "そう"
+    ],
+    "strokes": 15,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Bamboo",
+      "Tree",
+      "Eye"
+    ],
+    "examples": [],
+    "mnemonic": "Box - 15 strokes."
+  },
+  {
+    "id": "kj_n3_232",
+    "character": "確",
+    "romaji": "たしか",
+    "type": "kanji",
+    "meanings": [
+      "Assurance",
+      "Firm",
+      "Tight",
+      "Hard",
+      "Solid",
+      "Confirm",
+      "Clear",
+      "Evident"
+    ],
+    "kunReading": [
+      "たし.か",
+      "たし.かめる"
+    ],
+    "onReading": [
+      "かく",
+      "こう"
+    ],
+    "strokes": 15,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Stone",
+      "Forehead",
+      "Turkey"
+    ],
+    "examples": [],
+    "mnemonic": "Assurance - 15 strokes."
+  },
+  {
+    "id": "kj_n3_241",
+    "character": "論",
+    "romaji": "ろん",
+    "type": "kanji",
+    "meanings": [
+      "Argument",
+      "Discourse"
+    ],
+    "kunReading": [],
+    "onReading": [
+      "ろん"
+    ],
+    "strokes": 15,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Say",
+      "Hat",
+      "Ground",
+      "Bookshelf"
+    ],
+    "examples": [],
+    "mnemonic": "Argument - 15 strokes."
+  },
+  {
+    "id": "kj_n3_248",
+    "character": "権",
+    "romaji": "おもり",
+    "type": "kanji",
+    "meanings": [
+      "Authority",
+      "Power",
+      "Rights"
+    ],
+    "kunReading": [
+      "おもり",
+      "かり",
+      "はか.る"
+    ],
+    "onReading": [
+      "けん",
+      "ごん"
+    ],
+    "strokes": 15,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Tree",
+      "Arrow",
+      "Turkey"
+    ],
+    "examples": [],
+    "mnemonic": "Authority - 15 strokes."
+  },
+  {
+    "id": "kj_n3_336",
+    "character": "賛",
+    "romaji": "たすける",
+    "type": "kanji",
+    "meanings": [
+      "Approve",
+      "Praise",
+      "Title Or Inscription On Picture",
+      "Assist",
+      "Agree With"
+    ],
+    "kunReading": [
+      "たす.ける",
+      "たた.える"
+    ],
+    "onReading": [
+      "さん"
+    ],
+    "strokes": 15,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Husband",
+      "Shellfish"
+    ],
+    "examples": [],
+    "mnemonic": "Approve - 15 strokes."
+  },
+  {
+    "id": "kj_n3_353",
+    "character": "舞",
+    "romaji": "まう",
+    "type": "kanji",
+    "meanings": [
+      "Dance",
+      "Flit",
+      "Circle",
+      "Wheel"
+    ],
+    "kunReading": [
+      "ま.う",
+      "-ま.う",
+      "まい"
+    ],
+    "onReading": [
+      "ぶ"
+    ],
+    "strokes": 15,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Nothing",
+      "Dance"
+    ],
+    "examples": [],
+    "mnemonic": "Dance - 15 strokes."
+  },
+  {
+    "id": "kj_n3_086",
+    "character": "頭",
+    "romaji": "あたま",
+    "type": "kanji",
+    "meanings": [
+      "Head",
+      "Counter For Large Animals"
+    ],
+    "kunReading": [
+      "あたま",
+      "かしら",
+      "-がしら",
+      "かぶり"
+    ],
+    "onReading": [
+      "とう",
+      "ず",
+      "と"
+    ],
+    "strokes": 16,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Beans",
+      "Geoduck"
+    ],
+    "examples": [],
+    "mnemonic": "Head - 16 strokes."
+  },
+  {
+    "id": "kj_n3_189",
+    "character": "薬",
+    "romaji": "くすり",
+    "type": "kanji",
+    "meanings": [
+      "Medicine",
+      "Chemical",
+      "Enamel",
+      "Gunpowder",
+      "Benefit"
+    ],
+    "kunReading": [
+      "くすり"
+    ],
+    "onReading": [
+      "やく"
+    ],
+    "strokes": 16,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Flowers",
+      "Comfort"
+    ],
+    "examples": [],
+    "mnemonic": "Medicine - 16 strokes."
+  },
+  {
+    "id": "kj_n3_227",
+    "character": "機",
+    "romaji": "はた",
+    "type": "kanji",
+    "meanings": [
+      "Loom",
+      "Mechanism",
+      "Machine",
+      "Airplane",
+      "Opportunity",
+      "Potency",
+      "Efficacy",
+      "Occasion"
+    ],
+    "kunReading": [
+      "はた"
+    ],
+    "onReading": [
+      "き"
+    ],
+    "strokes": 16,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Tree",
+      "Poop",
+      "Drunkard",
+      "Person"
+    ],
+    "examples": [],
+    "mnemonic": "Loom - 16 strokes."
+  },
+  {
+    "id": "kj_n3_312",
+    "character": "積",
+    "romaji": "つmu",
+    "type": "kanji",
+    "meanings": [
+      "Volume",
+      "Product (x*y)",
+      "Acreage",
+      "Contents",
+      "Pile Up",
+      "Stack",
+      "Load",
+      "Amass"
+    ],
+    "kunReading": [
+      "つ.む",
+      "-づ.み",
+      "つ.もる",
+      "つ.もり"
+    ],
+    "onReading": [
+      "せき"
+    ],
+    "strokes": 16,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Grain",
+      "Blame"
+    ],
+    "examples": [],
+    "mnemonic": "Volume - 16 strokes."
+  },
+  {
+    "id": "kj_n3_354",
+    "character": "頼",
+    "romaji": "たのmu",
+    "type": "kanji",
+    "meanings": [
+      "Trust",
+      "Request"
+    ],
+    "kunReading": [
+      "たの.む",
+      "たの.もしい",
+      "たよ.る"
+    ],
+    "onReading": [
+      "らい"
+    ],
+    "strokes": 16,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Bundle",
+      "Geoduck"
+    ],
+    "examples": [],
+    "mnemonic": "Trust - 16 strokes."
+  },
+  {
+    "id": "kj_n3_273",
+    "character": "優",
+    "romaji": "yaさしい",
+    "type": "kanji",
+    "meanings": [
+      "Tenderness",
+      "Excel",
+      "Surpass",
+      "Actor",
+      "Superiority",
+      "Gentleness"
+    ],
+    "kunReading": [
+      "やさ.しい",
+      "すぐ.れる",
+      "まさ.る"
+    ],
+    "onReading": [
+      "ゆう",
+      "う"
+    ],
+    "strokes": 17,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Leader",
+      "Hundred",
+      "Forehead",
+      "Heart",
+      "Winter"
+    ],
+    "examples": [],
+    "mnemonic": "Tenderness - 17 strokes."
+  },
+  {
+    "id": "kj_n3_087",
+    "character": "顔",
+    "romaji": "かお",
+    "type": "kanji",
+    "meanings": [
+      "Face",
+      "Expression"
+    ],
+    "kunReading": [
+      "かお"
+    ],
+    "onReading": [
+      "がん"
+    ],
+    "strokes": 18,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Stand",
+      "Cliff",
+      "Hair",
+      "Geoduck"
+    ],
+    "examples": [],
+    "mnemonic": "Face - 18 strokes."
+  },
+  {
+    "id": "kj_n3_207",
+    "character": "類",
+    "romaji": "たぐい",
+    "type": "kanji",
+    "meanings": [
+      "Sort",
+      "Kind",
+      "Variety",
+      "Class",
+      "Genus"
+    ],
+    "kunReading": [
+      "たぐ.い"
+    ],
+    "onReading": [
+      "るい"
+    ],
+    "strokes": 18,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Rice",
+      "Big",
+      "Geoduck"
+    ],
+    "examples": [],
+    "mnemonic": "Sort - 18 strokes."
+  },
+  {
+    "id": "kj_n3_231",
+    "character": "難",
+    "romaji": "かたい",
+    "type": "kanji",
+    "meanings": [
+      "Difficult",
+      "Impossible",
+      "Trouble",
+      "Accident",
+      "Defect"
+    ],
+    "kunReading": [
+      "かた.い",
+      "-がた.い",
+      "むずか.しい",
+      "むづか.しい",
+      "むつか.しい",
+      "-にく.い"
+    ],
+    "onReading": [
+      "なん"
+    ],
+    "strokes": 18,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Chinese",
+      "Turkey"
+    ],
+    "examples": [],
+    "mnemonic": "Difficult - 18 strokes."
+  },
+  {
+    "id": "kj_n3_262",
+    "character": "観",
+    "romaji": "miる",
+    "type": "kanji",
+    "meanings": [
+      "Outlook",
+      "Look",
+      "Appearance",
+      "Condition",
+      "View"
+    ],
+    "kunReading": [
+      "み.る",
+      "しめ.す"
+    ],
+    "onReading": [
+      "かん"
+    ],
+    "strokes": 18,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Arrow",
+      "Turkey",
+      "See"
+    ],
+    "examples": [],
+    "mnemonic": "Outlook - 18 strokes."
+  },
+  {
+    "id": "kj_n3_267",
+    "character": "職",
+    "romaji": "しょく",
+    "type": "kanji",
+    "meanings": [
+      "Post",
+      "Employment",
+      "Work"
+    ],
+    "kunReading": [],
+    "onReading": [
+      "しょく",
+      "そく"
+    ],
+    "strokes": 18,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Ear",
+      "Sound",
+      "Drunkard"
+    ],
+    "examples": [],
+    "mnemonic": "Post - 18 strokes."
+  },
+  {
+    "id": "kj_n3_141",
+    "character": "願",
+    "romaji": "ねがう",
+    "type": "kanji",
+    "meanings": [
+      "Petition",
+      "Request",
+      "Vow",
+      "Wish",
+      "Hope"
+    ],
+    "kunReading": [
+      "ねが.う",
+      "-ねがい"
+    ],
+    "onReading": [
+      "がん"
+    ],
+    "strokes": 19,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Original",
+      "Geoduck"
+    ],
+    "examples": [],
+    "mnemonic": "Petition - 19 strokes."
+  },
+  {
+    "id": "kj_n3_196",
+    "character": "識",
+    "romaji": "しる",
+    "type": "kanji",
+    "meanings": [
+      "Discriminating",
+      "Know",
+      "Write"
+    ],
+    "kunReading": [
+      "し.る",
+      "しる.す"
+    ],
+    "onReading": [
+      "しき"
+    ],
+    "strokes": 19,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Say",
+      "Sound",
+      "Drunkard"
+    ],
+    "examples": [],
+    "mnemonic": "Discriminating - 19 strokes."
+  },
+  {
+    "id": "kj_n3_201",
+    "character": "警",
+    "romaji": "いましめる",
+    "type": "kanji",
+    "meanings": [
+      "Admonish",
+      "Commandment"
+    ],
+    "kunReading": [
+      "いまし.める"
+    ],
+    "onReading": [
+      "けい"
+    ],
+    "strokes": 19,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Poem",
+      "Winter",
+      "Say"
+    ],
+    "examples": [],
+    "mnemonic": "Admonish - 19 strokes."
+  },
+  {
+    "id": "kj_n3_238",
+    "character": "議",
+    "romaji": "ぎ",
+    "type": "kanji",
+    "meanings": [
+      "Deliberation",
+      "Consultation",
+      "Debate",
+      "Consideration"
+    ],
+    "kunReading": [],
+    "onReading": [
+      "ぎ"
+    ],
+    "strokes": 20,
+    "jlptLevel": "N3",
+    "radicals": [
+      "Say",
+      "Righteousness"
+    ],
+    "examples": [],
+    "mnemonic": "Deliberation - 20 strokes."
+  }
+]
