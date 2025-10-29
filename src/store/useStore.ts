@@ -226,7 +226,6 @@ export const useStore = create<AppStore>((set, get) => ({
     // Check for level up
     const { level, xpToNextLevel } = calculateLevel(user.totalXP);
     if (level > user.level) {
-      const oldLevel = user.level;
       user.level = level;
       user.xp = 0;
 
