@@ -172,6 +172,13 @@ const StrokeOrderAnimation = ({ character, size = 300 }: StrokeOrderAnimationPro
           <RotateCcw className="w-4 h-4" />
           Reset
         </button>
+        <button
+          onClick={toggleOutline}
+          className="btn-secondary flex items-center gap-2 text-sm py-2 px-4"
+        >
+          {showOutline ? <EyeOff className="w-4 h-4" /> : <Eye className="w-4 h-4" />}
+          {showOutline ? 'Hide Outline' : 'Show Outline'}
+        </button>
       </div>
     </div>
   );

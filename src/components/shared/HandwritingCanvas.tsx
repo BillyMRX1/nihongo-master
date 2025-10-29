@@ -8,10 +8,9 @@ interface HandwritingCanvasProps {
   correctCharacter: string;
   onSubmit: (isCorrect: boolean) => void;
   showResult?: boolean;
-  isCorrect?: boolean;
 }
 
-const HandwritingCanvas = ({ correctCharacter, onSubmit, showResult, isCorrect }: HandwritingCanvasProps) => {
+const HandwritingCanvas = ({ correctCharacter, onSubmit, showResult }: HandwritingCanvasProps) => {
   // HanziWriter Quiz Mode (NEW - Testing)
   const quizContainerRef = useRef<HTMLDivElement>(null);
   const writerRef = useRef<any>(null);
@@ -88,6 +87,10 @@ const HandwritingCanvas = ({ correctCharacter, onSubmit, showResult, isCorrect }
   useEffect(() => {
     if (!useQuizMode || !isKanji() || !quizContainerRef.current) return;
 
+    setQuizStarted(false);
+    setTotalMistakes(0);
+    setCurrentStrokeNum(0);
+
     // Clear previous writer
     if (writerRef.current) {
       writerRef.current.cancelQuiz();
@@ -161,6 +164,26 @@ const HandwritingCanvas = ({ correctCharacter, onSubmit, showResult, isCorrect }
     setTotalMistakes(0);
     setCurrentStrokeNum(0);
   };
+
+  useEffect(() => {
+    if (!isKanji() && useQuizMode) {
+      setUseQuizMode(false);
+      return;
+    }
+
+    if (!useQuizMode) {
+      if (writerRef.current) {
+        writerRef.current.cancelQuiz();
+        writerRef.current = null;
+      }
+      if (quizContainerRef.current) {
+        quizContainerRef.current.innerHTML = '';
+      }
+      setQuizStarted(false);
+      setTotalMistakes(0);
+      setCurrentStrokeNum(0);
+    }
+  }, [useQuizMode, correctCharacter]);
 
   const getCoordinates = (e: React.MouseEvent<HTMLCanvasElement> | React.TouchEvent<HTMLCanvasElement>) => {
     const canvas = canvasRef.current;
@@ -289,6 +312,26 @@ const HandwritingCanvas = ({ correctCharacter, onSubmit, showResult, isCorrect }
         </motion.div>
       )}
 
+      {/* Mode Selector */}
+      {isKanji() && (
+        <div className="flex justify-center gap-3 mb-4">
+          <button
+            onClick={() => setUseQuizMode(true)}
+            className={`${useQuizMode ? 'btn-primary' : 'btn-secondary'} px-4 py-2 rounded-lg font-medium transition`}
+            disabled={useQuizMode}
+          >
+            Quiz Mode
+          </button>
+          <button
+            onClick={() => setUseQuizMode(false)}
+            className={`${!useQuizMode ? 'btn-primary' : 'btn-secondary'} px-4 py-2 rounded-lg font-medium transition`}
+            disabled={!useQuizMode}
+          >
+            Canvas Mode
+          </button>
+        </div>
+      )}
+
       {/* HanziWriter Quiz Mode (NEW - Testing) */}
       {useQuizMode && isKanji() ? (
         <div className="space-y-4">
@@ -345,12 +388,43 @@ const HandwritingCanvas = ({ correctCharacter, onSubmit, showResult, isCorrect }
           </p>
         </div>
       ) : (
-        /* OLD Canvas Mode (Commented out for now, keeping for fallback) */
         <div className="space-y-4">
-          <p className="text-center text-sm text-yellow-600 dark:text-yellow-400">
-            Canvas mode (for Hiragana/Katakana) - Quiz mode available for Kanji only
+          <p className="text-center text-sm text-slate-600 dark:text-slate-400">
+            Draw the character below. Works best with a stylus or mouse.
           </p>
-          {/* Old canvas code would go here if needed */}
+          <div className="flex justify-center">
+            <canvas
+              ref={canvasRef}
+              className="bg-white dark:bg-slate-900 border-4 border-slate-200 dark:border-slate-700 rounded-2xl shadow-inner touch-none select-none"
+              style={{ width: 320, height: 320 }}
+              onMouseDown={startDrawing}
+              onMouseMove={draw}
+              onMouseUp={stopDrawing}
+              onMouseLeave={stopDrawing}
+              onTouchStart={startDrawing}
+              onTouchMove={draw}
+              onTouchEnd={stopDrawing}
+              onTouchCancel={stopDrawing}
+            />
+          </div>
+          <div className="flex gap-3 justify-center">
+            <button
+              onClick={clearCanvas}
+              className="btn-secondary flex items-center gap-2"
+              disabled={!hasDrawn}
+            >
+              <RotateCcw className="w-5 h-5" />
+              Clear
+            </button>
+            <button
+              onClick={handleSubmit}
+              className="btn-primary flex items-center gap-2"
+              disabled={!hasDrawn}
+            >
+              <Check className="w-5 h-5" />
+              Submit Drawing
+            </button>
+          </div>
         </div>
       )}
     </div>

@@ -9,8 +9,8 @@ const Settings = () => {
   const [showResetConfirm, setShowResetConfirm] = useState(false);
   const [userName, setUserName] = useState(user?.name || '');
   const [dailyGoal, setDailyGoal] = useState(user?.preferences.dailyGoal || 100);
-  const [showStrokeOrder, setShowStrokeOrder] = useState(user?.preferences.showStrokeOrder || true);
-  const [showMnemonics, setShowMnemonics] = useState(user?.preferences.showMnemonics || true);
+  const [showStrokeOrder, setShowStrokeOrder] = useState<boolean>(user?.preferences.showStrokeOrder ?? true);
+  const [showMnemonics, setShowMnemonics] = useState<boolean>(user?.preferences.showMnemonics ?? true);
   const [saved, setSaved] = useState(false);
 
   useEffect(() => {
