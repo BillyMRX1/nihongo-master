@@ -22,11 +22,43 @@ const Dashboard = () => {
   const learningCount = Array.from(progress.values()).filter(p => p.masteryLevel > 0 && p.masteryLevel < 5).length;
   const totalCharacters = progress.size;
 
+  const getRandomMode = () => {
+    const modes = ['recognition', 'production', 'writing'];
+    return modes[Math.floor(Math.random() * modes.length)];
+  };
+
+  const handleQuickAction = (system: string) => {
+    const randomMode = getRandomMode();
+    navigate('/practice', {
+      state: { system, mode: randomMode, level: 'N5' }
+    });
+  };
+
   const quickActions = [
-    { title: 'Learn Hiragana', icon: BookOpen, path: '/learn', color: 'from-blue-500 to-cyan-500' },
-    { title: 'Learn Katakana', icon: BookOpen, path: '/learn', color: 'from-purple-500 to-pink-500' },
-    { title: 'Practice Kanji', icon: Target, path: '/practice', color: 'from-orange-500 to-red-500' },
-    { title: 'Quick Review', icon: Zap, path: '/practice', color: 'from-green-500 to-emerald-500' },
+    {
+      title: 'Learn Hiragana',
+      icon: BookOpen,
+      system: 'hiragana',
+      color: 'from-blue-500 to-cyan-500'
+    },
+    {
+      title: 'Learn Katakana',
+      icon: BookOpen,
+      system: 'katakana',
+      color: 'from-purple-500 to-pink-500'
+    },
+    {
+      title: 'Practice Kanji',
+      icon: Target,
+      system: 'kanji',
+      color: 'from-orange-500 to-red-500'
+    },
+    {
+      title: 'Quick Review',
+      icon: Zap,
+      system: 'kanji',
+      color: 'from-green-500 to-emerald-500'
+    },
   ];
 
   const stats = [
@@ -105,7 +137,9 @@ const Dashboard = () => {
           <Zap className="w-6 h-6 text-yellow-500" />
           Quick Start
         </h2>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+
+        {/* Desktop Grid */}
+        <div className="hidden md:grid md:grid-cols-2 lg:grid-cols-4 gap-4">
           {quickActions.map((action, index) => (
             <motion.button
               key={action.title}
@@ -114,7 +148,7 @@ const Dashboard = () => {
               transition={{ delay: 0.4 + index * 0.1 }}
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
-              onClick={() => navigate(action.path)}
+              onClick={() => handleQuickAction(action.system)}
               className={`card p-6 text-left hover:shadow-2xl transition-all duration-300 bg-gradient-to-br ${action.color} text-white border-none`}
             >
               <action.icon className="w-10 h-10 mb-3 opacity-90" />
@@ -122,6 +156,27 @@ const Dashboard = () => {
               <p className="text-sm opacity-90 mt-1">Start learning now</p>
             </motion.button>
           ))}
+        </div>
+
+        {/* Mobile Carousel */}
+        <div className="md:hidden overflow-x-auto scrollbar-hide">
+          <div className="flex gap-4 snap-x snap-mandatory pb-4">
+            {quickActions.map((action, index) => (
+              <motion.button
+                key={action.title}
+                initial={{ scale: 0.8, opacity: 0 }}
+                animate={{ scale: 1, opacity: 1 }}
+                transition={{ delay: 0.4 + index * 0.1 }}
+                whileTap={{ scale: 0.95 }}
+                onClick={() => handleQuickAction(action.system)}
+                className={`card p-6 text-left flex-shrink-0 w-[280px] snap-center bg-gradient-to-br ${action.color} text-white border-none`}
+              >
+                <action.icon className="w-10 h-10 mb-3 opacity-90" />
+                <h3 className="text-lg font-bold">{action.title}</h3>
+                <p className="text-sm opacity-90 mt-1">Start learning now</p>
+              </motion.button>
+            ))}
+          </div>
         </div>
       </div>
 
