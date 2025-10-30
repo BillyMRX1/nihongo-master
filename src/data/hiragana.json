@@ -56,8 +56,8 @@
   {"id": "h_ze", "character": "ぜ", "romaji": "ze", "type": "hiragana", "category": "dakuten"},
   {"id": "h_zo", "character": "ぞ", "romaji": "zo", "type": "hiragana", "category": "dakuten"},
   {"id": "h_da", "character": "だ", "romaji": "da", "type": "hiragana", "category": "dakuten"},
-  {"id": "h_di", "character": "ぢ", "romaji": "di", "type": "hiragana", "category": "dakuten"},
-  {"id": "h_du", "character": "づ", "romaji": "du", "type": "hiragana", "category": "dakuten"},
+  {"id": "h_ji2", "character": "ぢ", "romaji": "ji", "type": "hiragana", "category": "dakuten"},
+  {"id": "h_zu2", "character": "づ", "romaji": "zu", "type": "hiragana", "category": "dakuten"},
   {"id": "h_de", "character": "で", "romaji": "de", "type": "hiragana", "category": "dakuten"},
   {"id": "h_do", "character": "ど", "romaji": "do", "type": "hiragana", "category": "dakuten"},
   {"id": "h_ba", "character": "ば", "romaji": "ba", "type": "hiragana", "category": "dakuten"},
@@ -65,9 +65,9 @@
   {"id": "h_bu", "character": "ぶ", "romaji": "bu", "type": "hiragana", "category": "dakuten"},
   {"id": "h_be", "character": "べ", "romaji": "be", "type": "hiragana", "category": "dakuten"},
   {"id": "h_bo", "character": "ぼ", "romaji": "bo", "type": "hiragana", "category": "dakuten"},
-  {"id": "h_pa", "character": "ぱ", "romaji": "pa", "type": "hiragana", "category": "dakuten"},
-  {"id": "h_pi", "character": "ぴ", "romaji": "pi", "type": "hiragana", "category": "dakuten"},
-  {"id": "h_pu", "character": "ぷ", "romaji": "pu", "type": "hiragana", "category": "dakuten"},
-  {"id": "h_pe", "character": "ぺ", "romaji": "pe", "type": "hiragana", "category": "dakuten"},
-  {"id": "h_po", "character": "ぽ", "romaji": "po", "type": "hiragana", "category": "dakuten"}
+  {"id": "h_pa", "character": "ぱ", "romaji": "pa", "type": "hiragana", "category": "handakuten"},
+  {"id": "h_pi", "character": "ぴ", "romaji": "pi", "type": "hiragana", "category": "handakuten"},
+  {"id": "h_pu", "character": "ぷ", "romaji": "pu", "type": "hiragana", "category": "handakuten"},
+  {"id": "h_pe", "character": "ぺ", "romaji": "pe", "type": "hiragana", "category": "handakuten"},
+  {"id": "h_po", "character": "ぽ", "romaji": "po", "type": "hiragana", "category": "handakuten"}
 ]

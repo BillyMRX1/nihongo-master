@@ -18,7 +18,6 @@ function App() {
   }, [initializeApp]);
 
   useEffect(() => {
-    // Apply theme from localStorage or default to light
     const savedTheme = localStorage.getItem('theme');
     const theme = savedTheme || user?.preferences.theme || 'light';
 
@@ -27,7 +26,6 @@ function App() {
     } else if (theme === 'light') {
       document.documentElement.classList.remove('dark');
     } else if (theme === 'auto') {
-      // Auto mode: follow system preference
       if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
         document.documentElement.classList.add('dark');
       } else {
@@ -45,7 +43,7 @@ function App() {
   }
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/nihongo-master">
       <Toaster
         position="top-center"
         toastOptions={{
