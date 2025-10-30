@@ -29,6 +29,44 @@ const HandwritingCanvas = ({ correctCharacter, onSubmit, showResult, isCorrect }
   const [strokes, setStrokes] = useState<Array<Array<{ x: number; y: number }>>>([]);
   const [currentStroke, setCurrentStroke] = useState<Array<{ x: number; y: number }>>([]);
   const [showAnimation, setShowAnimation] = useState(false);
+  const [isDarkMode, setIsDarkMode] = useState(document.documentElement.classList.contains('dark'));
+
+  useEffect(() => {
+    const observer = new MutationObserver((mutations) => {
+      mutations.forEach((mutation) => {
+        if (mutation.attributeName === 'class') {
+          const isDark = document.documentElement.classList.contains('dark');
+          setIsDarkMode(isDark);
+
+          const canvas = canvasRef.current;
+          const ctx = canvas?.getContext('2d');
+          if (!ctx || !canvas) return;
+
+          const rect = canvas.getBoundingClientRect();
+          ctx.clearRect(0, 0, rect.width, rect.height);
+
+          ctx.strokeStyle = '#f7fafc';
+
+          strokes.forEach(stroke => {
+            if (stroke.length === 0) return;
+            ctx.beginPath();
+            ctx.moveTo(stroke[0].x, stroke[0].y);
+            stroke.forEach(point => {
+              ctx.lineTo(point.x, point.y);
+            });
+            ctx.stroke();
+          });
+        }
+      });
+    });
+
+    observer.observe(document.documentElement, {
+      attributes: true,
+      attributeFilter: ['class']
+    });
+
+    return () => observer.disconnect();
+  }, [strokes]);
 
   // Check if character is Kanji (not Hiragana/Katakana)
   const isKanji = () => {
@@ -63,9 +101,7 @@ const HandwritingCanvas = ({ correctCharacter, onSubmit, showResult, isCorrect }
       ctx.lineWidth = 8;
       ctx.lineCap = 'round';
       ctx.lineJoin = 'round';
-      // Use different color for dark mode
-      const isDark = document.documentElement.classList.contains('dark');
-      ctx.strokeStyle = isDark ? '#f7fafc' : '#000';
+      ctx.strokeStyle = '#f7fafc';
 
       // Redraw all existing strokes after resize
       strokes.forEach(stroke => {
@@ -84,7 +120,7 @@ const HandwritingCanvas = ({ correctCharacter, onSubmit, showResult, isCorrect }
     // Handle window resize
     window.addEventListener('resize', resizeCanvas);
     return () => window.removeEventListener('resize', resizeCanvas);
-  }, [strokes]);
+  }, [strokes, isDarkMode]);
 
   useEffect(() => {
     const updateQuizSize = () => {
@@ -140,6 +176,7 @@ const HandwritingCanvas = ({ correctCharacter, onSubmit, showResult, isCorrect }
         outlineColor: '#CBD5E1',
         highlightColor: '#10b981',
         drawingColor: '#000',
+        drawingWidth: 8,
         showCharacter: false,
         showOutline: true,
       });
@@ -247,9 +284,7 @@ const HandwritingCanvas = ({ correctCharacter, onSubmit, showResult, isCorrect }
     const ctx = canvas?.getContext('2d');
     if (!ctx) return;
 
-    // Ensure stroke style is set
-    const isDark = document.documentElement.classList.contains('dark');
-    ctx.strokeStyle = isDark ? '#f7fafc' : '#000';
+    ctx.strokeStyle = '#f7fafc';
 
     ctx.beginPath();
     ctx.moveTo(coords.x, coords.y);
@@ -333,7 +368,7 @@ const HandwritingCanvas = ({ correctCharacter, onSubmit, showResult, isCorrect }
       {/* Target Character Display */}
       <div className="text-center mb-4">
         <p className="text-slate-600 dark:text-slate-400 mb-2">Draw this character:</p>
-        <div className="japanese-char text-slate-300 dark:text-slate-700">{correctCharacter}</div>
+        <div className="japanese-char text-slate-400 dark:text-slate-500">{correctCharacter}</div>
       </div>
 
       {/* Show Animation Toggle - Only for Kanji */}
@@ -449,7 +484,7 @@ const HandwritingCanvas = ({ correctCharacter, onSubmit, showResult, isCorrect }
           <div className="flex justify-center">
             <canvas
               ref={canvasRef}
-              className="bg-white dark:bg-slate-900 border-4 border-slate-200 dark:border-slate-700 rounded-2xl shadow-inner touch-none select-none"
+              className="bg-slate-900 border-4 border-slate-700 rounded-2xl shadow-inner touch-none select-none"
               style={{ width: 320, height: 320 }}
               onMouseDown={startDrawing}
               onMouseMove={draw}
