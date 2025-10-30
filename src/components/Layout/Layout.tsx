@@ -150,14 +150,14 @@ const Layout = () => {
         </header>
 
         {/* Page Content */}
-        <div className="flex-1 overflow-auto">
+        <div className="flex-1 overflow-auto pb-20 lg:pb-0">
           <div className="container mx-auto p-4 lg:p-8">
             <Outlet />
           </div>
         </div>
 
         {/* Mobile Navigation */}
-        <nav className="lg:hidden glass border-t border-slate-200 dark:border-slate-700 p-2">
+        <nav className="lg:hidden fixed bottom-0 left-0 right-0 glass border-t border-slate-200 dark:border-slate-700 p-2 z-50">
           <div className="flex justify-around">
             {navItems.map((item) => (
               <NavLink
