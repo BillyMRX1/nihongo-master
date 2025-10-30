@@ -56,8 +56,8 @@
   {"id": "k_ze", "character": "ゼ", "romaji": "ze", "type": "katakana", "category": "dakuten"},
   {"id": "k_zo", "character": "ゾ", "romaji": "zo", "type": "katakana", "category": "dakuten"},
   {"id": "k_da", "character": "ダ", "romaji": "da", "type": "katakana", "category": "dakuten"},
-  {"id": "k_di", "character": "ヂ", "romaji": "di", "type": "katakana", "category": "dakuten"},
-  {"id": "k_du", "character": "ヅ", "romaji": "du", "type": "katakana", "category": "dakuten"},
+  {"id": "k_ji2", "character": "ヂ", "romaji": "ji", "type": "katakana", "category": "dakuten"},
+  {"id": "k_zu2", "character": "ヅ", "romaji": "zu", "type": "katakana", "category": "dakuten"},
   {"id": "k_de", "character": "デ", "romaji": "de", "type": "katakana", "category": "dakuten"},
   {"id": "k_do", "character": "ド", "romaji": "do", "type": "katakana", "category": "dakuten"},
   {"id": "k_ba", "character": "バ", "romaji": "ba", "type": "katakana", "category": "dakuten"},
@@ -65,9 +65,9 @@
   {"id": "k_bu", "character": "ブ", "romaji": "bu", "type": "katakana", "category": "dakuten"},
   {"id": "k_be", "character": "ベ", "romaji": "be", "type": "katakana", "category": "dakuten"},
   {"id": "k_bo", "character": "ボ", "romaji": "bo", "type": "katakana", "category": "dakuten"},
-  {"id": "k_pa", "character": "パ", "romaji": "pa", "type": "katakana", "category": "dakuten"},
-  {"id": "k_pi", "character": "ピ", "romaji": "pi", "type": "katakana", "category": "dakuten"},
-  {"id": "k_pu", "character": "プ", "romaji": "pu", "type": "katakana", "category": "dakuten"},
-  {"id": "k_pe", "character": "ペ", "romaji": "pe", "type": "katakana", "category": "dakuten"},
-  {"id": "k_po", "character": "ポ", "romaji": "po", "type": "katakana", "category": "dakuten"}
+  {"id": "k_pa", "character": "パ", "romaji": "pa", "type": "katakana", "category": "handakuten"},
+  {"id": "k_pi", "character": "ピ", "romaji": "pi", "type": "katakana", "category": "handakuten"},
+  {"id": "k_pu", "character": "プ", "romaji": "pu", "type": "katakana", "category": "handakuten"},
+  {"id": "k_pe", "character": "ペ", "romaji": "pe", "type": "katakana", "category": "handakuten"},
+  {"id": "k_po", "character": "ポ", "romaji": "po", "type": "katakana", "category": "handakuten"}
 ]
