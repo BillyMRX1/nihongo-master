@@ -45,7 +45,7 @@ function App() {
   }
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/nihongo-master">
       <Toaster
         position="top-center"
         toastOptions={{
