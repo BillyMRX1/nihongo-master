@@ -37,7 +37,6 @@ const Layout = () => {
 
   return (
     <div className="min-h-screen flex flex-col lg:flex-row">
-      {/* Sidebar - Desktop */}
       <aside className="hidden lg:flex flex-col w-64 glass border-r border-slate-200 dark:border-slate-700">
         <div className="p-6">
           <motion.div
@@ -50,7 +49,6 @@ const Layout = () => {
           </motion.div>
         </div>
 
-        {/* User Info */}
         <div className="px-6 pb-6">
           <motion.div
             initial={{ y: 20, opacity: 0 }}
@@ -90,7 +88,6 @@ const Layout = () => {
           </motion.div>
         </div>
 
-        {/* Navigation */}
         <nav className="flex-1 px-3">
           {navItems.map((item, index) => (
             <motion.div
@@ -117,7 +114,6 @@ const Layout = () => {
           ))}
         </nav>
 
-        {/* Theme Toggle */}
         <div className="p-6">
           <button
             onClick={toggleTheme}
@@ -130,9 +126,7 @@ const Layout = () => {
         </div>
       </aside>
 
-      {/* Main Content */}
       <main className="flex-1 flex flex-col">
-        {/* Mobile Header */}
         <header className="lg:hidden glass border-b border-slate-200 dark:border-slate-700 p-4">
           <div className="flex items-center justify-between">
             <h1 className="text-xl font-bold text-gradient">日本語</h1>
@@ -149,14 +143,12 @@ const Layout = () => {
           </div>
         </header>
 
-        {/* Page Content */}
         <div className="flex-1 overflow-auto pb-20 lg:pb-0">
           <div className="container mx-auto p-4 lg:p-8">
             <Outlet />
           </div>
         </div>
 
-        {/* Mobile Navigation */}
         <nav className="lg:hidden fixed bottom-0 left-0 right-0 glass border-t border-slate-200 dark:border-slate-700 p-2 z-50">
           <div className="flex justify-around">
             {navItems.map((item) => (
@@ -179,7 +171,6 @@ const Layout = () => {
           </div>
         </nav>
 
-        {/* PWA Install Prompt */}
         <PWAInstallPrompt />
       </main>
     </div>

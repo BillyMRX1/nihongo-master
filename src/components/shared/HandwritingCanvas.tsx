@@ -12,17 +12,15 @@ interface HandwritingCanvasProps {
 }
 
 const HandwritingCanvas = ({ correctCharacter, onSubmit, showResult, isCorrect }: HandwritingCanvasProps) => {
-  // HanziWriter Quiz Mode (NEW - Testing)
   const quizContainerRef = useRef<HTMLDivElement>(null);
   const quizWrapperRef = useRef<HTMLDivElement>(null);
   const writerRef = useRef<any>(null);
-  const [useQuizMode, setUseQuizMode] = useState(true); // Toggle between quiz and canvas
+  const [useQuizMode, setUseQuizMode] = useState(true);
   const [quizStarted, setQuizStarted] = useState(false);
   const [totalMistakes, setTotalMistakes] = useState(0);
   const [currentStrokeNum, setCurrentStrokeNum] = useState(0);
   const [quizSize, setQuizSize] = useState(320);
 
-  // Old Canvas Mode (Keep for fallback)
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const [isDrawing, setIsDrawing] = useState(false);
   const [hasDrawn, setHasDrawn] = useState(false);
@@ -68,10 +66,8 @@ const HandwritingCanvas = ({ correctCharacter, onSubmit, showResult, isCorrect }
     return () => observer.disconnect();
   }, [strokes]);
 
-  // Check if character is Kanji (not Hiragana/Katakana)
   const isKanji = () => {
     const code = correctCharacter.charCodeAt(0);
-    // Hiragana: 0x3040-0x309F, Katakana: 0x30A0-0x30FF
     const isHiragana = code >= 0x3040 && code <= 0x309f;
     const isKatakana = code >= 0x30a0 && code <= 0x30ff;
     return !isHiragana && !isKatakana;
@@ -85,25 +81,17 @@ const HandwritingCanvas = ({ correctCharacter, onSubmit, showResult, isCorrect }
       const ctx = canvas.getContext('2d');
       if (!ctx) return;
 
-      // Get the display size of the canvas
       const rect = canvas.getBoundingClientRect();
-
-      // Set the internal size to match the display size
-      // Account for device pixel ratio for sharper rendering
       const dpr = window.devicePixelRatio || 1;
       canvas.width = rect.width * dpr;
       canvas.height = rect.height * dpr;
 
-      // Scale the context to account for device pixel ratio
       ctx.scale(dpr, dpr);
-
-      // Set drawing style
       ctx.lineWidth = 8;
       ctx.lineCap = 'round';
       ctx.lineJoin = 'round';
       ctx.strokeStyle = '#f7fafc';
 
-      // Redraw all existing strokes after resize
       strokes.forEach(stroke => {
         if (stroke.length === 0) return;
         ctx.beginPath();
@@ -117,7 +105,6 @@ const HandwritingCanvas = ({ correctCharacter, onSubmit, showResult, isCorrect }
 
     resizeCanvas();
 
-    // Handle window resize
     window.addEventListener('resize', resizeCanvas);
     return () => window.removeEventListener('resize', resizeCanvas);
   }, [strokes, isDarkMode]);
@@ -148,7 +135,6 @@ const HandwritingCanvas = ({ correctCharacter, onSubmit, showResult, isCorrect }
     };
   }, [useQuizMode, correctCharacter]);
 
-  // HanziWriter Quiz Mode Setup
   useEffect(() => {
     if (!useQuizMode || !isKanji() || !quizContainerRef.current || !quizSize) return;
 
@@ -156,7 +142,6 @@ const HandwritingCanvas = ({ correctCharacter, onSubmit, showResult, isCorrect }
     setTotalMistakes(0);
     setCurrentStrokeNum(0);
 
-    // Clear previous writer
     if (writerRef.current) {
       writerRef.current.cancelQuiz();
       writerRef.current = null;
@@ -165,7 +150,6 @@ const HandwritingCanvas = ({ correctCharacter, onSubmit, showResult, isCorrect }
       quizContainerRef.current.innerHTML = '';
     }
 
-    // Create HanziWriter instance
     try {
       writerRef.current = HanziWriter.create(quizContainerRef.current, correctCharacter, {
         width: quizSize,
@@ -191,7 +175,6 @@ const HandwritingCanvas = ({ correctCharacter, onSubmit, showResult, isCorrect }
     };
   }, [correctCharacter, useQuizMode, quizSize]);
 
-  // Start Quiz
   const startQuiz = () => {
     if (!writerRef.current || quizStarted) return;
 
@@ -215,13 +198,11 @@ const HandwritingCanvas = ({ correctCharacter, onSubmit, showResult, isCorrect }
       onComplete: (summary: any) => {
         console.log('Quiz complete!', summary);
         setQuizStarted(false);
-        // Call parent onSubmit with success
         onSubmit(true);
       }
     });
   };
 
-  // Reset Quiz
   const resetQuiz = () => {
     if (writerRef.current) {
       writerRef.current.cancelQuiz();
@@ -332,14 +313,9 @@ const HandwritingCanvas = ({ correctCharacter, onSubmit, showResult, isCorrect }
   const handleSubmit = () => {
     if (!hasDrawn) return;
 
-    // Simple validation: check if user drew something
-    // In a real implementation, you would use ML or pattern matching
-    // For now, we'll give a 70% chance of being correct if they drew enough
     const totalPoints = strokes.reduce((sum, stroke) => sum + stroke.length, 0);
-    const hasEnoughDrawing = totalPoints > 20; // At least 20 points drawn
+    const hasEnoughDrawing = totalPoints > 20;
 
-    // Simulate stroke validation
-    // In production, this would compare against stored stroke data
     onSubmit(hasEnoughDrawing);
   };
 
@@ -365,13 +341,11 @@ const HandwritingCanvas = ({ correctCharacter, onSubmit, showResult, isCorrect }
 
   return (
     <div className="space-y-4 w-full max-w-[640px] mx-auto">
-      {/* Target Character Display */}
       <div className="text-center mb-4">
         <p className="text-slate-600 dark:text-slate-400 mb-2">Draw this character:</p>
         <div className="japanese-char text-slate-400 dark:text-slate-500">{correctCharacter}</div>
       </div>
 
-      {/* Show Animation Toggle - Only for Kanji */}
       {isKanji() && (
         <div className="flex justify-center mb-4">
           <button
@@ -384,7 +358,6 @@ const HandwritingCanvas = ({ correctCharacter, onSubmit, showResult, isCorrect }
         </div>
       )}
 
-      {/* Stroke Order Animation */}
       {isKanji() && showAnimation && (
         <motion.div
           initial={{ height: 0, opacity: 0 }}
@@ -396,7 +369,6 @@ const HandwritingCanvas = ({ correctCharacter, onSubmit, showResult, isCorrect }
         </motion.div>
       )}
 
-      {/* Mode Selector */}
       {isKanji() && (
         <div className="flex justify-center gap-3 mb-4">
           <button
@@ -416,10 +388,8 @@ const HandwritingCanvas = ({ correctCharacter, onSubmit, showResult, isCorrect }
         </div>
       )}
 
-      {/* HanziWriter Quiz Mode (NEW - Testing) */}
       {useQuizMode && isKanji() ? (
         <div className="space-y-4">
-          {/* Quiz Container */}
           <div className="relative flex justify-center">
             <div
               ref={quizWrapperRef}
@@ -437,7 +407,6 @@ const HandwritingCanvas = ({ correctCharacter, onSubmit, showResult, isCorrect }
             </div>
           </div>
 
-          {/* Quiz Stats */}
           {quizStarted && (
             <div className="flex justify-center gap-4 text-sm">
               <div className="card px-4 py-2">
@@ -451,7 +420,6 @@ const HandwritingCanvas = ({ correctCharacter, onSubmit, showResult, isCorrect }
             </div>
           )}
 
-          {/* Quiz Controls */}
           <div className="flex gap-3 justify-center">
             {!quizStarted ? (
               <button
