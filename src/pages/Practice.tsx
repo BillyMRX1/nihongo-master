@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Check, X, Zap } from 'lucide-react';
+import { Check, X, Zap, Lightbulb } from 'lucide-react';
 import { useNavigate, useLocation } from 'react-router-dom';
 import { useStore } from '../store/useStore';
 import HandwritingCanvas from '../components/shared/HandwritingCanvas';
@@ -23,6 +23,7 @@ const Practice = () => {
   const [currentQuestion, setCurrentQuestion] = useState<QuizQuestion | null>(null);
   const [userAnswer, setUserAnswer] = useState('');
   const [showResult, setShowResult] = useState(false);
+  const [showHint, setShowHint] = useState(false);
   const [questionStartTime, setQuestionStartTime] = useState(Date.now());
   const [questionIndex, setQuestionIndex] = useState(0);
   const [options, setOptions] = useState<string[]>([]);
@@ -120,6 +121,10 @@ const Practice = () => {
     setQuestionStartTime(Date.now());
   };
 
+  const Hint = (status=false) =>{
+   setShowHint(status)
+  }
+
   const handleSubmit = () => {
     if (!currentQuestion || !userAnswer.trim()) return;
 
@@ -142,6 +147,7 @@ const Practice = () => {
       submitAnswer(currentQuestion, option, responseTime);
       setShowResult(true);
       setTimeout(() => {
+        Hint(false)
         setQuestionIndex(questionIndex + 1);
         loadNextQuestion(characters, currentQuestion.mode);
       }, 1500);
@@ -316,10 +322,21 @@ const Practice = () => {
             </>
           ) : (
             <>
-              <div className="flex items-center justify-center gap-4 mb-8">
+              <div className="flex items-center justify-center gap-4 mb-6">
                 <div className="text-6xl font-bold text-slate-700 dark:text-slate-300">{currentQuestion.character.romaji}</div>
                 <SpeakerButton text={currentQuestion.character.character} size="lg" />
               </div>
+             <>
+            {showHint ? (
+                  <p>{currentQuestion.character.meanings?.join(', ')}</p>
+                ) : (
+                  <Lightbulb
+                    onClick={() => Hint(true)}
+                    className="mx-auto w-16 h-8 p-1 rounded-md border border-slate-600 hover:scale-125 hover:bg-slate-700 hover:text-yellow-500 transition-all"
+                  />
+                )}
+              </>
+
               <p className="text-lg text-slate-600 dark:text-slate-400 mb-6">Select the correct character</p>
 
               {!showResult ? (

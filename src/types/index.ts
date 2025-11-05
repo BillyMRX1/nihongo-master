@@ -8,6 +8,7 @@ export interface Character {
   character: string;
   romaji: string;
   type: WritingSystem;
+  meanings?: string[];
   category?: string; // 'basic', 'dakuten', 'combination'
 }
 
@@ -120,6 +121,7 @@ export interface QuizQuestion {
   correctAnswer: string;
   userAnswer?: string;
   isCorrect?: boolean;
+  // hint: string;
   responseTime?: number; // milliseconds
 }
 
