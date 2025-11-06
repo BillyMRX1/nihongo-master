@@ -185,6 +185,12 @@ const Practice = () => {
   }
 
   const isCorrect = showResult && userAnswer.toLowerCase().trim() === currentQuestion.correctAnswer.toLowerCase().trim();
+  const hintContent =
+  currentQuestion.character.type === "kanji"
+    ? currentQuestion.character.meanings?.join(", ") ||
+      currentQuestion.correctAnswer
+    : currentQuestion.correctAnswer;
+
 
   return (
     <div className="max-w-4xl mx-auto space-y-6">
@@ -328,7 +334,7 @@ const Practice = () => {
               </div>
              <>
             {showHint ? (
-                  <p>{currentQuestion.character.meanings?.join(', ')}</p>
+                  <p>{hintContent}</p>
                 ) : (
                   <Lightbulb
                     onClick={() => Hint(true)}
