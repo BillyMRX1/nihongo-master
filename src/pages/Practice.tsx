@@ -353,7 +353,7 @@ const Practice = () => {
                       whileHover={{ scale: 1.05 }}
                       whileTap={{ scale: 0.95 }}
                       onClick={() => handleOptionSelect(option)}
-                      className="card p-8 japanese-char hover:shadow-2xl transition-all"
+                      className="card p-12 japanese-char hover:shadow-2xl transition-all "
                     >
                       {option}
                     </motion.button>
