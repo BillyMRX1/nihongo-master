@@ -109,6 +109,10 @@ Found a bug or have a feature suggestion? Open an issue.
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
 
+<a href="https://github.com/BillyMRX1/nihongo-master/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=BillyMRX1/nihongo-master" />
+</a>
+
 ## License
 
 MIT License - see LICENSE file for details.
