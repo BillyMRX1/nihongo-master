@@ -2,7 +2,7 @@
   {
     "id": "kj_n2_001",
     "character": "了",
-    "romaji": "りょう",
+    "romaji": "ryou",
     "type": "kanji",
     "meanings": [
       "Complete",
@@ -23,7 +23,7 @@
   {
     "id": "kj_n2_002",
     "character": "丸",
-    "romaji": "まる",
+    "romaji": "maru",
     "type": "kanji",
     "meanings": [
       "Round",
@@ -57,7 +57,7 @@
   {
     "id": "kj_n2_004",
     "character": "久",
-    "romaji": "ひさしい",
+    "romaji": "hisashii",
     "type": "kanji",
     "meanings": [
       "Long Time",
@@ -82,7 +82,7 @@
   {
     "id": "kj_n2_096",
     "character": "干",
-    "romaji": "ほす",
+    "romaji": "hosu",
     "type": "kanji",
     "meanings": [
       "Dry",
@@ -112,7 +112,7 @@
   {
     "id": "kj_n2_005",
     "character": "戸",
-    "romaji": "と",
+    "romaji": "to",
     "type": "kanji",
     "meanings": [
       "Door",
@@ -136,7 +136,7 @@
   {
     "id": "kj_n2_006",
     "character": "毛",
-    "romaji": "け",
+    "romaji": "ke",
     "type": "kanji",
     "meanings": [
       "Fur",
@@ -161,7 +161,7 @@
   {
     "id": "kj_n2_078",
     "character": "区",
-    "romaji": "く",
+    "romaji": "ku",
     "type": "kanji",
     "meanings": [
       "Ward",
@@ -185,7 +185,7 @@
   {
     "id": "kj_n2_084",
     "character": "仏",
-    "romaji": "ほとけ",
+    "romaji": "hotoke",
     "type": "kanji",
     "meanings": [
       "Buddha",
@@ -211,7 +211,7 @@
   {
     "id": "kj_n2_121",
     "character": "比",
-    "romaji": "くらべる",
+    "romaji": "kuraberu",
     "type": "kanji",
     "meanings": [
       "Compare",
@@ -236,7 +236,7 @@
   {
     "id": "kj_n2_268",
     "character": "介",
-    "romaji": "かい",
+    "romaji": "kai",
     "type": "kanji",
     "meanings": [
       "Jammed In",
@@ -259,7 +259,7 @@
   {
     "id": "kj_n2_298",
     "character": "片",
-    "romaji": "かた",
+    "romaji": "kata",
     "type": "kanji",
     "meanings": [
       "One-sided",
@@ -313,7 +313,7 @@
   {
     "id": "kj_n2_325",
     "character": "匹",
-    "romaji": "ひき",
+    "romaji": "hiki",
     "type": "kanji",
     "meanings": [
       "Equal",
@@ -339,7 +339,7 @@
   {
     "id": "kj_n2_003",
     "character": "玉",
-    "romaji": "たま",
+    "romaji": "tama",
     "type": "kanji",
     "meanings": [
       "Jewel",
@@ -365,7 +365,7 @@
   {
     "id": "kj_n2_007",
     "character": "央",
-    "romaji": "おう",
+    "romaji": "ou",
     "type": "kanji",
     "meanings": [
       "Center",
@@ -387,7 +387,7 @@
   {
     "id": "kj_n2_008",
     "character": "氷",
-    "romaji": "こおり",
+    "romaji": "koori",
     "type": "kanji",
     "meanings": [
       "Icicle",
@@ -416,7 +416,7 @@
   {
     "id": "kj_n2_009",
     "character": "皮",
-    "romaji": "かわ",
+    "romaji": "kawa",
     "type": "kanji",
     "meanings": [
       "Pelt",
@@ -443,7 +443,7 @@
   {
     "id": "kj_n2_010",
     "character": "皿",
-    "romaji": "さら",
+    "romaji": "sara",
     "type": "kanji",
     "meanings": [
       "Dish",
@@ -467,7 +467,7 @@
   {
     "id": "kj_n2_025",
     "character": "札",
-    "romaji": "ふだ",
+    "romaji": "fuda",
     "type": "kanji",
     "meanings": [
       "Tag",
@@ -494,7 +494,7 @@
   {
     "id": "kj_n2_026",
     "character": "辺",
-    "romaji": "あたり",
+    "romaji": "atari",
     "type": "kanji",
     "meanings": [
       "Environs",
@@ -522,7 +522,7 @@
   {
     "id": "kj_n2_044",
     "character": "令",
-    "romaji": "れい",
+    "romaji": "rei",
     "type": "kanji",
     "meanings": [
       "Orders",
@@ -545,7 +545,7 @@
   {
     "id": "kj_n2_110",
     "character": "布",
-    "romaji": "ぬの",
+    "romaji": "nuno",
     "type": "kanji",
     "meanings": [
       "Linen",
@@ -571,7 +571,7 @@
   {
     "id": "kj_n2_113",
     "character": "冊",
-    "romaji": "ふmi",
+    "romaji": "fumi",
     "type": "kanji",
     "meanings": [
       "Tome",
@@ -596,7 +596,7 @@
   {
     "id": "kj_n2_126",
     "character": "圧",
-    "romaji": "おす",
+    "romaji": "osu",
     "type": "kanji",
     "meanings": [
       "Pressure",
@@ -628,7 +628,7 @@
   {
     "id": "kj_n2_129",
     "character": "史",
-    "romaji": "し",
+    "romaji": "shi",
     "type": "kanji",
     "meanings": [
       "History",
@@ -649,7 +649,7 @@
   {
     "id": "kj_n2_162",
     "character": "庁",
-    "romaji": "yaくしょ",
+    "romaji": "yakusho",
     "type": "kanji",
     "meanings": [
       "Government Office"
@@ -673,7 +673,7 @@
   {
     "id": "kj_n2_191",
     "character": "占",
-    "romaji": "しめる",
+    "romaji": "shimeru",
     "type": "kanji",
     "meanings": [
       "Fortune-telling",
@@ -703,7 +703,7 @@
   {
     "id": "kj_n2_198",
     "character": "巨",
-    "romaji": "きょ",
+    "romaji": "kyo",
     "type": "kanji",
     "meanings": [
       "Gigantic",
@@ -726,7 +726,7 @@
   {
     "id": "kj_n2_202",
     "character": "幼",
-    "romaji": "おさない",
+    "romaji": "osanai",
     "type": "kanji",
     "meanings": [
       "Infancy",
@@ -750,7 +750,7 @@
   {
     "id": "kj_n2_235",
     "character": "永",
-    "romaji": "ながい",
+    "romaji": "nagai",
     "type": "kanji",
     "meanings": [
       "Eternity",
@@ -774,7 +774,7 @@
   {
     "id": "kj_n2_272",
     "character": "旧",
-    "romaji": "ふるい",
+    "romaji": "furui",
     "type": "kanji",
     "meanings": [
       "Old Times",
@@ -802,7 +802,7 @@
   {
     "id": "kj_n2_278",
     "character": "甘",
-    "romaji": "あまい",
+    "romaji": "amai",
     "type": "kanji",
     "meanings": [
       "Sweet",
@@ -831,7 +831,7 @@
   {
     "id": "kj_n2_292",
     "character": "刊",
-    "romaji": "かん",
+    "romaji": "kan",
     "type": "kanji",
     "meanings": [
       "Publish",
@@ -854,7 +854,7 @@
   {
     "id": "kj_n2_308",
     "character": "包",
-    "romaji": "つつmu",
+    "romaji": "tsutsumu",
     "type": "kanji",
     "meanings": [
       "Wrap",
@@ -880,7 +880,7 @@
   {
     "id": "kj_n2_352",
     "character": "召",
-    "romaji": "めす",
+    "romaji": "mesu",
     "type": "kanji",
     "meanings": [
       "Seduce",
@@ -911,7 +911,7 @@
   {
     "id": "kj_n2_011",
     "character": "竹",
-    "romaji": "たけ",
+    "romaji": "take",
     "type": "kanji",
     "meanings": [
       "Bamboo"
@@ -933,7 +933,7 @@
   {
     "id": "kj_n2_012",
     "character": "糸",
-    "romaji": "いと",
+    "romaji": "ito",
     "type": "kanji",
     "meanings": [
       "Thread"
@@ -955,7 +955,7 @@
   {
     "id": "kj_n2_013",
     "character": "虫",
-    "romaji": "muし",
+    "romaji": "mushi",
     "type": "kanji",
     "meanings": [
       "Insect",
@@ -980,7 +980,7 @@
   {
     "id": "kj_n2_016",
     "character": "池",
-    "romaji": "いけ",
+    "romaji": "ike",
     "type": "kanji",
     "meanings": [
       "Pond",
@@ -1006,7 +1006,7 @@
   {
     "id": "kj_n2_017",
     "character": "羽",
-    "romaji": "は",
+    "romaji": "ha",
     "type": "kanji",
     "meanings": [
       "Feathers",
@@ -1031,7 +1031,7 @@
   {
     "id": "kj_n2_022",
     "character": "州",
-    "romaji": "す",
+    "romaji": "su",
     "type": "kanji",
     "meanings": [
       "State",
@@ -1056,7 +1056,7 @@
   {
     "id": "kj_n2_023",
     "character": "血",
-    "romaji": "ち",
+    "romaji": "chi",
     "type": "kanji",
     "meanings": [
       "Blood"
@@ -1078,7 +1078,7 @@
   {
     "id": "kj_n2_037",
     "character": "仲",
-    "romaji": "なか",
+    "romaji": "naka",
     "type": "kanji",
     "meanings": [
       "Go-between",
@@ -1102,7 +1102,7 @@
   {
     "id": "kj_n2_076",
     "character": "寺",
-    "romaji": "てら",
+    "romaji": "tera",
     "type": "kanji",
     "meanings": [
       "Buddhist Temple"
@@ -1124,7 +1124,7 @@
   {
     "id": "kj_n2_114",
     "character": "宇",
-    "romaji": "う",
+    "romaji": "u",
     "type": "kanji",
     "meanings": [
       "Eaves",
@@ -1148,7 +1148,7 @@
   {
     "id": "kj_n2_115",
     "character": "団",
-    "romaji": "かたまり",
+    "romaji": "katamari",
     "type": "kanji",
     "meanings": [
       "Group",
@@ -1174,7 +1174,7 @@
   {
     "id": "kj_n2_136",
     "character": "各",
-    "romaji": "おのおの",
+    "romaji": "onoono",
     "type": "kanji",
     "meanings": [
       "Each",
@@ -1198,7 +1198,7 @@
   {
     "id": "kj_n2_179",
     "character": "印",
-    "romaji": "しるし",
+    "romaji": "shirushi",
     "type": "kanji",
     "meanings": [
       "Stamp",
@@ -1232,7 +1232,7 @@
   {
     "id": "kj_n2_188",
     "character": "汗",
-    "romaji": "あせ",
+    "romaji": "ase",
     "type": "kanji",
     "meanings": [
       "Sweat",
@@ -1256,7 +1256,7 @@
   {
     "id": "kj_n2_189",
     "character": "再",
-    "romaji": "futaたび",
+    "romaji": "futatabi",
     "type": "kanji",
     "meanings": [
       "Again",
@@ -1282,7 +1282,7 @@
   {
     "id": "kj_n2_242",
     "character": "汚",
-    "romaji": "けがす",
+    "romaji": "kegasu",
     "type": "kanji",
     "meanings": [
       "Dirty",
@@ -1315,7 +1315,7 @@
   {
     "id": "kj_n2_243",
     "character": "机",
-    "romaji": "つくえ",
+    "romaji": "tsukue",
     "type": "kanji",
     "meanings": [
       "Desk",
@@ -1339,7 +1339,7 @@
   {
     "id": "kj_n2_249",
     "character": "灰",
-    "romaji": "はい",
+    "romaji": "hai",
     "type": "kanji",
     "meanings": [
       "Ashes",
@@ -1364,7 +1364,7 @@
   {
     "id": "kj_n2_290",
     "character": "兆",
-    "romaji": "きざす",
+    "romaji": "kizasu",
     "type": "kanji",
     "meanings": [
       "Portent",
@@ -1392,7 +1392,7 @@
   {
     "id": "kj_n2_309",
     "character": "衣",
-    "romaji": "ころも",
+    "romaji": "koromo",
     "type": "kanji",
     "meanings": [
       "Garment",
@@ -1419,7 +1419,7 @@
   {
     "id": "kj_n2_326",
     "character": "叫",
-    "romaji": "さけぶ",
+    "romaji": "sakebu",
     "type": "kanji",
     "meanings": [
       "Shout",
@@ -1444,7 +1444,7 @@
   {
     "id": "kj_n2_328",
     "character": "缶",
-    "romaji": "かま",
+    "romaji": "kama",
     "type": "kanji",
     "meanings": [
       "Tin Can",
@@ -1468,7 +1468,7 @@
   {
     "id": "kj_n2_331",
     "character": "肌",
-    "romaji": "はだ",
+    "romaji": "hada",
     "type": "kanji",
     "meanings": [
       "Texture",
@@ -1494,7 +1494,7 @@
   {
     "id": "kj_n2_332",
     "character": "舟",
-    "romaji": "ふね",
+    "romaji": "fune",
     "type": "kanji",
     "meanings": [
       "Boat",
@@ -1519,7 +1519,7 @@
   {
     "id": "kj_n2_349",
     "character": "灯",
-    "romaji": "ひ",
+    "romaji": "hi",
     "type": "kanji",
     "meanings": [
       "Lamp",
@@ -1549,7 +1549,7 @@
   {
     "id": "kj_n2_014",
     "character": "村",
-    "romaji": "muら",
+    "romaji": "mura",
     "type": "kanji",
     "meanings": [
       "Village",
@@ -1573,7 +1573,7 @@
   {
     "id": "kj_n2_015",
     "character": "貝",
-    "romaji": "かい",
+    "romaji": "kai",
     "type": "kanji",
     "meanings": [
       "Shellfish"
@@ -1595,7 +1595,7 @@
   {
     "id": "kj_n2_018",
     "character": "角",
-    "romaji": "かど",
+    "romaji": "kado",
     "type": "kanji",
     "meanings": [
       "Angle",
@@ -1623,7 +1623,7 @@
   {
     "id": "kj_n2_019",
     "character": "谷",
-    "romaji": "たに",
+    "romaji": "tani",
     "type": "kanji",
     "meanings": [
       "Valley"
@@ -1648,7 +1648,7 @@
   {
     "id": "kj_n2_020",
     "character": "麦",
-    "romaji": "muぎ",
+    "romaji": "mugi",
     "type": "kanji",
     "meanings": [
       "Barley",
@@ -1672,7 +1672,7 @@
   {
     "id": "kj_n2_038",
     "character": "低",
-    "romaji": "ひくい",
+    "romaji": "hikui",
     "type": "kanji",
     "meanings": [
       "Lower",
@@ -1700,7 +1700,7 @@
   {
     "id": "kj_n2_068",
     "character": "囲",
-    "romaji": "かこmu",
+    "romaji": "kakomu",
     "type": "kanji",
     "meanings": [
       "Surround",
@@ -1732,7 +1732,7 @@
   {
     "id": "kj_n2_071",
     "character": "希",
-    "romaji": "まれ",
+    "romaji": "mare",
     "type": "kanji",
     "meanings": [
       "Hope",
@@ -1766,7 +1766,7 @@
   {
     "id": "kj_n2_072",
     "character": "材",
-    "romaji": "ざい",
+    "romaji": "zai",
     "type": "kanji",
     "meanings": [
       "Lumber",
@@ -1793,7 +1793,7 @@
   {
     "id": "kj_n2_073",
     "character": "芸",
-    "romaji": "うえる",
+    "romaji": "ueru",
     "type": "kanji",
     "meanings": [
       "Technique",
@@ -1825,7 +1825,7 @@
   {
     "id": "kj_n2_074",
     "character": "技",
-    "romaji": "わざ",
+    "romaji": "waza",
     "type": "kanji",
     "meanings": [
       "Skill",
@@ -1855,7 +1855,7 @@
   {
     "id": "kj_n2_079",
     "character": "坂",
-    "romaji": "さか",
+    "romaji": "saka",
     "type": "kanji",
     "meanings": [
       "Slope",
@@ -1880,7 +1880,7 @@
   {
     "id": "kj_n2_093",
     "character": "兵",
-    "romaji": "つわもの",
+    "romaji": "tsuwamono",
     "type": "kanji",
     "meanings": [
       "Soldier",
@@ -1911,7 +1911,7 @@
   {
     "id": "kj_n2_118",
     "character": "乱",
-    "romaji": "miだれる",
+    "romaji": "midareru",
     "type": "kanji",
     "meanings": [
       "Riot",
@@ -1943,7 +1943,7 @@
   {
     "id": "kj_n2_119",
     "character": "改",
-    "romaji": "あらためる",
+    "romaji": "aratameru",
     "type": "kanji",
     "meanings": [
       "Reformation",
@@ -1974,7 +1974,7 @@
   {
     "id": "kj_n2_128",
     "character": "防",
-    "romaji": "ふせぐ",
+    "romaji": "fusegu",
     "type": "kanji",
     "meanings": [
       "Ward Off",
@@ -2000,7 +2000,7 @@
   {
     "id": "kj_n2_170",
     "character": "含",
-    "romaji": "ふくmu",
+    "romaji": "fukumu",
     "type": "kanji",
     "meanings": [
       "Contain",
@@ -2029,7 +2029,7 @@
   {
     "id": "kj_n2_200",
     "character": "児",
-    "romaji": "こ",
+    "romaji": "ko",
     "type": "kanji",
     "meanings": [
       "Newborn Babe",
@@ -2059,7 +2059,7 @@
   {
     "id": "kj_n2_210",
     "character": "臣",
-    "romaji": "しん",
+    "romaji": "shin",
     "type": "kanji",
     "meanings": [
       "Retainer",
@@ -2081,7 +2081,7 @@
   {
     "id": "kj_n2_216",
     "character": "快",
-    "romaji": "こころyoい",
+    "romaji": "kokoroyoi",
     "type": "kanji",
     "meanings": [
       "Cheerful",
@@ -2108,7 +2108,7 @@
   {
     "id": "kj_n2_233",
     "character": "均",
-    "romaji": "ならす",
+    "romaji": "narasu",
     "type": "kanji",
     "meanings": [
       "Level",
@@ -2133,7 +2133,7 @@
   {
     "id": "kj_n2_240",
     "character": "卵",
-    "romaji": "たまご",
+    "romaji": "tamago",
     "type": "kanji",
     "meanings": [
       "Egg",
@@ -2158,7 +2158,7 @@
   {
     "id": "kj_n2_276",
     "character": "伸",
-    "romaji": "のびる",
+    "romaji": "nobiru",
     "type": "kanji",
     "meanings": [
       "Expand",
@@ -2188,7 +2188,7 @@
   {
     "id": "kj_n2_306",
     "character": "伺",
-    "romaji": "うかがう",
+    "romaji": "ukagau",
     "type": "kanji",
     "meanings": [
       "Pay Respects",
@@ -2216,7 +2216,7 @@
   {
     "id": "kj_n2_312",
     "character": "床",
-    "romaji": "とこ",
+    "romaji": "toko",
     "type": "kanji",
     "meanings": [
       "Bed",
@@ -2244,7 +2244,7 @@
   {
     "id": "kj_n2_323",
     "character": "沈",
-    "romaji": "しずmu",
+    "romaji": "shizumu",
     "type": "kanji",
     "meanings": [
       "Sink",
@@ -2273,7 +2273,7 @@
   {
     "id": "kj_n2_324",
     "character": "辛",
-    "romaji": "からい",
+    "romaji": "karai",
     "type": "kanji",
     "meanings": [
       "Spicy",
@@ -2301,7 +2301,7 @@
   {
     "id": "kj_n2_021",
     "character": "林",
-    "romaji": "はyaし",
+    "romaji": "hayashi",
     "type": "kanji",
     "meanings": [
       "Grove",
@@ -2324,7 +2324,7 @@
   {
     "id": "kj_n2_039",
     "character": "岸",
-    "romaji": "きし",
+    "romaji": "kishi",
     "type": "kanji",
     "meanings": [
       "Beach"
@@ -2348,7 +2348,7 @@
   {
     "id": "kj_n2_040",
     "character": "波",
-    "romaji": "なmi",
+    "romaji": "nami",
     "type": "kanji",
     "meanings": [
       "Waves",
@@ -2373,7 +2373,7 @@
   {
     "id": "kj_n2_065",
     "character": "卒",
-    "romaji": "そっする",
+    "romaji": "sossuru",
     "type": "kanji",
     "meanings": [
       "Graduate",
@@ -2405,7 +2405,7 @@
   {
     "id": "kj_n2_066",
     "character": "協",
-    "romaji": "きょう",
+    "romaji": "kyou",
     "type": "kanji",
     "meanings": [
       "Co-",
@@ -2427,7 +2427,7 @@
   {
     "id": "kj_n2_067",
     "character": "周",
-    "romaji": "まわり",
+    "romaji": "mawari",
     "type": "kanji",
     "meanings": [
       "Circumference",
@@ -2451,7 +2451,7 @@
   {
     "id": "kj_n2_069",
     "character": "固",
-    "romaji": "かためる",
+    "romaji": "katameru",
     "type": "kanji",
     "meanings": [
       "Harden",
@@ -2480,7 +2480,7 @@
   {
     "id": "kj_n2_070",
     "character": "季",
-    "romaji": "き",
+    "romaji": "ki",
     "type": "kanji",
     "meanings": [
       "Seasons"
@@ -2501,7 +2501,7 @@
   {
     "id": "kj_n2_077",
     "character": "岩",
-    "romaji": "いわ",
+    "romaji": "iwa",
     "type": "kanji",
     "meanings": [
       "Boulder",
@@ -2526,7 +2526,7 @@
   {
     "id": "kj_n2_081",
     "character": "毒",
-    "romaji": "どく",
+    "romaji": "doku",
     "type": "kanji",
     "meanings": [
       "Poison",
@@ -2553,7 +2553,7 @@
   {
     "id": "kj_n2_086",
     "character": "門",
-    "romaji": "かど",
+    "romaji": "kado",
     "type": "kanji",
     "meanings": [
       "Gate",
@@ -2577,7 +2577,7 @@
   {
     "id": "kj_n2_088",
     "character": "府",
-    "romaji": "ふ",
+    "romaji": "fu",
     "type": "kanji",
     "meanings": [
       "Borough",
@@ -2602,7 +2602,7 @@
   {
     "id": "kj_n2_097",
     "character": "底",
-    "romaji": "そこ",
+    "romaji": "soko",
     "type": "kanji",
     "meanings": [
       "Bottom",
@@ -2632,7 +2632,7 @@
   {
     "id": "kj_n2_101",
     "character": "祈",
-    "romaji": "いのる",
+    "romaji": "inoru",
     "type": "kanji",
     "meanings": [
       "Pray",
@@ -2656,7 +2656,7 @@
   {
     "id": "kj_n2_105",
     "character": "枚",
-    "romaji": "まい",
+    "romaji": "mai",
     "type": "kanji",
     "meanings": [
       "Sheet Of...",
@@ -2679,7 +2679,7 @@
   {
     "id": "kj_n2_130",
     "character": "委",
-    "romaji": "ゆだねる",
+    "romaji": "yudaneru",
     "type": "kanji",
     "meanings": [
       "Committee",
@@ -2706,7 +2706,7 @@
   {
     "id": "kj_n2_148",
     "character": "乳",
-    "romaji": "ちち",
+    "romaji": "chichi",
     "type": "kanji",
     "meanings": [
       "Milk",
@@ -2732,7 +2732,7 @@
   {
     "id": "kj_n2_150",
     "character": "担",
-    "romaji": "かつぐ",
+    "romaji": "katsugu",
     "type": "kanji",
     "meanings": [
       "Shouldering",
@@ -2759,7 +2759,7 @@
   {
     "id": "kj_n2_155",
     "character": "届",
-    "romaji": "とどける",
+    "romaji": "todokeru",
     "type": "kanji",
     "meanings": [
       "Deliver",
@@ -2789,7 +2789,7 @@
   {
     "id": "kj_n2_156",
     "character": "肩",
-    "romaji": "かた",
+    "romaji": "kata",
     "type": "kanji",
     "meanings": [
       "Shoulder"
@@ -2812,7 +2812,7 @@
   {
     "id": "kj_n2_167",
     "character": "武",
-    "romaji": "たけ",
+    "romaji": "take",
     "type": "kanji",
     "meanings": [
       "Warrior",
@@ -2841,7 +2841,7 @@
   {
     "id": "kj_n2_168",
     "character": "述",
-    "romaji": "のべる",
+    "romaji": "noberu",
     "type": "kanji",
     "meanings": [
       "Mention",
@@ -2868,7 +2868,7 @@
   {
     "id": "kj_n2_171",
     "character": "況",
-    "romaji": "まして",
+    "romaji": "mashite",
     "type": "kanji",
     "meanings": [
       "Condition",
@@ -2894,7 +2894,7 @@
   {
     "id": "kj_n2_173",
     "character": "効",
-    "romaji": "きく",
+    "romaji": "kiku",
     "type": "kanji",
     "meanings": [
       "Merit",
@@ -2922,7 +2922,7 @@
   {
     "id": "kj_n2_183",
     "character": "刺",
-    "romaji": "さす",
+    "romaji": "sasu",
     "type": "kanji",
     "meanings": [
       "Thorn",
@@ -2955,7 +2955,7 @@
   {
     "id": "kj_n2_187",
     "character": "河",
-    "romaji": "かわ",
+    "romaji": "kawa",
     "type": "kanji",
     "meanings": [
       "River"
@@ -2978,7 +2978,7 @@
   {
     "id": "kj_n2_194",
     "character": "昇",
-    "romaji": "のぼる",
+    "romaji": "noboru",
     "type": "kanji",
     "meanings": [
       "Rise Up"
@@ -3002,7 +3002,7 @@
   {
     "id": "kj_n2_205",
     "character": "券",
-    "romaji": "けん",
+    "romaji": "ken",
     "type": "kanji",
     "meanings": [
       "Ticket"
@@ -3023,7 +3023,7 @@
   {
     "id": "kj_n2_207",
     "character": "並",
-    "romaji": "なmi",
+    "romaji": "nami",
     "type": "kanji",
     "meanings": [
       "Row",
@@ -3059,7 +3059,7 @@
   {
     "id": "kj_n2_209",
     "character": "欧",
-    "romaji": "うたう",
+    "romaji": "utau",
     "type": "kanji",
     "meanings": [
       "Europe"
@@ -3083,7 +3083,7 @@
   {
     "id": "kj_n2_213",
     "character": "板",
-    "romaji": "いた",
+    "romaji": "ita",
     "type": "kanji",
     "meanings": [
       "Plank",
@@ -3110,7 +3110,7 @@
   {
     "id": "kj_n2_217",
     "character": "版",
-    "romaji": "はん",
+    "romaji": "han",
     "type": "kanji",
     "meanings": [
       "Printing Block",
@@ -3135,7 +3135,7 @@
   {
     "id": "kj_n2_219",
     "character": "延",
-    "romaji": "のびる",
+    "romaji": "nobiru",
     "type": "kanji",
     "meanings": [
       "Prolong",
@@ -3162,7 +3162,7 @@
   {
     "id": "kj_n2_225",
     "character": "泥",
-    "romaji": "どろ",
+    "romaji": "doro",
     "type": "kanji",
     "meanings": [
       "Mud",
@@ -3193,7 +3193,7 @@
   {
     "id": "kj_n2_246",
     "character": "宝",
-    "romaji": "たから",
+    "romaji": "takara",
     "type": "kanji",
     "meanings": [
       "Treasure",
@@ -3219,7 +3219,7 @@
   {
     "id": "kj_n2_260",
     "character": "拝",
-    "romaji": "おがmu",
+    "romaji": "ogamu",
     "type": "kanji",
     "meanings": [
       "Worship",
@@ -3245,7 +3245,7 @@
   {
     "id": "kj_n2_262",
     "character": "承",
-    "romaji": "うけたまわる",
+    "romaji": "uketamawaru",
     "type": "kanji",
     "meanings": [
       "Acquiesce",
@@ -3275,7 +3275,7 @@
   {
     "id": "kj_n2_264",
     "character": "枝",
-    "romaji": "えだ",
+    "romaji": "eda",
     "type": "kanji",
     "meanings": [
       "Bough",
@@ -3302,7 +3302,7 @@
   {
     "id": "kj_n2_271",
     "character": "油",
-    "romaji": "あぶら",
+    "romaji": "abura",
     "type": "kanji",
     "meanings": [
       "Oil",
@@ -3327,7 +3327,7 @@
   {
     "id": "kj_n2_273",
     "character": "姓",
-    "romaji": "せい",
+    "romaji": "sei",
     "type": "kanji",
     "meanings": [
       "Surname"
@@ -3349,7 +3349,7 @@
   {
     "id": "kj_n2_282",
     "character": "依",
-    "romaji": "yoる",
+    "romaji": "yoru",
     "type": "kanji",
     "meanings": [
       "Reliant",
@@ -3377,7 +3377,7 @@
   {
     "id": "kj_n2_314",
     "character": "泊",
-    "romaji": "とまる",
+    "romaji": "tomaru",
     "type": "kanji",
     "meanings": [
       "Overnight Stay",
@@ -3403,7 +3403,7 @@
   {
     "id": "kj_n2_319",
     "character": "刷",
-    "romaji": "する",
+    "romaji": "suru",
     "type": "kanji",
     "meanings": [
       "Printing",
@@ -3432,7 +3432,7 @@
   {
     "id": "kj_n2_355",
     "character": "沸",
-    "romaji": "わく",
+    "romaji": "waku",
     "type": "kanji",
     "meanings": [
       "Seethe",
@@ -3460,7 +3460,7 @@
   {
     "id": "kj_n2_360",
     "character": "肯",
-    "romaji": "がえんじる",
+    "romaji": "gaenjiru",
     "type": "kanji",
     "meanings": [
       "Agreement",
@@ -3485,7 +3485,7 @@
   {
     "id": "kj_n2_024",
     "character": "星",
-    "romaji": "ほし",
+    "romaji": "hoshi",
     "type": "kanji",
     "meanings": [
       "Star",
@@ -3513,7 +3513,7 @@
   {
     "id": "kj_n2_031",
     "character": "県",
-    "romaji": "かける",
+    "romaji": "kakeru",
     "type": "kanji",
     "meanings": [
       "Prefecture"
@@ -3537,7 +3537,7 @@
   {
     "id": "kj_n2_041",
     "character": "拾",
-    "romaji": "ひろう",
+    "romaji": "hirou",
     "type": "kanji",
     "meanings": [
       "Pick Up",
@@ -3565,7 +3565,7 @@
   {
     "id": "kj_n2_042",
     "character": "秒",
-    "romaji": "びょう",
+    "romaji": "byou",
     "type": "kanji",
     "meanings": [
       "Second (1/60 Minute)"
@@ -3586,7 +3586,7 @@
   {
     "id": "kj_n2_056",
     "character": "泉",
-    "romaji": "いずmi",
+    "romaji": "izumi",
     "type": "kanji",
     "meanings": [
       "Spring",
@@ -3610,7 +3610,7 @@
   {
     "id": "kj_n2_080",
     "character": "勇",
-    "romaji": "いさmu",
+    "romaji": "isamu",
     "type": "kanji",
     "meanings": [
       "Courage",
@@ -3637,7 +3637,7 @@
   {
     "id": "kj_n2_082",
     "character": "浅",
-    "romaji": "あさい",
+    "romaji": "asai",
     "type": "kanji",
     "meanings": [
       "Shallow",
@@ -3664,7 +3664,7 @@
   {
     "id": "kj_n2_083",
     "character": "軍",
-    "romaji": "いくさ",
+    "romaji": "ikusa",
     "type": "kanji",
     "meanings": [
       "Army",
@@ -3691,7 +3691,7 @@
   {
     "id": "kj_n2_090",
     "character": "専",
-    "romaji": "もっぱら",
+    "romaji": "moppara",
     "type": "kanji",
     "meanings": [
       "Specialty",
@@ -3718,7 +3718,7 @@
   {
     "id": "kj_n2_095",
     "character": "栄",
-    "romaji": "さかえる",
+    "romaji": "sakaeru",
     "type": "kanji",
     "meanings": [
       "Flourish",
@@ -3750,7 +3750,7 @@
   {
     "id": "kj_n2_127",
     "character": "厚",
-    "romaji": "あつい",
+    "romaji": "atsui",
     "type": "kanji",
     "meanings": [
       "Thick",
@@ -3781,7 +3781,7 @@
   {
     "id": "kj_n2_131",
     "character": "査",
-    "romaji": "さ",
+    "romaji": "sa",
     "type": "kanji",
     "meanings": [
       "Investigate"
@@ -3802,7 +3802,7 @@
   {
     "id": "kj_n2_134",
     "character": "省",
-    "romaji": "かえりmiる",
+    "romaji": "kaerimiru",
     "type": "kanji",
     "meanings": [
       "Focus",
@@ -3829,7 +3829,7 @@
   {
     "id": "kj_n2_143",
     "character": "革",
-    "romaji": "かわ",
+    "romaji": "kawa",
     "type": "kanji",
     "meanings": [
       "Leather",
@@ -3854,7 +3854,7 @@
   {
     "id": "kj_n2_144",
     "character": "律",
-    "romaji": "りつ",
+    "romaji": "ritsu",
     "type": "kanji",
     "meanings": [
       "Rhythm",
@@ -3881,7 +3881,7 @@
   {
     "id": "kj_n2_146",
     "character": "則",
-    "romaji": "のっとる",
+    "romaji": "nottoru",
     "type": "kanji",
     "meanings": [
       "Rule",
@@ -3907,7 +3907,7 @@
   {
     "id": "kj_n2_149",
     "character": "城",
-    "romaji": "しろ",
+    "romaji": "shiro",
     "type": "kanji",
     "meanings": [
       "Castle"
@@ -3931,7 +3931,7 @@
   {
     "id": "kj_n2_154",
     "character": "祝",
-    "romaji": "いわう",
+    "romaji": "iwau",
     "type": "kanji",
     "meanings": [
       "Celebrate",
@@ -3956,7 +3956,7 @@
   {
     "id": "kj_n2_161",
     "character": "型",
-    "romaji": "かた",
+    "romaji": "kata",
     "type": "kanji",
     "meanings": [
       "Mould",
@@ -3983,7 +3983,7 @@
   {
     "id": "kj_n2_175",
     "character": "巻",
-    "romaji": "まく",
+    "romaji": "maku",
     "type": "kanji",
     "meanings": [
       "Scroll",
@@ -4017,7 +4017,7 @@
   {
     "id": "kj_n2_192",
     "character": "胃",
-    "romaji": "い",
+    "romaji": "i",
     "type": "kanji",
     "meanings": [
       "Stomach",
@@ -4041,7 +4041,7 @@
   {
     "id": "kj_n2_197",
     "character": "逆",
-    "romaji": "さか",
+    "romaji": "saka",
     "type": "kanji",
     "meanings": [
       "Inverted",
@@ -4071,7 +4071,7 @@
   {
     "id": "kj_n2_250",
     "character": "砂",
-    "romaji": "すな",
+    "romaji": "suna",
     "type": "kanji",
     "meanings": [
       "Sand"
@@ -4095,7 +4095,7 @@
   {
     "id": "kj_n2_259",
     "character": "紅",
-    "romaji": "べに",
+    "romaji": "beni",
     "type": "kanji",
     "meanings": [
       "Crimson",
@@ -4122,7 +4122,7 @@
   {
     "id": "kj_n2_289",
     "character": "香",
-    "romaji": "か",
+    "romaji": "ka",
     "type": "kanji",
     "meanings": [
       "Incense",
@@ -4150,7 +4150,7 @@
   {
     "id": "kj_n2_302",
     "character": "柱",
-    "romaji": "はしら",
+    "romaji": "hashira",
     "type": "kanji",
     "meanings": [
       "Pillar",
@@ -4176,7 +4176,7 @@
   {
     "id": "kj_n2_307",
     "character": "炭",
-    "romaji": "すmi",
+    "romaji": "sumi",
     "type": "kanji",
     "meanings": [
       "Charcoal",
@@ -4201,7 +4201,7 @@
   {
     "id": "kj_n2_315",
     "character": "荒",
-    "romaji": "あらい",
+    "romaji": "arai",
     "type": "kanji",
     "meanings": [
       "Laid Waste",
@@ -4233,7 +4233,7 @@
   {
     "id": "kj_n2_317",
     "character": "珍",
-    "romaji": "めずらしい",
+    "romaji": "mezurashii",
     "type": "kanji",
     "meanings": [
       "Rare",
@@ -4260,7 +4260,7 @@
   {
     "id": "kj_n2_320",
     "character": "封",
-    "romaji": "ふう",
+    "romaji": "fuu",
     "type": "kanji",
     "meanings": [
       "Seal",
@@ -4283,7 +4283,7 @@
   {
     "id": "kj_n2_322",
     "character": "柔",
-    "romaji": "yaわらか",
+    "romaji": "yawaraka",
     "type": "kanji",
     "meanings": [
       "Tender",
@@ -4313,7 +4313,7 @@
   {
     "id": "kj_n2_350",
     "character": "咲",
-    "romaji": "さく",
+    "romaji": "saku",
     "type": "kanji",
     "meanings": [
       "Blossom",
@@ -4339,7 +4339,7 @@
   {
     "id": "kj_n2_353",
     "character": "挟",
-    "romaji": "はさmu",
+    "romaji": "hasamu",
     "type": "kanji",
     "meanings": [
       "Pinch",
@@ -4368,7 +4368,7 @@
   {
     "id": "kj_n2_354",
     "character": "枯",
-    "romaji": "かれる",
+    "romaji": "kareru",
     "type": "kanji",
     "meanings": [
       "Wither",
@@ -4395,7 +4395,7 @@
   {
     "id": "kj_n2_365",
     "character": "郊",
-    "romaji": "こう",
+    "romaji": "kou",
     "type": "kanji",
     "meanings": [
       "Outskirts",
@@ -4418,7 +4418,7 @@
   {
     "id": "kj_n2_027",
     "character": "弱",
-    "romaji": "yoわい",
+    "romaji": "yowai",
     "type": "kanji",
     "meanings": [
       "Weak",
@@ -4445,7 +4445,7 @@
   {
     "id": "kj_n2_045",
     "character": "根",
-    "romaji": "ね",
+    "romaji": "ne",
     "type": "kanji",
     "meanings": [
       "Root",
@@ -4471,7 +4471,7 @@
   {
     "id": "kj_n2_046",
     "character": "倍",
-    "romaji": "ばい",
+    "romaji": "bai",
     "type": "kanji",
     "meanings": [
       "Double",
@@ -4495,7 +4495,7 @@
   {
     "id": "kj_n2_047",
     "character": "島",
-    "romaji": "しま",
+    "romaji": "shima",
     "type": "kanji",
     "meanings": [
       "Island"
@@ -4518,7 +4518,7 @@
   {
     "id": "kj_n2_075",
     "character": "骨",
-    "romaji": "ほね",
+    "romaji": "hone",
     "type": "kanji",
     "meanings": [
       "Skeleton",
@@ -4545,7 +4545,7 @@
   {
     "id": "kj_n2_087",
     "character": "荷",
-    "romaji": "に",
+    "romaji": "ni",
     "type": "kanji",
     "meanings": [
       "Baggage",
@@ -4575,7 +4575,7 @@
   {
     "id": "kj_n2_089",
     "character": "浴",
-    "romaji": "あびる",
+    "romaji": "abiru",
     "type": "kanji",
     "meanings": [
       "Bathe",
@@ -4601,7 +4601,7 @@
   {
     "id": "kj_n2_099",
     "character": "恋",
-    "romaji": "こう",
+    "romaji": "kou",
     "type": "kanji",
     "meanings": [
       "Romance",
@@ -4630,7 +4630,7 @@
   {
     "id": "kj_n2_100",
     "character": "訓",
-    "romaji": "おしえる",
+    "romaji": "oshieru",
     "type": "kanji",
     "meanings": [
       "Instruction",
@@ -4659,7 +4659,7 @@
   {
     "id": "kj_n2_103",
     "character": "胸",
-    "romaji": "muね",
+    "romaji": "mune",
     "type": "kanji",
     "meanings": [
       "Bosom",
@@ -4688,7 +4688,7 @@
   {
     "id": "kj_n2_122",
     "character": "被",
-    "romaji": "こうmuる",
+    "romaji": "koumuru",
     "type": "kanji",
     "meanings": [
       "Incur",
@@ -4722,7 +4722,7 @@
   {
     "id": "kj_n2_125",
     "character": "個",
-    "romaji": "こ",
+    "romaji": "ko",
     "type": "kanji",
     "meanings": [
       "Individual",
@@ -4746,7 +4746,7 @@
   {
     "id": "kj_n2_176",
     "character": "捜",
-    "romaji": "さがす",
+    "romaji": "sagasu",
     "type": "kanji",
     "meanings": [
       "Search",
@@ -4774,7 +4774,7 @@
   {
     "id": "kj_n2_178",
     "character": "造",
-    "romaji": "つくる",
+    "romaji": "tsukuru",
     "type": "kanji",
     "meanings": [
       "Create",
@@ -4802,7 +4802,7 @@
   {
     "id": "kj_n2_185",
     "character": "針",
-    "romaji": "はり",
+    "romaji": "hari",
     "type": "kanji",
     "meanings": [
       "Needle",
@@ -4828,7 +4828,7 @@
   {
     "id": "kj_n2_193",
     "character": "悩",
-    "romaji": "なyamu",
+    "romaji": "nayamu",
     "type": "kanji",
     "meanings": [
       "Trouble",
@@ -4859,7 +4859,7 @@
   {
     "id": "kj_n2_199",
     "character": "庫",
-    "romaji": "くら",
+    "romaji": "kura",
     "type": "kanji",
     "meanings": [
       "Warehouse",
@@ -4884,7 +4884,7 @@
   {
     "id": "kj_n2_201",
     "character": "凍",
-    "romaji": "こおる",
+    "romaji": "kooru",
     "type": "kanji",
     "meanings": [
       "Frozen",
@@ -4913,7 +4913,7 @@
   {
     "id": "kj_n2_212",
     "character": "航",
-    "romaji": "こう",
+    "romaji": "kou",
     "type": "kanji",
     "meanings": [
       "Navigate",
@@ -4938,7 +4938,7 @@
   {
     "id": "kj_n2_227",
     "character": "孫",
-    "romaji": "まご",
+    "romaji": "mago",
     "type": "kanji",
     "meanings": [
       "Grandchild",
@@ -4962,7 +4962,7 @@
   {
     "id": "kj_n2_228",
     "character": "帯",
-    "romaji": "おびる",
+    "romaji": "obiru",
     "type": "kanji",
     "meanings": [
       "Sash",
@@ -4992,7 +4992,7 @@
   {
     "id": "kj_n2_229",
     "character": "粉",
-    "romaji": "デシメートル",
+    "romaji": "deshimeetoru",
     "type": "kanji",
     "meanings": [
       "Flour",
@@ -5019,7 +5019,7 @@
   {
     "id": "kj_n2_239",
     "character": "党",
-    "romaji": "なかま",
+    "romaji": "nakama",
     "type": "kanji",
     "meanings": [
       "Party",
@@ -5045,7 +5045,7 @@
   {
     "id": "kj_n2_258",
     "character": "純",
-    "romaji": "じゅん",
+    "romaji": "jun",
     "type": "kanji",
     "meanings": [
       "Genuine",
@@ -5069,7 +5069,7 @@
   {
     "id": "kj_n2_275",
     "character": "将",
-    "romaji": "まさに",
+    "romaji": "masani",
     "type": "kanji",
     "meanings": [
       "Leader",
@@ -5104,7 +5104,7 @@
   {
     "id": "kj_n2_281",
     "character": "般",
-    "romaji": "はん",
+    "romaji": "han",
     "type": "kanji",
     "meanings": [
       "Carrier",
@@ -5130,7 +5130,7 @@
   {
     "id": "kj_n2_300",
     "character": "埋",
-    "romaji": "うめる",
+    "romaji": "umeru",
     "type": "kanji",
     "meanings": [
       "Bury",
@@ -5160,7 +5160,7 @@
   {
     "id": "kj_n2_327",
     "character": "涙",
-    "romaji": "なmiだ",
+    "romaji": "namida",
     "type": "kanji",
     "meanings": [
       "Tears",
@@ -5186,7 +5186,7 @@
   {
     "id": "kj_n2_345",
     "character": "畜",
-    "romaji": "ちく",
+    "romaji": "chiku",
     "type": "kanji",
     "meanings": [
       "Livestock",
@@ -5208,7 +5208,7 @@
   {
     "id": "kj_n2_359",
     "character": "耕",
-    "romaji": "たがyaす",
+    "romaji": "tagayasu",
     "type": "kanji",
     "meanings": [
       "Till",
@@ -5233,7 +5233,7 @@
   {
     "id": "kj_n2_361",
     "character": "脂",
-    "romaji": "あぶら",
+    "romaji": "abura",
     "type": "kanji",
     "meanings": [
       "Fat",
@@ -5263,7 +5263,7 @@
   {
     "id": "kj_n2_363",
     "character": "軒",
-    "romaji": "のき",
+    "romaji": "noki",
     "type": "kanji",
     "meanings": [
       "Flats",
@@ -5288,7 +5288,7 @@
   {
     "id": "kj_n2_367",
     "character": "隻",
-    "romaji": "せき",
+    "romaji": "seki",
     "type": "kanji",
     "meanings": [
       "Vessels",
@@ -5314,7 +5314,7 @@
   {
     "id": "kj_n2_028",
     "character": "黄",
-    "romaji": "き",
+    "romaji": "ki",
     "type": "kanji",
     "meanings": [
       "Yellow"
@@ -5338,7 +5338,7 @@
   {
     "id": "kj_n2_048",
     "character": "祭",
-    "romaji": "まつる",
+    "romaji": "matsuru",
     "type": "kanji",
     "meanings": [
       "Ritual",
@@ -5368,7 +5368,7 @@
   {
     "id": "kj_n2_049",
     "character": "章",
-    "romaji": "しょう",
+    "romaji": "shou",
     "type": "kanji",
     "meanings": [
       "Badge",
@@ -5393,7 +5393,7 @@
   {
     "id": "kj_n2_091",
     "character": "細",
-    "romaji": "ほそい",
+    "romaji": "hosoi",
     "type": "kanji",
     "meanings": [
       "Dainty",
@@ -5425,7 +5425,7 @@
   {
     "id": "kj_n2_104",
     "character": "脳",
-    "romaji": "のうずる",
+    "romaji": "nouzuru",
     "type": "kanji",
     "meanings": [
       "Brain",
@@ -5451,7 +5451,7 @@
   {
     "id": "kj_n2_117",
     "character": "混",
-    "romaji": "まじる",
+    "romaji": "majiru",
     "type": "kanji",
     "meanings": [
       "Mix",
@@ -5481,7 +5481,7 @@
   {
     "id": "kj_n2_124",
     "character": "械",
-    "romaji": "かせ",
+    "romaji": "kase",
     "type": "kanji",
     "meanings": [
       "Contraption",
@@ -5508,7 +5508,7 @@
   {
     "id": "kj_n2_133",
     "character": "設",
-    "romaji": "もうける",
+    "romaji": "moukeru",
     "type": "kanji",
     "meanings": [
       "Establishment",
@@ -5533,7 +5533,7 @@
   {
     "id": "kj_n2_140",
     "character": "副",
-    "romaji": "ふく",
+    "romaji": "fuku",
     "type": "kanji",
     "meanings": [
       "Vice-",
@@ -5558,7 +5558,7 @@
   {
     "id": "kj_n2_141",
     "character": "域",
-    "romaji": "いき",
+    "romaji": "iki",
     "type": "kanji",
     "meanings": [
       "Range",
@@ -5585,7 +5585,7 @@
   {
     "id": "kj_n2_142",
     "character": "停",
-    "romaji": "とめる",
+    "romaji": "tomeru",
     "type": "kanji",
     "meanings": [
       "Halt",
@@ -5610,7 +5610,7 @@
   {
     "id": "kj_n2_169",
     "character": "販",
-    "romaji": "はん",
+    "romaji": "han",
     "type": "kanji",
     "meanings": [
       "Marketing",
@@ -5633,7 +5633,7 @@
   {
     "id": "kj_n2_184",
     "character": "郵",
-    "romaji": "ゆう",
+    "romaji": "yuu",
     "type": "kanji",
     "meanings": [
       "Mail",
@@ -5655,7 +5655,7 @@
   {
     "id": "kj_n2_186",
     "character": "菓",
-    "romaji": "か",
+    "romaji": "ka",
     "type": "kanji",
     "meanings": [
       "Candy",
@@ -5678,7 +5678,7 @@
   {
     "id": "kj_n2_190",
     "character": "接",
-    "romaji": "つぐ",
+    "romaji": "tsugu",
     "type": "kanji",
     "meanings": [
       "Touch",
@@ -5706,7 +5706,7 @@
   {
     "id": "kj_n2_203",
     "character": "清",
-    "romaji": "きyoい",
+    "romaji": "kiyoi",
     "type": "kanji",
     "meanings": [
       "Pure",
@@ -5737,7 +5737,7 @@
   {
     "id": "kj_n2_206",
     "character": "移",
-    "romaji": "うつる",
+    "romaji": "utsuru",
     "type": "kanji",
     "meanings": [
       "Shift",
@@ -5766,7 +5766,7 @@
   {
     "id": "kj_n2_208",
     "character": "乾",
-    "romaji": "かわく",
+    "romaji": "kawaku",
     "type": "kanji",
     "meanings": [
       "Drought",
@@ -5800,7 +5800,7 @@
   {
     "id": "kj_n2_211",
     "character": "略",
-    "romaji": "ほぼ",
+    "romaji": "hobo",
     "type": "kanji",
     "meanings": [
       "Abbreviation",
@@ -5833,7 +5833,7 @@
   {
     "id": "kj_n2_220",
     "character": "翌",
-    "romaji": "yoく",
+    "romaji": "yoku",
     "type": "kanji",
     "meanings": [
       "The Following",
@@ -5855,7 +5855,7 @@
   {
     "id": "kj_n2_221",
     "character": "符",
-    "romaji": "ふ",
+    "romaji": "fu",
     "type": "kanji",
     "meanings": [
       "Token",
@@ -5880,7 +5880,7 @@
   {
     "id": "kj_n2_224",
     "character": "掃",
-    "romaji": "はく",
+    "romaji": "haku",
     "type": "kanji",
     "meanings": [
       "Sweep",
@@ -5907,7 +5907,7 @@
   {
     "id": "kj_n2_230",
     "character": "菜",
-    "romaji": "な",
+    "romaji": "na",
     "type": "kanji",
     "meanings": [
       "Vegetable",
@@ -5933,7 +5933,7 @@
   {
     "id": "kj_n2_231",
     "character": "貨",
-    "romaji": "たから",
+    "romaji": "takara",
     "type": "kanji",
     "meanings": [
       "Freight",
@@ -5958,7 +5958,7 @@
   {
     "id": "kj_n2_232",
     "character": "陸",
-    "romaji": "おか",
+    "romaji": "oka",
     "type": "kanji",
     "meanings": [
       "Land",
@@ -5983,7 +5983,7 @@
   {
     "id": "kj_n2_234",
     "character": "採",
-    "romaji": "とる",
+    "romaji": "toru",
     "type": "kanji",
     "meanings": [
       "Pick",
@@ -6010,7 +6010,7 @@
   {
     "id": "kj_n2_236",
     "character": "液",
-    "romaji": "えき",
+    "romaji": "eki",
     "type": "kanji",
     "meanings": [
       "Fluid",
@@ -6035,7 +6035,7 @@
   {
     "id": "kj_n2_241",
     "character": "捨",
-    "romaji": "すてる",
+    "romaji": "suteru",
     "type": "kanji",
     "meanings": [
       "Discard",
@@ -6063,7 +6063,7 @@
   {
     "id": "kj_n2_251",
     "character": "著",
-    "romaji": "あらわす",
+    "romaji": "arawasu",
     "type": "kanji",
     "meanings": [
       "Renowned",
@@ -6099,7 +6099,7 @@
   {
     "id": "kj_n2_267",
     "character": "紹",
-    "romaji": "しょう",
+    "romaji": "shou",
     "type": "kanji",
     "meanings": [
       "Introduce",
@@ -6122,7 +6122,7 @@
   {
     "id": "kj_n2_285",
     "character": "患",
-    "romaji": "わずらう",
+    "romaji": "wazurau",
     "type": "kanji",
     "meanings": [
       "Afflicted",
@@ -6148,7 +6148,7 @@
   {
     "id": "kj_n2_313",
     "character": "掘",
-    "romaji": "ほる",
+    "romaji": "horu",
     "type": "kanji",
     "meanings": [
       "Dig",
@@ -6174,7 +6174,7 @@
   {
     "id": "kj_n2_316",
     "character": "袋",
-    "romaji": "ふくろ",
+    "romaji": "fukuro",
     "type": "kanji",
     "meanings": [
       "Sack",
@@ -6200,7 +6200,7 @@
   {
     "id": "kj_n2_329",
     "character": "粒",
-    "romaji": "つぶ",
+    "romaji": "tsubu",
     "type": "kanji",
     "meanings": [
       "Grains",
@@ -6225,7 +6225,7 @@
   {
     "id": "kj_n2_338",
     "character": "涼",
-    "romaji": "すずしい",
+    "romaji": "suzushii",
     "type": "kanji",
     "meanings": [
       "Refreshing",
@@ -6254,7 +6254,7 @@
   {
     "id": "kj_n2_358",
     "character": "瓶",
-    "romaji": "かめ",
+    "romaji": "kame",
     "type": "kanji",
     "meanings": [
       "Bottle",
@@ -6285,7 +6285,7 @@
   {
     "id": "kj_n2_364",
     "character": "軟",
-    "romaji": "yaわらか",
+    "romaji": "yawaraka",
     "type": "kanji",
     "meanings": [
       "Soft"
@@ -6309,7 +6309,7 @@
   {
     "id": "kj_n2_029",
     "character": "森",
-    "romaji": "もり",
+    "romaji": "mori",
     "type": "kanji",
     "meanings": [
       "Forest",
@@ -6332,7 +6332,7 @@
   {
     "id": "kj_n2_030",
     "character": "雲",
-    "romaji": "くも",
+    "romaji": "kumo",
     "type": "kanji",
     "meanings": [
       "Cloud"
@@ -6356,7 +6356,7 @@
   {
     "id": "kj_n2_032",
     "character": "軽",
-    "romaji": "かるい",
+    "romaji": "karui",
     "type": "kanji",
     "meanings": [
       "Lightly",
@@ -6385,7 +6385,7 @@
   {
     "id": "kj_n2_050",
     "character": "童",
-    "romaji": "わらべ",
+    "romaji": "warabe",
     "type": "kanji",
     "meanings": [
       "Juvenile",
@@ -6409,7 +6409,7 @@
   {
     "id": "kj_n2_051",
     "character": "階",
-    "romaji": "きざはし",
+    "romaji": "kizahashi",
     "type": "kanji",
     "meanings": [
       "Storey",
@@ -6435,7 +6435,7 @@
   {
     "id": "kj_n2_052",
     "character": "植",
-    "romaji": "うえる",
+    "romaji": "ueru",
     "type": "kanji",
     "meanings": [
       "Plant"
@@ -6459,7 +6459,7 @@
   {
     "id": "kj_n2_053",
     "character": "温",
-    "romaji": "あたたか",
+    "romaji": "atataka",
     "type": "kanji",
     "meanings": [
       "Warm"
@@ -6487,7 +6487,7 @@
   {
     "id": "kj_n2_054",
     "character": "湯",
-    "romaji": "ゆ",
+    "romaji": "yu",
     "type": "kanji",
     "meanings": [
       "Hot Water",
@@ -6512,7 +6512,7 @@
   {
     "id": "kj_n2_055",
     "character": "短",
-    "romaji": "miじかい",
+    "romaji": "mijikai",
     "type": "kanji",
     "meanings": [
       "Short",
@@ -6539,7 +6539,7 @@
   {
     "id": "kj_n2_102",
     "character": "焼",
-    "romaji": "yaく",
+    "romaji": "yaku",
     "type": "kanji",
     "meanings": [
       "Bake",
@@ -6567,7 +6567,7 @@
   {
     "id": "kj_n2_107",
     "character": "喫",
-    "romaji": "のmu",
+    "romaji": "nomu",
     "type": "kanji",
     "meanings": [
       "Consume",
@@ -6596,7 +6596,7 @@
   {
     "id": "kj_n2_108",
     "character": "減",
-    "romaji": "へる",
+    "romaji": "heru",
     "type": "kanji",
     "meanings": [
       "Dwindle",
@@ -6625,7 +6625,7 @@
   {
     "id": "kj_n2_109",
     "character": "順",
-    "romaji": "じゅん",
+    "romaji": "jun",
     "type": "kanji",
     "meanings": [
       "Obey",
@@ -6651,7 +6651,7 @@
   {
     "id": "kj_n2_111",
     "character": "詞",
-    "romaji": "ことば",
+    "romaji": "kotoba",
     "type": "kanji",
     "meanings": [
       "Part Of Speech",
@@ -6676,7 +6676,7 @@
   {
     "id": "kj_n2_120",
     "character": "絡",
-    "romaji": "からmu",
+    "romaji": "karamu",
     "type": "kanji",
     "meanings": [
       "Entwine",
@@ -6702,7 +6702,7 @@
   {
     "id": "kj_n2_135",
     "character": "税",
-    "romaji": "ぜい",
+    "romaji": "zei",
     "type": "kanji",
     "meanings": [
       "Tax",
@@ -6724,7 +6724,7 @@
   {
     "id": "kj_n2_138",
     "character": "営",
-    "romaji": "いとなmu",
+    "romaji": "itonamu",
     "type": "kanji",
     "meanings": [
       "Occupation",
@@ -6752,7 +6752,7 @@
   {
     "id": "kj_n2_157",
     "character": "腕",
-    "romaji": "うで",
+    "romaji": "ude",
     "type": "kanji",
     "meanings": [
       "Arm",
@@ -6779,7 +6779,7 @@
   {
     "id": "kj_n2_164",
     "character": "象",
-    "romaji": "かたどる",
+    "romaji": "katadoru",
     "type": "kanji",
     "meanings": [
       "Elephant",
@@ -6807,7 +6807,7 @@
   {
     "id": "kj_n2_165",
     "character": "量",
-    "romaji": "はかる",
+    "romaji": "hakaru",
     "type": "kanji",
     "meanings": [
       "Quantity",
@@ -6836,7 +6836,7 @@
   {
     "id": "kj_n2_172",
     "character": "補",
-    "romaji": "おぎなう",
+    "romaji": "oginau",
     "type": "kanji",
     "meanings": [
       "Supplement",
@@ -6865,7 +6865,7 @@
   {
     "id": "kj_n2_177",
     "character": "替",
-    "romaji": "かえる",
+    "romaji": "kaeru",
     "type": "kanji",
     "meanings": [
       "Exchange",
@@ -6893,7 +6893,7 @@
   {
     "id": "kj_n2_180",
     "character": "復",
-    "romaji": "また",
+    "romaji": "mata",
     "type": "kanji",
     "meanings": [
       "Restore",
@@ -6919,7 +6919,7 @@
   {
     "id": "kj_n2_181",
     "character": "筆",
-    "romaji": "ふで",
+    "romaji": "fude",
     "type": "kanji",
     "meanings": [
       "Writing Brush",
@@ -6945,7 +6945,7 @@
   {
     "id": "kj_n2_182",
     "character": "貯",
-    "romaji": "ためる",
+    "romaji": "tameru",
     "type": "kanji",
     "meanings": [
       "Savings",
@@ -6974,7 +6974,7 @@
   {
     "id": "kj_n2_196",
     "character": "極",
-    "romaji": "きわめる",
+    "romaji": "kiwameru",
     "type": "kanji",
     "meanings": [
       "Poles",
@@ -7017,7 +7017,7 @@
   {
     "id": "kj_n2_223",
     "character": "普",
-    "romaji": "あまねく",
+    "romaji": "amaneku",
     "type": "kanji",
     "meanings": [
       "Universal",
@@ -7044,7 +7044,7 @@
   {
     "id": "kj_n2_226",
     "character": "棒",
-    "romaji": "ぼう",
+    "romaji": "bou",
     "type": "kanji",
     "meanings": [
       "Rod",
@@ -7071,7 +7071,7 @@
   {
     "id": "kj_n2_247",
     "character": "尊",
-    "romaji": "たっとい",
+    "romaji": "tattoi",
     "type": "kanji",
     "meanings": [
       "Revered",
@@ -7102,7 +7102,7 @@
   {
     "id": "kj_n2_248",
     "character": "敬",
-    "romaji": "うyaまう",
+    "romaji": "uyamau",
     "type": "kanji",
     "meanings": [
       "Awe",
@@ -7129,7 +7129,7 @@
   {
     "id": "kj_n2_254",
     "character": "装",
-    "romaji": "yoそおう",
+    "romaji": "yosoou",
     "type": "kanji",
     "meanings": [
       "Attire",
@@ -7159,7 +7159,7 @@
   {
     "id": "kj_n2_265",
     "character": "測",
-    "romaji": "はかる",
+    "romaji": "hakaru",
     "type": "kanji",
     "meanings": [
       "Fathom",
@@ -7186,7 +7186,7 @@
   {
     "id": "kj_n2_269",
     "character": "湖",
-    "romaji": "miずうmi",
+    "romaji": "mizuumi",
     "type": "kanji",
     "meanings": [
       "Lake"
@@ -7210,7 +7210,7 @@
   {
     "id": "kj_n2_274",
     "character": "貿",
-    "romaji": "ぼう",
+    "romaji": "bou",
     "type": "kanji",
     "meanings": [
       "Trade",
@@ -7233,7 +7233,7 @@
   {
     "id": "kj_n2_277",
     "character": "幅",
-    "romaji": "はば",
+    "romaji": "haba",
     "type": "kanji",
     "meanings": [
       "Hanging Scroll",
@@ -7257,7 +7257,7 @@
   {
     "id": "kj_n2_279",
     "character": "換",
-    "romaji": "かえる",
+    "romaji": "kaeru",
     "type": "kanji",
     "meanings": [
       "Interchange",
@@ -7290,7 +7290,7 @@
   {
     "id": "kj_n2_284",
     "character": "募",
-    "romaji": "つのる",
+    "romaji": "tsunoru",
     "type": "kanji",
     "meanings": [
       "Recruit",
@@ -7317,7 +7317,7 @@
   {
     "id": "kj_n2_286",
     "character": "湾",
-    "romaji": "いりえ",
+    "romaji": "irie",
     "type": "kanji",
     "meanings": [
       "Gulf",
@@ -7343,7 +7343,7 @@
   {
     "id": "kj_n2_294",
     "character": "奥",
-    "romaji": "おく",
+    "romaji": "oku",
     "type": "kanji",
     "meanings": [
       "Heart",
@@ -7371,7 +7371,7 @@
   {
     "id": "kj_n2_296",
     "character": "超",
-    "romaji": "こえる",
+    "romaji": "koeru",
     "type": "kanji",
     "meanings": [
       "Transcend",
@@ -7397,7 +7397,7 @@
   {
     "id": "kj_n2_297",
     "character": "雇",
-    "romaji": "yaとう",
+    "romaji": "yatou",
     "type": "kanji",
     "meanings": [
       "Employ",
@@ -7421,7 +7421,7 @@
   {
     "id": "kj_n2_321",
     "character": "筒",
-    "romaji": "つつ",
+    "romaji": "tsutsu",
     "type": "kanji",
     "meanings": [
       "Cylinder",
@@ -7448,7 +7448,7 @@
   {
     "id": "kj_n2_330",
     "character": "塔",
-    "romaji": "とう",
+    "romaji": "tou",
     "type": "kanji",
     "meanings": [
       "Pagoda",
@@ -7472,7 +7472,7 @@
   {
     "id": "kj_n2_335",
     "character": "湿",
-    "romaji": "しめる",
+    "romaji": "shimeru",
     "type": "kanji",
     "meanings": [
       "Damp",
@@ -7502,7 +7502,7 @@
   {
     "id": "kj_n2_336",
     "character": "硬",
-    "romaji": "かたい",
+    "romaji": "katai",
     "type": "kanji",
     "meanings": [
       "Stiff",
@@ -7526,7 +7526,7 @@
   {
     "id": "kj_n2_337",
     "character": "鈍",
-    "romaji": "にぶい",
+    "romaji": "nibui",
     "type": "kanji",
     "meanings": [
       "Dull",
@@ -7556,7 +7556,7 @@
   {
     "id": "kj_n2_341",
     "character": "帽",
-    "romaji": "ずきん",
+    "romaji": "zukin",
     "type": "kanji",
     "meanings": [
       "Cap",
@@ -7583,7 +7583,7 @@
   {
     "id": "kj_n2_344",
     "character": "畳",
-    "romaji": "たたmu",
+    "romaji": "tatamu",
     "type": "kanji",
     "meanings": [
       "Tatami Mat",
@@ -7614,7 +7614,7 @@
   {
     "id": "kj_n2_366",
     "character": "隅",
-    "romaji": "すmi",
+    "romaji": "sumi",
     "type": "kanji",
     "meanings": [
       "Corner",
@@ -7638,7 +7638,7 @@
   {
     "id": "kj_n2_033",
     "character": "農",
-    "romaji": "のう",
+    "romaji": "nou",
     "type": "kanji",
     "meanings": [
       "Agriculture",
@@ -7660,7 +7660,7 @@
   {
     "id": "kj_n2_034",
     "character": "鉄",
-    "romaji": "くろがね",
+    "romaji": "kurogane",
     "type": "kanji",
     "meanings": [
       "Iron"
@@ -7683,7 +7683,7 @@
   {
     "id": "kj_n2_094",
     "character": "塩",
-    "romaji": "しお",
+    "romaji": "shio",
     "type": "kanji",
     "meanings": [
       "Salt"
@@ -7708,7 +7708,7 @@
   {
     "id": "kj_n2_098",
     "character": "署",
-    "romaji": "しょ",
+    "romaji": "sho",
     "type": "kanji",
     "meanings": [
       "Signature",
@@ -7731,7 +7731,7 @@
   {
     "id": "kj_n2_106",
     "character": "禁",
-    "romaji": "きん",
+    "romaji": "kin",
     "type": "kanji",
     "meanings": [
       "Prohibition",
@@ -7754,7 +7754,7 @@
   {
     "id": "kj_n2_137",
     "character": "勢",
-    "romaji": "いきおい",
+    "romaji": "ikioi",
     "type": "kanji",
     "meanings": [
       "Forces",
@@ -7782,7 +7782,7 @@
   {
     "id": "kj_n2_145",
     "character": "準",
-    "romaji": "じゅんじる",
+    "romaji": "junjiru",
     "type": "kanji",
     "meanings": [
       "Semi-",
@@ -7815,7 +7815,7 @@
   {
     "id": "kj_n2_158",
     "character": "腰",
-    "romaji": "こし",
+    "romaji": "koshi",
     "type": "kanji",
     "meanings": [
       "Loins",
@@ -7842,7 +7842,7 @@
   {
     "id": "kj_n2_159",
     "character": "触",
-    "romaji": "ふれる",
+    "romaji": "fureru",
     "type": "kanji",
     "meanings": [
       "Contact",
@@ -7873,7 +7873,7 @@
   {
     "id": "kj_n2_174",
     "character": "豊",
-    "romaji": "ゆたか",
+    "romaji": "yutaka",
     "type": "kanji",
     "meanings": [
       "Bountiful",
@@ -7900,7 +7900,7 @@
   {
     "id": "kj_n2_214",
     "character": "詰",
-    "romaji": "つめる",
+    "romaji": "tsumeru",
     "type": "kanji",
     "meanings": [
       "Packed",
@@ -7933,7 +7933,7 @@
   {
     "id": "kj_n2_215",
     "character": "照",
-    "romaji": "てる",
+    "romaji": "teru",
     "type": "kanji",
     "meanings": [
       "Illuminate",
@@ -7962,7 +7962,7 @@
   {
     "id": "kj_n2_218",
     "character": "預",
-    "romaji": "あずける",
+    "romaji": "azukeru",
     "type": "kanji",
     "meanings": [
       "Deposit",
@@ -7989,7 +7989,7 @@
   {
     "id": "kj_n2_252",
     "character": "蒸",
-    "romaji": "muす",
+    "romaji": "musu",
     "type": "kanji",
     "meanings": [
       "Steam",
@@ -8020,7 +8020,7 @@
   {
     "id": "kj_n2_255",
     "character": "裏",
-    "romaji": "うら",
+    "romaji": "ura",
     "type": "kanji",
     "meanings": [
       "Back",
@@ -8053,7 +8053,7 @@
   {
     "id": "kj_n2_263",
     "character": "損",
-    "romaji": "そこなう",
+    "romaji": "sokonau",
     "type": "kanji",
     "meanings": [
       "Damage",
@@ -8084,7 +8084,7 @@
   {
     "id": "kj_n2_288",
     "character": "跡",
-    "romaji": "あと",
+    "romaji": "ato",
     "type": "kanji",
     "meanings": [
       "Tracks",
@@ -8110,7 +8110,7 @@
   {
     "id": "kj_n2_293",
     "character": "傾",
-    "romaji": "かたmuく",
+    "romaji": "katamuku",
     "type": "kanji",
     "meanings": [
       "Lean",
@@ -8144,7 +8144,7 @@
   {
     "id": "kj_n2_299",
     "character": "群",
-    "romaji": "muれる",
+    "romaji": "mureru",
     "type": "kanji",
     "meanings": [
       "Flock",
@@ -8175,7 +8175,7 @@
   {
     "id": "kj_n2_304",
     "character": "殿",
-    "romaji": "との",
+    "romaji": "tono",
     "type": "kanji",
     "meanings": [
       "Mr.",
@@ -8206,7 +8206,7 @@
   {
     "id": "kj_n2_310",
     "character": "鉱",
-    "romaji": "あらがね",
+    "romaji": "aragane",
     "type": "kanji",
     "meanings": [
       "Mineral",
@@ -8230,7 +8230,7 @@
   {
     "id": "kj_n2_339",
     "character": "零",
-    "romaji": "ぜろ",
+    "romaji": "zero",
     "type": "kanji",
     "meanings": [
       "Zero",
@@ -8259,7 +8259,7 @@
   {
     "id": "kj_n2_346",
     "character": "溶",
-    "romaji": "とける",
+    "romaji": "tokeru",
     "type": "kanji",
     "meanings": [
       "Melt",
@@ -8286,7 +8286,7 @@
   {
     "id": "kj_n2_351",
     "character": "塗",
-    "romaji": "ぬる",
+    "romaji": "nuru",
     "type": "kanji",
     "meanings": [
       "Paint",
@@ -8316,7 +8316,7 @@
   {
     "id": "kj_n2_035",
     "character": "算",
-    "romaji": "そろ",
+    "romaji": "soro",
     "type": "kanji",
     "meanings": [
       "Calculate",
@@ -8344,7 +8344,7 @@
   {
     "id": "kj_n2_058",
     "character": "緑",
-    "romaji": "miどり",
+    "romaji": "midori",
     "type": "kanji",
     "meanings": [
       "Green"
@@ -8369,7 +8369,7 @@
   {
     "id": "kj_n2_059",
     "character": "練",
-    "romaji": "ねる",
+    "romaji": "neru",
     "type": "kanji",
     "meanings": [
       "Practice",
@@ -8398,7 +8398,7 @@
   {
     "id": "kj_n2_064",
     "character": "像",
-    "romaji": "ぞう",
+    "romaji": "zou",
     "type": "kanji",
     "meanings": [
       "Statue",
@@ -8423,7 +8423,7 @@
   {
     "id": "kj_n2_092",
     "character": "鼻",
-    "romaji": "はな",
+    "romaji": "hana",
     "type": "kanji",
     "meanings": [
       "Nose",
@@ -8448,7 +8448,7 @@
   {
     "id": "kj_n2_112",
     "character": "歴",
-    "romaji": "れき",
+    "romaji": "reki",
     "type": "kanji",
     "meanings": [
       "Curriculum",
@@ -8473,7 +8473,7 @@
   {
     "id": "kj_n2_132",
     "character": "総",
-    "romaji": "すべて",
+    "romaji": "subete",
     "type": "kanji",
     "meanings": [
       "General",
@@ -8503,7 +8503,7 @@
   {
     "id": "kj_n2_139",
     "character": "領",
-    "romaji": "えり",
+    "romaji": "eri",
     "type": "kanji",
     "meanings": [
       "Jurisdiction",
@@ -8530,7 +8530,7 @@
   {
     "id": "kj_n2_160",
     "character": "層",
-    "romaji": "そう",
+    "romaji": "sou",
     "type": "kanji",
     "meanings": [
       "Stratum",
@@ -8555,7 +8555,7 @@
   {
     "id": "kj_n2_163",
     "character": "管",
-    "romaji": "くだ",
+    "romaji": "kuda",
     "type": "kanji",
     "meanings": [
       "Pipe",
@@ -8584,7 +8584,7 @@
   {
     "id": "kj_n2_166",
     "character": "境",
-    "romaji": "さかい",
+    "romaji": "sakai",
     "type": "kanji",
     "meanings": [
       "Boundary",
@@ -8611,7 +8611,7 @@
   {
     "id": "kj_n2_238",
     "character": "複",
-    "romaji": "ふく",
+    "romaji": "fuku",
     "type": "kanji",
     "meanings": [
       "Duplicate",
@@ -8635,7 +8635,7 @@
   {
     "id": "kj_n2_245",
     "character": "誌",
-    "romaji": "し",
+    "romaji": "shi",
     "type": "kanji",
     "meanings": [
       "Document",
@@ -8658,7 +8658,7 @@
   {
     "id": "kj_n2_270",
     "character": "銅",
-    "romaji": "あかがね",
+    "romaji": "akagane",
     "type": "kanji",
     "meanings": [
       "Copper"
@@ -8681,7 +8681,7 @@
   {
     "id": "kj_n2_283",
     "character": "漁",
-    "romaji": "あさる",
+    "romaji": "asaru",
     "type": "kanji",
     "meanings": [
       "Fishing",
@@ -8706,7 +8706,7 @@
   {
     "id": "kj_n2_340",
     "character": "綿",
-    "romaji": "わた",
+    "romaji": "wata",
     "type": "kanji",
     "meanings": [
       "Cotton"
@@ -8730,7 +8730,7 @@
   {
     "id": "kj_n2_342",
     "character": "憎",
-    "romaji": "にくmu",
+    "romaji": "nikumu",
     "type": "kanji",
     "meanings": [
       "Hate",
@@ -8757,7 +8757,7 @@
   {
     "id": "kj_n2_343",
     "character": "滴",
-    "romaji": "しずく",
+    "romaji": "shizuku",
     "type": "kanji",
     "meanings": [
       "Drip",
@@ -8782,7 +8782,7 @@
   {
     "id": "kj_n2_347",
     "character": "踊",
-    "romaji": "おどる",
+    "romaji": "odoru",
     "type": "kanji",
     "meanings": [
       "Jump",
@@ -8809,7 +8809,7 @@
   {
     "id": "kj_n2_036",
     "character": "線",
-    "romaji": "すじ",
+    "romaji": "suji",
     "type": "kanji",
     "meanings": [
       "Line",
@@ -8834,7 +8834,7 @@
   {
     "id": "kj_n2_060",
     "character": "億",
-    "romaji": "おく",
+    "romaji": "oku",
     "type": "kanji",
     "meanings": [
       "Hundred Million",
@@ -8856,7 +8856,7 @@
   {
     "id": "kj_n2_061",
     "character": "課",
-    "romaji": "か",
+    "romaji": "ka",
     "type": "kanji",
     "meanings": [
       "Chapter",
@@ -8882,7 +8882,7 @@
   {
     "id": "kj_n2_062",
     "character": "賞",
-    "romaji": "ほめる",
+    "romaji": "homeru",
     "type": "kanji",
     "meanings": [
       "Prize",
@@ -8908,7 +8908,7 @@
   {
     "id": "kj_n2_063",
     "character": "輪",
-    "romaji": "わ",
+    "romaji": "wa",
     "type": "kanji",
     "meanings": [
       "Wheel",
@@ -8938,7 +8938,7 @@
   {
     "id": "kj_n2_116",
     "character": "暴",
-    "romaji": "あばく",
+    "romaji": "abaku",
     "type": "kanji",
     "meanings": [
       "Outburst",
@@ -8970,7 +8970,7 @@
   {
     "id": "kj_n2_123",
     "character": "震",
-    "romaji": "ふるう",
+    "romaji": "furuu",
     "type": "kanji",
     "meanings": [
       "Quake",
@@ -8998,7 +8998,7 @@
   {
     "id": "kj_n2_147",
     "character": "導",
-    "romaji": "miちびく",
+    "romaji": "michibiku",
     "type": "kanji",
     "meanings": [
       "Guidance",
@@ -9024,7 +9024,7 @@
   {
     "id": "kj_n2_222",
     "character": "編",
-    "romaji": "あmu",
+    "romaji": "amu",
     "type": "kanji",
     "meanings": [
       "Compilation",
@@ -9055,7 +9055,7 @@
   {
     "id": "kj_n2_253",
     "character": "蔵",
-    "romaji": "くら",
+    "romaji": "kura",
     "type": "kanji",
     "meanings": [
       "Storehouse",
@@ -9084,7 +9084,7 @@
   {
     "id": "kj_n2_256",
     "character": "諸",
-    "romaji": "もろ",
+    "romaji": "moro",
     "type": "kanji",
     "meanings": [
       "Various",
@@ -9110,7 +9110,7 @@
   {
     "id": "kj_n2_261",
     "character": "劇",
-    "romaji": "げき",
+    "romaji": "geki",
     "type": "kanji",
     "meanings": [
       "Drama",
@@ -9133,7 +9133,7 @@
   {
     "id": "kj_n2_301",
     "character": "駐",
-    "romaji": "ちゅう",
+    "romaji": "chuu",
     "type": "kanji",
     "meanings": [
       "Stop-over",
@@ -9156,7 +9156,7 @@
   {
     "id": "kj_n2_303",
     "character": "鋭",
-    "romaji": "するどい",
+    "romaji": "surudoi",
     "type": "kanji",
     "meanings": [
       "Pointed",
@@ -9184,7 +9184,7 @@
   {
     "id": "kj_n2_362",
     "character": "膚",
-    "romaji": "はだ",
+    "romaji": "hada",
     "type": "kanji",
     "meanings": [
       "Skin",
@@ -9211,7 +9211,7 @@
   {
     "id": "kj_n2_057",
     "character": "橋",
-    "romaji": "はし",
+    "romaji": "hashi",
     "type": "kanji",
     "meanings": [
       "Bridge"
@@ -9236,7 +9236,7 @@
   {
     "id": "kj_n2_085",
     "character": "築",
-    "romaji": "きずく",
+    "romaji": "kizuku",
     "type": "kanji",
     "meanings": [
       "Fabricate",
@@ -9262,7 +9262,7 @@
   {
     "id": "kj_n2_152",
     "character": "輸",
-    "romaji": "ゆ",
+    "romaji": "yu",
     "type": "kanji",
     "meanings": [
       "Transport",
@@ -9286,7 +9286,7 @@
   {
     "id": "kj_n2_153",
     "character": "燃",
-    "romaji": "もえる",
+    "romaji": "moeru",
     "type": "kanji",
     "meanings": [
       "Burn",
@@ -9313,7 +9313,7 @@
   {
     "id": "kj_n2_195",
     "character": "濃",
-    "romaji": "こい",
+    "romaji": "koi",
     "type": "kanji",
     "meanings": [
       "Concentrated",
@@ -9339,7 +9339,7 @@
   {
     "id": "kj_n2_204",
     "character": "録",
-    "romaji": "しるす",
+    "romaji": "shirusu",
     "type": "kanji",
     "meanings": [
       "Record"
@@ -9364,7 +9364,7 @@
   {
     "id": "kj_n2_305",
     "character": "薄",
-    "romaji": "うすい",
+    "romaji": "usui",
     "type": "kanji",
     "meanings": [
       "Dilute",
@@ -9399,7 +9399,7 @@
   {
     "id": "kj_n2_333",
     "character": "曇",
-    "romaji": "くもる",
+    "romaji": "kumoru",
     "type": "kanji",
     "meanings": [
       "Cloudy Weather",
@@ -9424,7 +9424,7 @@
   {
     "id": "kj_n2_334",
     "character": "磨",
-    "romaji": "miがく",
+    "romaji": "migaku",
     "type": "kanji",
     "meanings": [
       "Grind",
@@ -9453,7 +9453,7 @@
   {
     "id": "kj_n2_348",
     "character": "賢",
-    "romaji": "かしこい",
+    "romaji": "kashikoi",
     "type": "kanji",
     "meanings": [
       "Intelligent",
@@ -9480,7 +9480,7 @@
   {
     "id": "kj_n2_237",
     "character": "績",
-    "romaji": "せき",
+    "romaji": "seki",
     "type": "kanji",
     "meanings": [
       "Exploits",
@@ -9503,7 +9503,7 @@
   {
     "id": "kj_n2_266",
     "character": "講",
-    "romaji": "こう",
+    "romaji": "kou",
     "type": "kanji",
     "meanings": [
       "Lecture",
@@ -9526,7 +9526,7 @@
   {
     "id": "kj_n2_280",
     "character": "療",
-    "romaji": "りょう",
+    "romaji": "ryou",
     "type": "kanji",
     "meanings": [
       "Heal",
@@ -9548,7 +9548,7 @@
   {
     "id": "kj_n2_291",
     "character": "齢",
-    "romaji": "yoわい",
+    "romaji": "yowai",
     "type": "kanji",
     "meanings": [
       "Age"
@@ -9572,7 +9572,7 @@
   {
     "id": "kj_n2_356",
     "character": "濯",
-    "romaji": "すすぐ",
+    "romaji": "susugu",
     "type": "kanji",
     "meanings": [
       "Laundry",
@@ -9600,7 +9600,7 @@
   {
     "id": "kj_n2_357",
     "character": "燥",
-    "romaji": "はしゃぐ",
+    "romaji": "hashagu",
     "type": "kanji",
     "meanings": [
       "Parch",
@@ -9624,7 +9624,7 @@
   {
     "id": "kj_n2_151",
     "character": "額",
-    "romaji": "ひたい",
+    "romaji": "hitai",
     "type": "kanji",
     "meanings": [
       "Forehead",
@@ -9653,7 +9653,7 @@
   {
     "id": "kj_n2_244",
     "character": "簡",
-    "romaji": "えらぶ",
+    "romaji": "erabu",
     "type": "kanji",
     "meanings": [
       "Simplicity",
@@ -9679,7 +9679,7 @@
   {
     "id": "kj_n2_295",
     "character": "贈",
-    "romaji": "おくる",
+    "romaji": "okuru",
     "type": "kanji",
     "meanings": [
       "Presents",
@@ -9708,7 +9708,7 @@
   {
     "id": "kj_n2_257",
     "character": "臓",
-    "romaji": "はらわた",
+    "romaji": "harawata",
     "type": "kanji",
     "meanings": [
       "Entrails",
@@ -9733,7 +9733,7 @@
   {
     "id": "kj_n2_287",
     "character": "爆",
-    "romaji": "はぜる",
+    "romaji": "hazeru",
     "type": "kanji",
     "meanings": [
       "Bomb",
@@ -9759,7 +9759,7 @@
   {
     "id": "kj_n2_043",
     "character": "競",
-    "romaji": "きそう",
+    "romaji": "kisou",
     "type": "kanji",
     "meanings": [
       "Emulate",
@@ -9791,7 +9791,7 @@
   {
     "id": "kj_n2_318",
     "character": "籍",
-    "romaji": "せき",
+    "romaji": "seki",
     "type": "kanji",
     "meanings": [
       "Enroll",
