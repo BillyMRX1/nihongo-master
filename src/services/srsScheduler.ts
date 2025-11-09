@@ -165,19 +165,24 @@ export const calculateComboMultiplier = (comboCount: number): number => {
 /**
  * Calculate level from total XP
  */
-export const calculateLevel = (totalXP: number): { level: number; xpToNextLevel: number } => {
+export const calculateLevel = (
+  totalXP: number
+): { level: number; xpProgress: number; xpToNextLevel: number } => {
   // XP required for level n: 100 * (n^1.5)
   let level = 1;
+  let xpForCurrentLevel = 0;
   let xpForNextLevel = 100;
 
   while (totalXP >= xpForNextLevel) {
     level += 1;
+    xpForCurrentLevel = xpForNextLevel;
     xpForNextLevel = Math.floor(100 * Math.pow(level, 1.5));
   }
 
-  const xpToNextLevel = xpForNextLevel - totalXP;
+  const xpProgress = totalXP - xpForCurrentLevel;
+  const xpToNextLevel = xpForNextLevel - xpForCurrentLevel;
 
-  return { level, xpToNextLevel };
+  return { level, xpProgress, xpToNextLevel };
 };
 
 /**

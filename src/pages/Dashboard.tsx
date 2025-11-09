@@ -11,6 +11,7 @@ import {
   Award,
   Brain
 } from 'lucide-react';
+import achievementsData from '../data/achievements.json';
 
 const Dashboard = () => {
   const navigate = useNavigate();
@@ -251,21 +252,28 @@ const Dashboard = () => {
               </div>
             ) : (
               <>
-                {unlockedAchievements.slice(-3).reverse().map((achId, index) => (
-                  <motion.div
-                    key={achId}
-                    initial={{ x: 20, opacity: 0 }}
-                    animate={{ x: 0, opacity: 1 }}
-                    transition={{ delay: 0.8 + index * 0.1 }}
-                    className="flex items-center gap-3 p-3 bg-slate-50 dark:bg-slate-800 rounded-lg"
-                  >
-                    <div className="text-3xl">{achId.includes('001') ? '🎯' : '🏆'}</div>
-                    <div>
-                      <div className="font-semibold">Achievement Unlocked!</div>
-                      <div className="text-xs text-slate-600 dark:text-slate-400">Achievement ID: {achId}</div>
-                    </div>
-                  </motion.div>
-                ))}
+                {unlockedAchievements.slice(-3).reverse().map((achId, index) => {
+                  const achievement = achievementsData.find(ach => ach.id === achId);
+                  return (
+                    <motion.div
+                      key={achId}
+                      initial={{ x: 20, opacity: 0 }}
+                      animate={{ x: 0, opacity: 1 }}
+                      transition={{ delay: 0.8 + index * 0.1 }}
+                      className="flex items-center gap-3 p-3 bg-slate-50 dark:bg-slate-800 rounded-lg"
+                    >
+                      <div className="text-3xl">{achievement?.icon || '🏆'}</div>
+                      <div>
+                        <div className="font-semibold">
+                          {achievement?.name || 'Achievement Unlocked'}
+                        </div>
+                        <div className="text-xs text-slate-600 dark:text-slate-400">
+                          {achievement?.description || achId}
+                        </div>
+                      </div>
+                    </motion.div>
+                  );
+                })}
                 <button
                   onClick={() => navigate('/stats')}
                   className="w-full btn-secondary text-sm"

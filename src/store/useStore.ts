@@ -9,8 +9,10 @@ import type {
   CustomDeck,
   Achievement,
   QuizQuestion,
+  UserPreferences,
 } from '../types';
 import * as storage from '../services/localStorage';
+import { DEFAULT_PREFERENCES } from '../services/localStorage';
 import { updateProgressFromResult, calculateXP, calculateComboMultiplier, calculateLevel, updateStreak } from '../services/srsScheduler';
 import achievementsData from '../data/achievements.json';
 
@@ -36,6 +38,10 @@ interface AppStore {
   exportData: () => string;
   importData: (jsonString: string) => boolean;
   resetAllData: () => void;
+  saveUserSettings: (updates: {
+    name?: string;
+    preferences?: Partial<UserPreferences>;
+  }) => void;
 }
 
 export const useStore = create<AppStore>((set, get) => ({
@@ -52,6 +58,15 @@ export const useStore = create<AppStore>((set, get) => ({
     let user = storage.getUserProfile();
     if (!user) {
       user = storage.createDefaultProfile();
+    } else {
+      user = {
+        ...user,
+        preferences: {
+          ...DEFAULT_PREFERENCES,
+          ...(user.preferences || {}),
+        },
+      };
+      storage.setUserProfile(user);
     }
 
     const progress = storage.getCharacterProgress();
@@ -97,29 +112,38 @@ export const useStore = create<AppStore>((set, get) => ({
     const { currentSession, user } = get();
     if (!currentSession || !user) return;
 
-    storage.endSession(currentSession.id, currentSession.xpEarned);
+    const completedSession = storage.finalizeSession(currentSession);
 
     // Update daily stats
     const today = new Date().toISOString().split('T')[0];
     const todayStats = storage.getTodayStats();
+    const previousQuestions = todayStats?.questionsAnswered || 0;
+    const previousCorrect = todayStats
+      ? Math.round(((todayStats.accuracy || 0) / 100) * previousQuestions)
+      : 0;
+    const totalQuestions = previousQuestions + completedSession.questionsAnswered;
+    const newAccuracy = totalQuestions > 0
+      ? Math.round(((previousCorrect + completedSession.correctAnswers) / totalQuestions) * 100)
+      : 0;
     storage.updateDailyStats(today, {
-      studyTime: (todayStats?.studyTime || 0) + currentSession.duration,
-      xpEarned: (todayStats?.xpEarned || 0) + currentSession.xpEarned,
-      questionsAnswered: (todayStats?.questionsAnswered || 0) + currentSession.questionsAnswered,
-      accuracy: currentSession.questionsAnswered > 0
-        ? (currentSession.correctAnswers / currentSession.questionsAnswered) * 100
-        : 0,
+      studyTime: (todayStats?.studyTime || 0) + completedSession.duration,
+      xpEarned: (todayStats?.xpEarned || 0) + completedSession.xpEarned,
+      questionsAnswered: totalQuestions,
+      accuracy: newAccuracy,
     });
 
     // Update user streak and study time
-    const updatedUser = { ...user };
-    updatedUser.streak = updateStreak(user.lastStudyDate, user.streak);
-    updatedUser.longestStreak = Math.max(updatedUser.longestStreak, updatedUser.streak);
-    updatedUser.lastStudyDate = new Date();
-    updatedUser.totalStudyTime += currentSession.duration;
+    const streak = updateStreak(user.lastStudyDate, user.streak);
+    const updatedUser: UserProfile = {
+      ...user,
+      streak,
+      longestStreak: Math.max(user.longestStreak, streak),
+      lastStudyDate: new Date(),
+      totalStudyTime: user.totalStudyTime + completedSession.duration,
+    };
     storage.setUserProfile(updatedUser);
 
-    set({ currentSession: null, user: updatedUser });
+    set({ currentSession: null, user: updatedUser, comboCount: 0 });
     get().checkAndUnlockAchievements();
   },
 
@@ -209,6 +233,8 @@ export const useStore = create<AppStore>((set, get) => ({
     // Update user XP
     get().updateUserXP(totalXP);
 
+    storage.saveSessionProgress(currentSession);
+
     set({
       currentSession,
       progress: new Map(progress),
@@ -218,24 +244,26 @@ export const useStore = create<AppStore>((set, get) => ({
 
   updateUserXP: (xp: number) => {
     const { user } = get();
-    if (!user) return;
+    if (!user || xp <= 0) return;
 
-    user.xp += xp;
-    user.totalXP += xp;
+    const previousLevel = user.level;
+    const totalXP = user.totalXP + xp;
+    const { level, xpProgress, xpToNextLevel } = calculateLevel(totalXP);
 
-    // Check for level up
-    const { level, xpToNextLevel } = calculateLevel(user.totalXP);
-    if (level > user.level) {
-      user.level = level;
-      user.xp = 0;
+    const updatedUser: UserProfile = {
+      ...user,
+      level,
+      xp: xpProgress,
+      xpToNextLevel,
+      totalXP,
+    };
 
-      // Show level up notification
+    if (level > previousLevel) {
       toast.success(`Level Up! You reached Level ${level}!`, {
         icon: '🎉',
         duration: 4000,
       });
 
-      // Celebrate with confetti!
       confetti({
         particleCount: 100,
         spread: 70,
@@ -243,10 +271,9 @@ export const useStore = create<AppStore>((set, get) => ({
         colors: ['#667eea', '#764ba2', '#f093fb', '#4facfe'],
       });
     }
-    user.xpToNextLevel = xpToNextLevel;
 
-    storage.setUserProfile(user);
-    set({ user: { ...user } });
+    storage.setUserProfile(updatedUser);
+    set({ user: updatedUser });
   },
 
   checkAndUnlockAchievements: () => {
@@ -330,6 +357,24 @@ export const useStore = create<AppStore>((set, get) => ({
     }
   },
 
+  saveUserSettings: ({ name, preferences }) => {
+    const { user } = get();
+    if (!user) return;
+
+    const updatedUser: UserProfile = {
+      ...user,
+      ...(name !== undefined ? { name: name.trim() || user.name } : {}),
+      preferences: {
+        ...DEFAULT_PREFERENCES,
+        ...user.preferences,
+        ...preferences,
+      },
+    };
+
+    storage.setUserProfile(updatedUser);
+    set({ user: updatedUser });
+  },
+
   exportData: () => {
     return storage.exportAllData();
   },
@@ -344,6 +389,14 @@ export const useStore = create<AppStore>((set, get) => ({
 
   resetAllData: () => {
     storage.resetAllData();
+    set({
+      currentSession: null,
+      progress: new Map(),
+      dailyStats: [],
+      customDecks: [],
+      unlockedAchievements: [],
+      comboCount: 0,
+    });
     get().initializeApp();
   },
 }));

@@ -126,7 +126,7 @@
   {
     "id": "kj_n5_006",
     "character": "入",
-    "romaji": "いる",
+    "romaji": "iru",
     "type": "kanji",
     "meanings": [
       "Enter",
@@ -232,7 +232,7 @@
   {
     "id": "kj_n5_010",
     "character": "上",
-    "romaji": "うえ",
+    "romaji": "ue",
     "type": "kanji",
     "meanings": [
       "Above",
@@ -272,7 +272,7 @@
   {
     "id": "kj_n5_011",
     "character": "下",
-    "romaji": "した",
+    "romaji": "shita",
     "type": "kanji",
     "meanings": [
       "Below",
@@ -312,7 +312,7 @@
   {
     "id": "kj_n5_012",
     "character": "大",
-    "romaji": "おお",
+    "romaji": "oo",
     "type": "kanji",
     "meanings": [
       "Large",
@@ -338,7 +338,7 @@
   {
     "id": "kj_n5_013",
     "character": "女",
-    "romaji": "おんな",
+    "romaji": "onna",
     "type": "kanji",
     "meanings": [
       "Woman",
@@ -364,7 +364,7 @@
   {
     "id": "kj_n5_014",
     "character": "山",
-    "romaji": "yaま",
+    "romaji": "yama",
     "type": "kanji",
     "meanings": [
       "Mountain"
@@ -387,7 +387,7 @@
   {
     "id": "kj_n5_015",
     "character": "川",
-    "romaji": "かわ",
+    "romaji": "kawa",
     "type": "kanji",
     "meanings": [
       "Stream",
@@ -411,7 +411,7 @@
   {
     "id": "kj_n5_016",
     "character": "土",
-    "romaji": "つち",
+    "romaji": "tsuchi",
     "type": "kanji",
     "meanings": [
       "Soil",
@@ -437,7 +437,7 @@
   {
     "id": "kj_n5_017",
     "character": "千",
-    "romaji": "ち",
+    "romaji": "chi",
     "type": "kanji",
     "meanings": [
       "Thousand"
@@ -459,7 +459,7 @@
   {
     "id": "kj_n5_018",
     "character": "子",
-    "romaji": "こ",
+    "romaji": "ko",
     "type": "kanji",
     "meanings": [
       "Child",
@@ -488,7 +488,7 @@
   {
     "id": "kj_n5_019",
     "character": "小",
-    "romaji": "ちいさい",
+    "romaji": "chiisai",
     "type": "kanji",
     "meanings": [
       "Little",
@@ -514,7 +514,7 @@
   {
     "id": "kj_n5_036",
     "character": "万",
-    "romaji": "yoろず",
+    "romaji": "yorozu",
     "type": "kanji",
     "meanings": [
       "Ten Thousand",
@@ -539,7 +539,7 @@
   {
     "id": "kj_n5_020",
     "character": "中",
-    "romaji": "なか",
+    "romaji": "naka",
     "type": "kanji",
     "meanings": [
       "In",
@@ -617,7 +617,7 @@
   {
     "id": "kj_n5_023",
     "character": "円",
-    "romaji": "まるい",
+    "romaji": "marui",
     "type": "kanji",
     "meanings": [
       "Circle",
@@ -646,7 +646,7 @@
   {
     "id": "kj_n5_024",
     "character": "天",
-    "romaji": "あまつ",
+    "romaji": "amatsu",
     "type": "kanji",
     "meanings": [
       "Heavens",
@@ -672,7 +672,7 @@
   {
     "id": "kj_n5_025",
     "character": "日",
-    "romaji": "ひ",
+    "romaji": "hi",
     "type": "kanji",
     "meanings": [
       "Day",
@@ -700,7 +700,7 @@
   {
     "id": "kj_n5_026",
     "character": "月",
-    "romaji": "つき",
+    "romaji": "tsuki",
     "type": "kanji",
     "meanings": [
       "Month",
@@ -724,7 +724,7 @@
   {
     "id": "kj_n5_027",
     "character": "木",
-    "romaji": "き",
+    "romaji": "ki",
     "type": "kanji",
     "meanings": [
       "Tree",
@@ -749,7 +749,7 @@
   {
     "id": "kj_n5_028",
     "character": "水",
-    "romaji": "miず",
+    "romaji": "mizu",
     "type": "kanji",
     "meanings": [
       "Water"
@@ -772,7 +772,7 @@
   {
     "id": "kj_n5_029",
     "character": "火",
-    "romaji": "ひ",
+    "romaji": "hi",
     "type": "kanji",
     "meanings": [
       "Fire"
@@ -796,7 +796,7 @@
   {
     "id": "kj_n5_037",
     "character": "今",
-    "romaji": "いま",
+    "romaji": "ima",
     "type": "kanji",
     "meanings": [
       "Now"
@@ -819,7 +819,7 @@
   {
     "id": "kj_n5_038",
     "character": "午",
-    "romaji": "うま",
+    "romaji": "uma",
     "type": "kanji",
     "meanings": [
       "Noon",
@@ -845,7 +845,7 @@
   {
     "id": "kj_n5_039",
     "character": "友",
-    "romaji": "とも",
+    "romaji": "tomo",
     "type": "kanji",
     "meanings": [
       "Friend"
@@ -868,7 +868,7 @@
   {
     "id": "kj_n5_040",
     "character": "父",
-    "romaji": "ちち",
+    "romaji": "chichi",
     "type": "kanji",
     "meanings": [
       "Father"
@@ -890,7 +890,7 @@
   {
     "id": "kj_n5_030",
     "character": "出",
-    "romaji": "でる",
+    "romaji": "deru",
     "type": "kanji",
     "meanings": [
       "Exit",
@@ -923,7 +923,7 @@
   {
     "id": "kj_n5_031",
     "character": "右",
-    "romaji": "miぎ",
+    "romaji": "migi",
     "type": "kanji",
     "meanings": [
       "Right"
@@ -973,7 +973,7 @@
   {
     "id": "kj_n5_033",
     "character": "左",
-    "romaji": "ひだり",
+    "romaji": "hidari",
     "type": "kanji",
     "meanings": [
       "Left"
@@ -997,7 +997,7 @@
   {
     "id": "kj_n5_034",
     "character": "本",
-    "romaji": "もと",
+    "romaji": "moto",
     "type": "kanji",
     "meanings": [
       "Book",
@@ -1025,7 +1025,7 @@
   {
     "id": "kj_n5_035",
     "character": "白",
-    "romaji": "しろ",
+    "romaji": "shiro",
     "type": "kanji",
     "meanings": [
       "White"
@@ -1050,7 +1050,7 @@
   {
     "id": "kj_n5_041",
     "character": "北",
-    "romaji": "きた",
+    "romaji": "kita",
     "type": "kanji",
     "meanings": [
       "North"
@@ -1073,7 +1073,7 @@
   {
     "id": "kj_n5_042",
     "character": "半",
-    "romaji": "なかば",
+    "romaji": "nakaba",
     "type": "kanji",
     "meanings": [
       "Half",
@@ -1100,7 +1100,7 @@
   {
     "id": "kj_n5_043",
     "character": "外",
-    "romaji": "そと",
+    "romaji": "soto",
     "type": "kanji",
     "meanings": [
       "Outside"
@@ -1128,7 +1128,7 @@
   {
     "id": "kj_n5_044",
     "character": "母",
-    "romaji": "はは",
+    "romaji": "haha",
     "type": "kanji",
     "meanings": [
       "Mother"
@@ -1152,7 +1152,7 @@
   {
     "id": "kj_n5_078",
     "character": "生",
-    "romaji": "いきる",
+    "romaji": "ikiru",
     "type": "kanji",
     "meanings": [
       "Life",
@@ -1194,7 +1194,7 @@
   {
     "id": "kj_n5_045",
     "character": "休",
-    "romaji": "yaすmu",
+    "romaji": "yasumu",
     "type": "kanji",
     "meanings": [
       "Rest",
@@ -1222,7 +1222,7 @@
   {
     "id": "kj_n5_046",
     "character": "先",
-    "romaji": "さき",
+    "romaji": "saki",
     "type": "kanji",
     "meanings": [
       "Before",
@@ -1251,7 +1251,7 @@
   {
     "id": "kj_n5_047",
     "character": "名",
-    "romaji": "な",
+    "romaji": "na",
     "type": "kanji",
     "meanings": [
       "Name",
@@ -1279,7 +1279,7 @@
   {
     "id": "kj_n5_048",
     "character": "年",
-    "romaji": "とし",
+    "romaji": "toshi",
     "type": "kanji",
     "meanings": [
       "Year",
@@ -1303,7 +1303,7 @@
   {
     "id": "kj_n5_049",
     "character": "気",
-    "romaji": "いき",
+    "romaji": "iki",
     "type": "kanji",
     "meanings": [
       "Spirit",
@@ -1331,7 +1331,7 @@
   {
     "id": "kj_n5_050",
     "character": "百",
-    "romaji": "もも",
+    "romaji": "momo",
     "type": "kanji",
     "meanings": [
       "Hundred"
@@ -1355,7 +1355,7 @@
   {
     "id": "kj_n5_054",
     "character": "毎",
-    "romaji": "ごと",
+    "romaji": "goto",
     "type": "kanji",
     "meanings": [
       "Every"
@@ -1379,7 +1379,7 @@
   {
     "id": "kj_n5_055",
     "character": "行",
-    "romaji": "いく",
+    "romaji": "iku",
     "type": "kanji",
     "meanings": [
       "Going",
@@ -1417,7 +1417,7 @@
   {
     "id": "kj_n5_056",
     "character": "西",
-    "romaji": "にし",
+    "romaji": "nishi",
     "type": "kanji",
     "meanings": [
       "West",
@@ -1442,7 +1442,7 @@
   {
     "id": "kj_n5_051",
     "character": "男",
-    "romaji": "おとこ",
+    "romaji": "otoko",
     "type": "kanji",
     "meanings": [
       "Male"
@@ -1467,7 +1467,7 @@
   {
     "id": "kj_n5_052",
     "character": "見",
-    "romaji": "miる",
+    "romaji": "miru",
     "type": "kanji",
     "meanings": [
       "See",
@@ -1497,7 +1497,7 @@
   {
     "id": "kj_n5_053",
     "character": "車",
-    "romaji": "くるま",
+    "romaji": "kuruma",
     "type": "kanji",
     "meanings": [
       "Car"
@@ -1519,7 +1519,7 @@
   {
     "id": "kj_n5_057",
     "character": "何",
-    "romaji": "なに",
+    "romaji": "nani",
     "type": "kanji",
     "meanings": [
       "What"
@@ -1545,7 +1545,7 @@
   {
     "id": "kj_n5_058",
     "character": "来",
-    "romaji": "くる",
+    "romaji": "kuru",
     "type": "kanji",
     "meanings": [
       "Come",
@@ -1579,7 +1579,7 @@
   {
     "id": "kj_n5_059",
     "character": "学",
-    "romaji": "まなぶ",
+    "romaji": "manabu",
     "type": "kanji",
     "meanings": [
       "Study",
@@ -1604,7 +1604,7 @@
   {
     "id": "kj_n5_060",
     "character": "金",
-    "romaji": "かね",
+    "romaji": "kane",
     "type": "kanji",
     "meanings": [
       "Gold"
@@ -1630,7 +1630,7 @@
   {
     "id": "kj_n5_061",
     "character": "雨",
-    "romaji": "あめ",
+    "romaji": "ame",
     "type": "kanji",
     "meanings": [
       "Rain"
@@ -1654,7 +1654,7 @@
   {
     "id": "kj_n5_062",
     "character": "国",
-    "romaji": "くに",
+    "romaji": "kuni",
     "type": "kanji",
     "meanings": [
       "Country"
@@ -1678,7 +1678,7 @@
   {
     "id": "kj_n5_063",
     "character": "東",
-    "romaji": "ひがし",
+    "romaji": "higashi",
     "type": "kanji",
     "meanings": [
       "East"
@@ -1701,7 +1701,7 @@
   {
     "id": "kj_n5_064",
     "character": "長",
-    "romaji": "ながい",
+    "romaji": "nagai",
     "type": "kanji",
     "meanings": [
       "Long",
@@ -1727,7 +1727,7 @@
   {
     "id": "kj_n5_065",
     "character": "前",
-    "romaji": "まえ",
+    "romaji": "mae",
     "type": "kanji",
     "meanings": [
       "In Front",
@@ -1754,7 +1754,7 @@
   {
     "id": "kj_n5_066",
     "character": "南",
-    "romaji": "miなmi",
+    "romaji": "minami",
     "type": "kanji",
     "meanings": [
       "South"
@@ -1780,7 +1780,7 @@
   {
     "id": "kj_n5_067",
     "character": "後",
-    "romaji": "のち",
+    "romaji": "nochi",
     "type": "kanji",
     "meanings": [
       "Behind",
@@ -1811,7 +1811,7 @@
   {
     "id": "kj_n5_068",
     "character": "食",
-    "romaji": "くう",
+    "romaji": "kuu",
     "type": "kanji",
     "meanings": [
       "Eat",
@@ -1838,7 +1838,7 @@
   {
     "id": "kj_n5_069",
     "character": "校",
-    "romaji": "こう",
+    "romaji": "kou",
     "type": "kanji",
     "meanings": [
       "Exam",
@@ -1865,7 +1865,7 @@
   {
     "id": "kj_n5_070",
     "character": "時",
-    "romaji": "とき",
+    "romaji": "toki",
     "type": "kanji",
     "meanings": [
       "Time",
@@ -1890,7 +1890,7 @@
   {
     "id": "kj_n5_071",
     "character": "高",
-    "romaji": "たかい",
+    "romaji": "takai",
     "type": "kanji",
     "meanings": [
       "Tall",
@@ -1920,7 +1920,7 @@
   {
     "id": "kj_n5_079",
     "character": "書",
-    "romaji": "かく",
+    "romaji": "kaku",
     "type": "kanji",
     "meanings": [
       "Write"
@@ -1945,7 +1945,7 @@
   {
     "id": "kj_n5_072",
     "character": "間",
-    "romaji": "あいだ",
+    "romaji": "aida",
     "type": "kanji",
     "meanings": [
       "Interval",
@@ -1972,7 +1972,7 @@
   {
     "id": "kj_n5_073",
     "character": "話",
-    "romaji": "はなす",
+    "romaji": "hanasu",
     "type": "kanji",
     "meanings": [
       "Tale",
@@ -1997,7 +1997,7 @@
   {
     "id": "kj_n5_074",
     "character": "電",
-    "romaji": "でん",
+    "romaji": "den",
     "type": "kanji",
     "meanings": [
       "Electricity"
@@ -2019,7 +2019,7 @@
   {
     "id": "kj_n5_075",
     "character": "聞",
-    "romaji": "きく",
+    "romaji": "kiku",
     "type": "kanji",
     "meanings": [
       "Hear",
@@ -2046,7 +2046,7 @@
   {
     "id": "kj_n5_076",
     "character": "語",
-    "romaji": "かたる",
+    "romaji": "kataru",
     "type": "kanji",
     "meanings": [
       "Word",
