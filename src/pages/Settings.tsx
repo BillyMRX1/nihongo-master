@@ -2,10 +2,9 @@ import { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { Download, Upload, Trash2, User, Palette, Settings as SettingsIcon, Save, Check } from 'lucide-react';
 import { useStore } from '../store/useStore';
-import * as storage from '../services/localStorage';
 
 const Settings = () => {
-  const { user, exportData, importData, resetAllData } = useStore();
+  const { user, exportData, importData, resetAllData, saveUserSettings } = useStore();
   const [showResetConfirm, setShowResetConfirm] = useState(false);
   const [userName, setUserName] = useState(user?.name || '');
   const [dailyGoal, setDailyGoal] = useState(user?.preferences.dailyGoal || 100);
@@ -71,18 +70,14 @@ const Settings = () => {
   const handleSaveSettings = () => {
     if (!user) return;
 
-    const updatedUser = {
-      ...user,
+    saveUserSettings({
       name: userName,
       preferences: {
-        ...user.preferences,
         dailyGoal,
         showStrokeOrder,
         showMnemonics,
       },
-    };
-
-    storage.setUserProfile(updatedUser);
+    });
     setSaved(true);
     setTimeout(() => setSaved(false), 2000);
   };

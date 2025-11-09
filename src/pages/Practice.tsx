@@ -27,6 +27,11 @@ const Practice = () => {
   const [questionStartTime, setQuestionStartTime] = useState(Date.now());
   const [questionIndex, setQuestionIndex] = useState(0);
   const [options, setOptions] = useState<string[]>([]);
+  const answeredCount = currentSession?.questionsAnswered ?? 0;
+
+  useEffect(() => {
+    setQuestionIndex(answeredCount);
+  }, [answeredCount]);
 
   useEffect(() => {
     const state = location.state as any;

@@ -1,4 +1,21 @@
-import type { UserProfile, CharacterProgress, StudySession, DailyStats, CustomDeck } from '../types';
+import type {
+  UserProfile,
+  CharacterProgress,
+  StudySession,
+  DailyStats,
+  CustomDeck,
+  UserPreferences,
+} from '../types';
+
+export const DEFAULT_PREFERENCES: UserPreferences = {
+  theme: 'auto',
+  dailyGoal: 100,
+  showStrokeOrder: true,
+  showMnemonics: true,
+  enableSounds: true,
+  fontSize: 'medium',
+  animationSpeed: 'normal',
+};
 
 const STORAGE_KEYS = {
   USER_PROFILE: 'nihongo_user_profile',
@@ -60,15 +77,7 @@ export const createDefaultProfile = (): UserProfile => {
     lastStudyDate: null,
     totalStudyTime: 0,
     achievements: [],
-    preferences: {
-      theme: 'auto',
-      dailyGoal: 100,
-      showStrokeOrder: true,
-      showMnemonics: true,
-      enableSounds: true,
-      fontSize: 'medium',
-      animationSpeed: 'normal',
-    },
+    preferences: { ...DEFAULT_PREFERENCES },
   };
   setUserProfile(profile);
   return profile;
@@ -129,15 +138,31 @@ export const getCurrentSession = (): StudySession | null => {
   return sessions.find(s => s.endTime === null) || null;
 };
 
-export const endSession = (sessionId: string, xpEarned: number): void => {
+export const saveSessionProgress = (session: StudySession): void => {
   const sessions = getStudySessions();
-  const session = sessions.find(s => s.id === sessionId);
-  if (session) {
-    session.endTime = new Date();
-    session.duration = Math.floor((session.endTime.getTime() - new Date(session.startTime).getTime()) / 60000);
-    session.xpEarned = xpEarned;
+  const index = sessions.findIndex(s => s.id === session.id);
+  if (index >= 0) {
+    sessions[index] = {
+      ...sessions[index],
+      ...session,
+    };
     setItem(STORAGE_KEYS.STUDY_SESSIONS, sessions);
   }
+};
+
+export const finalizeSession = (session: StudySession): StudySession => {
+  const endTime = new Date();
+  const duration = Math.max(
+    1,
+    Math.round((endTime.getTime() - new Date(session.startTime).getTime()) / 60000)
+  );
+  const completedSession: StudySession = {
+    ...session,
+    endTime,
+    duration,
+  };
+  saveSessionProgress(completedSession);
+  return completedSession;
 };
 
 // Daily Stats
