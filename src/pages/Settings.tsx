@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { Download, Upload, Trash2, User, Palette, Settings as SettingsIcon, Save, Check } from 'lucide-react';
 import { useStore } from '../store/useStore';
+import { APP_VERSION } from '../version';
 
 const Settings = () => {
   const { user, exportData, importData, resetAllData, saveUserSettings } = useStore();
@@ -311,7 +312,7 @@ const Settings = () => {
       >
         <h2 className="text-2xl font-bold text-gradient mb-2">日本語マスター</h2>
         <p className="text-sm text-slate-600 dark:text-slate-400 mb-4">
-          Version 1.0.0
+          Version {APP_VERSION}
         </p>
         <p className="text-xs text-slate-500 dark:text-slate-500">
           Learn Japanese with spaced repetition, gamification, and progress tracking.
