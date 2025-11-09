@@ -42,10 +42,12 @@ const Layout = () => {
           <motion.div
             initial={{ scale: 0.9, opacity: 0 }}
             animate={{ scale: 1, opacity: 1 }}
-            className="text-center"
+            className="flex flex-col items-center gap-3"
           >
-            <h1 className="text-3xl font-bold text-gradient">日本語マスター</h1>
-            <p className="text-sm text-slate-600 dark:text-slate-400 mt-1">Nihongo Master</p>
+            <NavLink to="/" className="text-center space-y-1">
+              <h1 className="text-3xl font-bold text-gradient">日本語マスター</h1>
+              <p className="text-sm text-slate-600 dark:text-slate-400">Nihongo Master</p>
+            </NavLink>
           </motion.div>
         </div>
 
@@ -129,7 +131,10 @@ const Layout = () => {
       <main className="flex-1 flex flex-col">
         <header className="lg:hidden glass border-b border-slate-200 dark:border-slate-700 p-4">
           <div className="flex items-center justify-between">
-            <h1 className="text-xl font-bold text-gradient">日本語</h1>
+            <NavLink to="/" className="flex flex-col leading-tight">
+              <span className="text-lg font-bold text-gradient">日本語マスター</span>
+              <span className="text-xs text-slate-500 dark:text-slate-400">Nihongo Master</span>
+            </NavLink>
             <div className="flex items-center gap-2">
               <div className="flex items-center gap-1 text-sm">
                 <Flame className="w-4 h-4 text-orange-500" />
